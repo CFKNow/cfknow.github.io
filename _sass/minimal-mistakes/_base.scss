@@ -27,7 +27,7 @@ h3,
 h4,
 h5,
 h6 {
-  margin: 2em 0 0.5em;
+  margin: 1.3em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
@@ -154,6 +154,8 @@ kbd,
 samp,
 pre {
   font-family: $monospace;
+  font-size: 0.8em;
+  line-height: 120%;
 }
 
 pre {
