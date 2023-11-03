@@ -4,4 +4,3 @@ title: "Get"
 layout: fullwidth
 ---
 
-TBD
