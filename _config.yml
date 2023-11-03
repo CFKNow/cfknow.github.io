@@ -281,3 +281,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
