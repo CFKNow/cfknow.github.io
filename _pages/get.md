@@ -1,6 +1,7 @@
 ---
 permalink: /get/
 title: "Get"
-layout: fullwidth
+layout: single1col
 ---
 
+PIPPO
