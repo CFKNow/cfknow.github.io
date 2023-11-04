@@ -45,9 +45,9 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        <div style="margin-right: 10px; width: calc(100% - 150px - 10px);">
+        {% if page.toc %}<div style="margin-right: 10px; width: calc(100% - 150px - 10px);">{% endif %}
           {{ content }}
-        </div>
+          {% if page.toc %}</div>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
