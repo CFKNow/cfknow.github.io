@@ -11,11 +11,11 @@ share: true
 
 
 <style>
-	.my-class  {
+	.styled-table-am  {
 		overflow: auto;
 		width: 100%;
 	}
-	.my-class table {
+	.styled-table-am table {
 		border: 3px solid #F21368;
 		height: 100%;
 		width: 100%;
@@ -24,20 +24,20 @@ share: true
 		border-spacing: 2px;
 		text-align: left;
 	}
-	.my-class th {
+	.styled-table-am th {
 		border: 3px solid #F21368;
 		background-color: #000000;
 		color: #FFFFFF;
 		padding: 5px;
 	}
-	.my-class td {
+	.styled-table-am td {
 		border: 3px solid #F21368;
 		background-color: #000000;
 		color: #FFFFFF;
 		padding: 5px;
 	}
 </style>
-<div class="my-class" role="region" tabindex="0">
+<div class="styled-table-am" role="region" tabindex="0">
 <table>
 	<thead>
 	<tr>
@@ -58,7 +58,7 @@ share: true
 	<tr>
 		<td>Pattern Recognition and Machine Learning</td>
 		<td>Book</td>
-		<td>Algorithms / Machinelearning / Statistics</td>
+		<td>Algorithms / Machine learning / Statistics</td>
 		<td>Bishop, Christopher M.</td>
 		<td>English</td>
 		<td>Undergraduates / Practictioners</td>
@@ -111,8 +111,6 @@ share: true
 </table>
 </div>
 
-Bla bla bla
-
 ## Programming
 
 # Mathematics
@@ -122,3 +120,5 @@ Bla bla bla
 ## Calculus
 
 ## Probability and statistics
+
+
