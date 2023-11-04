@@ -37,28 +37,17 @@ layout: default
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
-        <style>
-          @media (min-width: 1024px) {
-            .adhoc-width-toc {
-              width: 180px;
-            }
-            .adhoc-width-content {
-              width: calc(100% - 180px - 10px);
-              margin-right: 10px;
-            }
-          }
-        </style>
         {% if page.toc %}
-          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %} adhoc-width-toc">
+          <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}" style="width: 150px">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>
               {% include toc.html sanitize=true html=content h_min=1 h_max=6 class="toc__menu" skip_no_ids=true %}
             </nav>
           </aside>
         {% endif %}
-        <div class="adhoc-width-content">
+        {% if page.toc %}<div style="margin-right: 10px; width: calc(100% - 150px - 10px);">{% endif %}
           {{ content }}
-        </div>
+          {% if page.toc %}</div>{% endif %}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
