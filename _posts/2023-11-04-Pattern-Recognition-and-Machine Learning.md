@@ -1,5 +1,5 @@
 ---
-title: "Pattern Recognition and Machine Learning"
+title: "Review of _Pattern Recognition and Machine Learning_"
 date: 2023-11-04T23:23:23+01:00
 toc: false
 categories:
@@ -9,8 +9,6 @@ tags:
   - "review"
   - "book"
 ---
-
-# Review of _Pattern Recognition and Machine Learning_
 
 <style>
 .styled-table-am {overflow: auto;width: 100%;}
@@ -68,6 +66,7 @@ tags:
 		<tbody>
 	</table>
 </div>
+
 
 From the book site:
 >This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective. It is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics. This hard cover book has 738 pages in full colour, and there are 431 graded exercises (with solutions available below). Extensive support is provided for course instructors.
