@@ -62,7 +62,7 @@ toc: true
 		<td>English</td>
 		<td>Undergraduates / Practictioners</td>
 		<td></td>
-		<td>&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"&gt;PDF&lt;/a&gt;<br>&lt;a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/"&gt;Site&lt;/a&gt;</td>
+		<td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/">Site</a></td>
 		<td></td>
 		<td>02/11/2023</td>
 		<td></td>
