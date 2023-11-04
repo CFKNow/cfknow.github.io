@@ -1,5 +1,5 @@
 ---
-title: "Review of _Pattern Recognition and Machine Learning_"
+title: "Review of 'Pattern Recognition and Machine Learning'"
 date: 2023-11-04T23:23:23+01:00
 toc: false
 categories:
@@ -63,7 +63,7 @@ tags:
 		<tr>
 			<td>Last checked</td><td contenteditable="true" style="padding: 5px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); border-width: 3px; border-style: solid; border-color: rgb(242, 19, 104);" spellcheck="true">02/11/2023</td>
 		</tr>
-		<tbody>
+		</tbody>
 	</table>
 </div>
 
