@@ -49,6 +49,7 @@ toc: true
 		<th>URL</th>
 		<th>Related URLs</th>
 		<th>Last checked</th>
+		<th>License</th>
 	</tr>
 	</thead>
 	<tbody>
@@ -63,17 +64,6 @@ toc: true
 		<td></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -87,8 +77,23 @@ toc: true
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -102,6 +107,7 @@ toc: true
 	</tr>
 	</tbody>
 </table>
+
 
 ## Programming
 
