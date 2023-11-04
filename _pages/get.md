@@ -8,6 +8,7 @@ toc: true
 # Machine learning
 ## Theory
 
+<div>
 <style>
 	.my-class  {
 		overflow: auto;
@@ -107,6 +108,8 @@ toc: true
 	</tr>
 	</tbody>
 </table>
+</div>
+
 
 
 ## Programming
