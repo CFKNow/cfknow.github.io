@@ -6,8 +6,9 @@ categories:
   - blog
 tags:
   - "machine learning"
-  - "review"
-  - "book"
+  - review
+  - book
+  - theory
 ---
 
 <style>
@@ -51,7 +52,7 @@ tags:
 		</tr>
 		<tr>
 			<td>URLs<br></td>
-			<td>&lt;a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf"&gt;PDF&lt;/a&gt;&lt;br&gt;&lt;a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/"&gt;Site&lt;/a&gt;</td>
+			<td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank">Site</a></td>
 		</tr>
 		<tr>
 			<td>Related URLs</td><td contenteditable="true" style="padding: 5px; background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); border-width: 3px; border-style: solid; border-color: rgb(242, 19, 104);" spellcheck="false"></td>
@@ -66,7 +67,6 @@ tags:
 		</tbody>
 	</table>
 </div>
-
 
 From the book site:
 >This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective. It is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics. This hard cover book has 738 pages in full colour, and there are 431 graded exercises (with solutions available below). Extensive support is provided for course instructors.

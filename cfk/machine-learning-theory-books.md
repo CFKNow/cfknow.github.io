@@ -10,10 +10,6 @@ sidebar:
   nav: "get"
 ---
 
-# Machine learning
-## Theory
-
-
 <style>
 	.styled-table-am  {
 		overflow: auto;
@@ -67,7 +63,7 @@ sidebar:
 		<td>English</td>
 		<td>Undergraduates / Practictioners</td>
 		<td></td>
-		<td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/">Site</a></td>
+		<td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank">Site</a></td>
 		<td></td>
 		<td>02/11/2023</td>
 		<td></td>
@@ -115,14 +111,6 @@ sidebar:
 </table>
 </div>
 
-## Programming
 
-# Mathematics
-
-## Algebra
-
-## Calculus
-
-## Probability and statistics
 
 
