@@ -11,22 +11,29 @@ tags:
 ---
 
 <style>
-.styled-table-am {overflow: auto;width: 100%;}
+.styled-table-am {
+    overflow: auto;
+    width: 100%;
+    display: flex;  /* Make this a flex container */
+}
+
 .styled-table-am table {
     border: 3px solid #F21368;
-    height: 100%;
-    width: 100%;
     border-collapse: collapse;
     border-spacing: 2px;
     text-align: left;
+    margin: 0 auto;  /* Center the table */
+    flex-grow: 1;  /* Allow the table to grow and fill the remaining space */
 }
+
 .styled-table-am th:first-child, .styled-table-am td:first-child {
-    width: 200px; /* or whatever fixed width you want */
+    width: 200px;  /* Fixed width for the first column */
     border: 3px solid #F21368;
     background-color: #000000;
     color: #FFFFFF;
     padding: 5px;
 }
+
 .styled-table-am th:nth-child(2), .styled-table-am td:nth-child(2) {
     border: 3px solid #F21368;
     background-color: #000000;
@@ -34,6 +41,7 @@ tags:
     padding: 5px;
 }
 </style>
+
 <div class="styled-table-am" role="region" tabindex="0">
 	<table>
 		<thead>
