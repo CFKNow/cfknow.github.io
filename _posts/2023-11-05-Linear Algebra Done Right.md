@@ -5,7 +5,8 @@ toc: false
 categories:
   - review
 tags:
-  - "machine learning"
+  - mathematics
+  - algebra
   - book
   - theory
 ---
