@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 share: true
 sidebar:
-  - title: "Title"
+  - title: "Topics"
     image: http://placehold.it/350x250
     image_alt: "image"
     text: "Some text here."
