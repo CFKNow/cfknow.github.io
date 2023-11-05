@@ -12,7 +12,7 @@ tags:
 ---
 
 <style>
-.styled-table-am {overflow: auto;width: 100%;}
+.styled-table-am {overflow: auto;width: 100%;box-sizing: border-box;}
 .styled-table-am table {border: 3px solid #F21368;height: 100%;width: 100%;table-layout: fixed;border-collapse: collapse;border-spacing: 2px;text-align: left;}
 .styled-table-am th {border: 3px solid #F21368;background-color: #000000;color: #FFFFFF;padding: 5px;}
 .styled-table-am td {border: 3px solid #F21368;background-color: #000000;color: #FFFFFF;padding: 5px;}
@@ -40,7 +40,7 @@ tags:
 		</tr>
 		<tr>
 			<td>Media info</td>
-			<td>Type: Book / Format: PDF</td>
+			<td>Year: 2006/ Type: Book / Format: PDF</td>
 		</tr>
 		<tr>
 			<td>Audience</td>
