@@ -275,6 +275,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      mathjax: true
   # _pages
   - scope:
       path: "_pages"
@@ -283,6 +284,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      mathjax: true
   # _foo
   - scope:
       path: ""
