@@ -24,5 +24,11 @@ get:
         url: /get/machine-learning-programming-books/
       - title: "Books on applications"
         url: /get/machine-learning-applications-books/
+  - title: Mathematics
+    children:
+      - title: "Books on algebra"
+        url: /get/mathematics-algebra-books/
+      - title: "Books on probability and statistics"
+        url: /get/mathematics-probability_statistics-books/        
 
 
