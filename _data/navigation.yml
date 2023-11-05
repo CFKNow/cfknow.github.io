@@ -10,6 +10,21 @@ main:
     url: /tags/
   - title: "About"
     url: /about/
+
+cfk:
+  - title: How to contribute
+    children:
+      - title: "Quick start guide"
+        url: /cfk/quick-start-guide/
+      - title: "Github"
+        url: /cfk/github/
+  - title: Machine learning
+    children:
+      - title: "Books on theory"
+        url: /cfk/machine-learning-theory-books/
+      - title: "Books on programming"
+        url: /cfk/machine-learning-programming-books/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
