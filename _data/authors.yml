@@ -1,1 +1,15 @@
-
+  name             : "Antonio Montano"
+  avatar           : /assets/images/am.png
+  bio              : "Digital transformer 🪄"
+  location         : "Italy"
+  email            : 
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/montano/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/AntoMon"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/antomon"
