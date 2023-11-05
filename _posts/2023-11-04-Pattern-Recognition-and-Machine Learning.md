@@ -99,7 +99,7 @@ The book covers a variety of algorithms and key concepts in the field of machine
 6. Variational inference
 7. Hidden Markov models.
 
-Additionally, the book presents a Bayesian perspective, which has become popular in the field of machine learning in recent years. The book also explains approximate inference algorithms that allow for quick responses in situations where exact ones are not feasible.
+Additionally, the book presents a Bayesian perspective, which has become popular in the field of machine learning in recent years. The book also explains approximate inference algorithms that allow for quick responses in situations where exact ones are not feasible. Exercises are graded according to difficulty ranging from (★), which denotes a simple exercise taking a few minutes to complete, through to (★★★), which denotes a significantly more complex exercise.
 
 It's also important to highlight what's missing and, principally, it concerns everything that falls under the umbrella of deep learning, which uses neural networks with multiple layers of processing to extract higher-level features from raw data. Some of the most important algorithms and architectures in this field include:
 
@@ -137,7 +137,7 @@ Il libro copre una varietà di algoritmi e concetti chiave nel campo dell'appren
 6. Inferenza variazionale
 7. Modelli di Markov nascosti.
 
-Inoltre, il libro presenta una prospettiva bayesiana, che è diventata popolare nel campo dell'apprendimento automatico negli ultimi anni. Il libro spiega anche algoritmi di inferenza approssimata che permettono risposte rapide in situazioni in cui quelle esatte non sono fattibili.
+Inoltre, il libro presenta una prospettiva bayesiana, che è diventata popolare nel campo dell'apprendimento automatico negli ultimi anni. Il libro spiega anche algoritmi di inferenza approssimata che permettono risposte rapide in situazioni in cui quelle esatte non sono fattibili. Gli esercizi sono classificati secondo la difficoltà partendo da (★), che denota un esercizio semplice che richiede pochi minuti per essere completato, fino a (★★★), che indica un esercizio significativamente più complesso.
 
 È importante sottolineare anche cosa manca e, principalmente, si tratta di tutto ciò che rientra nel novero dell'apprendimento profondo, che utilizza reti neurali con molteplici livelli di elaborazione per estrarre caratteristiche di livello superiore dai dati grezzi. Alcuni degli algoritmi e delle architetture più importanti in questo campo includono:
 
