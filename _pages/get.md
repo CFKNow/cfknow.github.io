@@ -6,12 +6,7 @@ toc: true
 toc_sticky: true
 share: true
 sidebar:
-  - title: "Topics"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
+  nav: "cfk"
 ---
 
 # Machine learning
