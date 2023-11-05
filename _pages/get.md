@@ -3,7 +3,7 @@ permalink: /get/
 title: "Get"
 layout: single1col
 toc: true
-toc_sticky: true
+toc_sticky: false
 share: true
 ---
 
