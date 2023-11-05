@@ -1,6 +1,6 @@
 ---
-permalink: /get/machine-learning-theory-books/
-title: "Machine learning theory books"
+permalink: /get/machine-learning-applications-books/
+title: "Machine learning applications books"
 layout: single
 toc: false
 author_profile: false
@@ -56,16 +56,15 @@ sidebar:
 	</thead>
 	<tbody>
 	<tr>
-		<td>Pattern Recognition and Machine Learning</td>
-		<td>Book</td>
-		<td>Algorithms / Machine learning / Statistics</td>
-		<td>Bishop, Christopher M.</td>
-		<td>English</td>
-		<td>Undergraduates / Practictioners</td>
-		<td><a href="https://cfknow.github.io/review/Pattern-Recognition-and-Machine-Learning/" target="_blank">Antonio Montano - 04/11/2023</a></td>
-		<td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank">Site</a></td>
 		<td></td>
-		<td>02/11/2023</td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>

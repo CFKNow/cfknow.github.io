@@ -15,7 +15,7 @@ get:
   - title: How to contribute
     children:
       - title: "Quick start guide"
-        url: /get/quick-start-guide/
+        url: /get/how-to-contribute-quick-start-guide/
   - title: Machine learning
     children:
       - title: "Books on theory"
