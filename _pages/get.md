@@ -4,10 +4,10 @@ title: "Get"
 layout: single
 author_profile: false
 toc: true
-toc_sticky: false
+toc_sticky: trur
 share: true
 sidebar:
-  nav: "cfk"
+  nav: "get"
 ---
 
 # Machine learning

@@ -11,7 +11,7 @@ main:
   - title: "About"
     url: /about/
 
-cfk:
+get:
   - title: How to contribute
     children:
       - title: "Quick start guide"
