@@ -87,6 +87,7 @@ tags:
 </div>
 
 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/coverLADR4e.png" alt="Linear Algebra Done Right cover" style="height:200px;">
 
 
 1. Vector Spaces
