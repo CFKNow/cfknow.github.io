@@ -3,8 +3,8 @@ permalink: /get/
 title: "Get"
 layout: single
 author_profile: false
-toc: true
-toc_sticky: trur
+toc: false
+toc_sticky: false
 share: true
 sidebar:
   nav: "get"

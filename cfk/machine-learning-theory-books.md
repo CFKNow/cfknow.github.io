@@ -1,7 +1,7 @@
 ---
 permalink: /get/machine-learning-theory-books/
 title: "Machine learning theory books"
-layout: single1col
+layout: single
 toc: false
 author_profile: false
 share: true
