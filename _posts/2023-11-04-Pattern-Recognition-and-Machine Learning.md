@@ -11,12 +11,13 @@ tags:
 ---
 
 <style>
-.styled-table-am {overflow: auto; width: auto;}  /* Set width to auto */
+.styled-table-am {overflow: auto; width: 100%;}
 .styled-table-am table {
     border: 3px solid #F21368;
     border-collapse: collapse;
     border-spacing: 2px;
     text-align: left;
+    width: 100%;
 }
 .styled-table-am th, .styled-table-am td {
     border: 3px solid #F21368;
@@ -27,6 +28,10 @@ tags:
 .styled-table-am th:first-child, .styled-table-am td:first-child {
     width: 200px;  /* Fixed width for the first column */
 }
+.styled-table-am th:nth-child(2), .styled-table-am td:nth-child(2) {
+    width: 100%;  /* Set a large width for the second column */
+}
+</style>
 </style>
 <div class="styled-table-am" role="region" tabindex="0">
 	<table>
