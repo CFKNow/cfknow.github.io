@@ -11,10 +11,28 @@ tags:
 ---
 
 <style>
-.styled-table-am {overflow: auto;width: 100%;box-sizing: border-box;}
-.styled-table-am table {border: 3px solid #F21368;height: 100%;width: 100%;table-layout: fixed;border-collapse: collapse;border-spacing: 2px;text-align: left;box-sizing: border-box;}
-.styled-table-am th {border: 3px solid #F21368;background-color: #000000;color: #FFFFFF;padding: 5px;box-sizing: border-box;}
-.styled-table-am td {border: 3px solid #F21368;background-color: #000000;color: #FFFFFF;padding: 5px;box-sizing: border-box;}
+.styled-table-am {overflow: auto;width: 100%;}
+.styled-table-am table {
+    border: 3px solid #F21368;
+    height: 100%;
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    text-align: left;
+}
+.styled-table-am th:first-child, .styled-table-am td:first-child {
+    width: 200px; /* or whatever fixed width you want */
+    border: 3px solid #F21368;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 5px;
+}
+.styled-table-am th:nth-child(2), .styled-table-am td:nth-child(2) {
+    border: 3px solid #F21368;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 5px;
+}
 </style>
 <div class="styled-table-am" role="region" tabindex="0">
 	<table>
