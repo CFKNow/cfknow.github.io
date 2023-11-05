@@ -2,9 +2,11 @@
 permalink: /get/machine-learning-theory-books/
 title: "Machine learning theory books"
 layout: single1col
-toc: true
-toc_sticky: false
+toc: false
+author_profile: false
 share: true
+sidebar:
+  nav: "get"
 ---
 
 # Machine learning
