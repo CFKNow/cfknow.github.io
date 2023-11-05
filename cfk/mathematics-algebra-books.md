@@ -48,7 +48,7 @@ sidebar:
 		<th>Language</th>
 		<th>Audience</th>
 		<th>Reviews</th>
-		<th>URL</th>
+		<th>URLs</th>
 		<th>Related URLs</th>
 		<th>Last checked</th>
 		<th>License</th>
@@ -56,16 +56,17 @@ sidebar:
 	</thead>
 	<tbody>
 	<tr>
+		<td>Linear Algebra Done Right</td>
+		<td>Book</td>
+		<td>Linear and multilinear algebras / Matrix theory</td>
+		<td>Axler, Sheldon</td>
+		<td>English</td>
+		<td>Undergraduates / Practitioners</td>
+		<td><a href="https://cfknow.github.io/review/Linear-Algebra-Done-Right/" target="_blank">Antonio Montano - 05/11/2023</a></td>
+		<td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf" target="_blank">PDF</a><br><a href="https://linear.axler.net/" target="_blank">Author site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank">Publisher site</a></td>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
+		<td>05/11/2023</td>
+		<td>CC BY-NC 4.0 DEED</td>
 	</tr>
 	<tr>
 		<td></td>

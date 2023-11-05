@@ -48,7 +48,7 @@ sidebar:
 		<th>Language</th>
 		<th>Audience</th>
 		<th>Reviews</th>
-		<th>URL</th>
+		<th>URLs</th>
 		<th>Related URLs</th>
 		<th>Last checked</th>
 		<th>License</th>
