@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning-theory-books/
+permalink: /cfk/machine-learning-theory-books/
 title: "Machine learning theory books"
 layout: single1col
 toc: true
