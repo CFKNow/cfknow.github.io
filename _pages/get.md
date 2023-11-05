@@ -2,6 +2,8 @@
 permalink: /get/
 title: "Get"
 layout: single
+author_profile: false
+classes:
 toc: true
 toc_sticky: true
 share: true
