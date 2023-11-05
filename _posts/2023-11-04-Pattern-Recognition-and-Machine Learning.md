@@ -11,37 +11,23 @@ tags:
 ---
 
 <style>
-.styled-table-am {
-    overflow: auto;
-    width: 100%;
-    display: flex;  /* Make this a flex container */
-}
-
+.styled-table-am {overflow: auto; width: auto;}  /* Set width to auto */
 .styled-table-am table {
     border: 3px solid #F21368;
     border-collapse: collapse;
     border-spacing: 2px;
     text-align: left;
-    margin: 0 auto;  /* Center the table */
-    flex-grow: 1;  /* Allow the table to grow and fill the remaining space */
 }
-
+.styled-table-am th, .styled-table-am td {
+    border: 3px solid #F21368;
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 5px;
+}
 .styled-table-am th:first-child, .styled-table-am td:first-child {
     width: 200px;  /* Fixed width for the first column */
-    border: 3px solid #F21368;
-    background-color: #000000;
-    color: #FFFFFF;
-    padding: 5px;
-}
-
-.styled-table-am th:nth-child(2), .styled-table-am td:nth-child(2) {
-    border: 3px solid #F21368;
-    background-color: #000000;
-    color: #FFFFFF;
-    padding: 5px;
 }
 </style>
-
 <div class="styled-table-am" role="region" tabindex="0">
 	<table>
 		<thead>
@@ -92,6 +78,7 @@ tags:
 		</tbody>
 	</table>
 </div>
+
 
 From the book site:
 >This leading textbook provides a comprehensive introduction to the fields of pattern recognition and machine learning. It is aimed at advanced undergraduates or first-year PhD students, as well as researchers and practitioners. No previous knowledge of pattern recognition or machine learning concepts is assumed. This is the first machine learning textbook to include a comprehensive coverage of recent developments such as probabilistic graphical models and deterministic inference methods, and to emphasize a modern Bayesian perspective. It is suitable for courses on machine learning, statistics, computer science, signal processing, computer vision, data mining, and bioinformatics. This hard cover book has 738 pages in full colour, and there are 431 graded exercises (with solutions available below). Extensive support is provided for course instructors.
