@@ -16,20 +16,13 @@ get:
     children:
       - title: "Quick start guide"
         url: /get/quick-start-guide/
-      - title: "Github"
-        url: /get/github/
   - title: Machine learning
     children:
       - title: "Books on theory"
         url: /get/machine-learning-theory-books/
       - title: "Books on programming"
         url: /get/machine-learning-programming-books/
+      - title: "Books on applications"
+        url: /get/machine-learning-applications-books/
 
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
