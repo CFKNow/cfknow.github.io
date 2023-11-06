@@ -42,7 +42,7 @@ tags:
 		</thead>
 		<tbody>
 		<tr>
-			<td>Author</td>
+			<td>Authors</td>
 			<td>Bishop, Christopher M.</td>
 		</tr>
 		<tr>

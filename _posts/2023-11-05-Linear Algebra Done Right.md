@@ -44,7 +44,7 @@ tags:
 		</thead>
 		<tbody>
 		<tr>
-			<td>Author</td>
+			<td>Authors</td>
 			<td>Axler, Sheldon</td>
 		</tr>
 		<tr>
