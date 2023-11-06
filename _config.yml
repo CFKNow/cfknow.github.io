@@ -125,13 +125,10 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/montano/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AntoMon"
+      url: https://www.linkedin.com/company/cfknow/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/antomon"
+      url: "https://github.com/CFKNow/cfknow.github.io"
 
 
 # Reading Files
