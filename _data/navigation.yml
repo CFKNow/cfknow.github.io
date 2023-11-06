@@ -29,6 +29,10 @@ get:
       - title: "Books on algebra"
         url: /get/mathematics-algebra-books/
       - title: "Books on probability and statistics"
-        url: /get/mathematics-probability_statistics-books/        
+        url: /get/mathematics-probability_statistics-books/   
+      - title: "Books on real and complex analysis"
+        url: /get/mathematics-real_complex-analysis-books/    
+
+            
 
 
