@@ -1,6 +1,6 @@
 ---
-title: "Review of 'Pattern Recognition and Machine Learning'"
-date: 2023-11-04T23:23:23+01:00
+title: "Review of 'Linear Algebra Done Right'"
+date: 2023-11-05T22:22:22+01:00
 toc: false
 categories:
   - review
@@ -103,4 +103,4 @@ tags:
 
 
 
-# Recensione di _Linear Algebra Done Right_
+# Recensione di 'Linear Algebra Done Right'

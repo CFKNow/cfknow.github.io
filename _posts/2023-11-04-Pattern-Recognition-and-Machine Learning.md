@@ -123,7 +123,7 @@ It's also important to highlight what's missing and, principally, it concerns ev
   - A type of architecture that uses attention mechanisms to improve the handling of data sequences, particularly influential in the field of natural language processing.
   - Examples: BERT, GPT (generative pre-trained transformer), T5, XLNet.
 
-# Recensione di _Pattern Recognition and Machine Learning_
+# Recensione di 'Pattern Recognition and Machine Learning'
 Dal sito di pubblicazione del libro:
 >Questo testo guida offre una introduzione completa ai campi del riconoscimento dei modelli e dell'apprendimento automatico. È rivolto a studenti universitari avanzati o a studenti di dottorato al primo anno, così come a ricercatori e professionisti. Non viene presupposta alcuna conoscenza precedente dei concetti di riconoscimento dei modelli o di apprendimento automatico. Questo è il primo libro di testo sull'apprendimento automatico che include una copertura completa di sviluppi recenti come i modelli grafici probabilistici e i metodi di inferenza deterministica, e che enfatizza una moderna prospettiva bayesiana. È adatto per corsi di apprendimento automatico, statistica, informatica, elaborazione dei segnali, visione artificiale, data mining e bioinformatica. Questo libro rilegato ha 738 pagine a colori, e ci sono 431 esercizi graduati (con soluzioni disponibili sotto). È fornito un ampio supporto per gli istruttori del corso.
 
