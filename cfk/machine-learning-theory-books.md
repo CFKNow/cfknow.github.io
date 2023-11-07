@@ -112,5 +112,8 @@ sidebar:
 </div>
 
 
-
-
+| Title                                    | Type | Subjects                                   | Authors | Language | Audience | Reviews | URLs | Related URLs | Last checked | License |
+|------------------------------------------|------|--------------------------------------------|---------|----------|----------|---------|------|--------------|--------------|---------|
+| Pattern Recognition and Machine Learning |      | Algorithms / Machine learning / Statistics |         |          |          |         |      |              |              |         |
+|                                          |      |                                            |         |          |          |         |      |              |              |         |
+|                                          |      |                                            |         |          |          |         |      |              |              |         |

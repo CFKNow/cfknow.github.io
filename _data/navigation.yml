@@ -2,6 +2,8 @@
 main:
   - title: "Get"
     url: /get/
+  - title: "Community"
+    url: /community/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
