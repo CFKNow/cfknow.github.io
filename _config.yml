@@ -129,6 +129,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CFKNow/cfknow.github.io"
+    - label: "Terms and conditions"
+      icon: "fab fa-fw fa-link"
+      url: "/terms-conditions/"
 
 
 # Reading Files
