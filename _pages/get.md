@@ -11,65 +11,59 @@ sidebar:
   nav: "get"
 ---
 
-
-
-
-
 ## Columns of tables in topic page
 
-- Title
-- Type
-- Subjects
-- Authors
-- Language
-- Audience
-- Reviews
-- URLs
-- Related URLs
-- Last checked
-- License
+- Title: the title of the content object.
+- Type: (closed) books.
+- Subjects: (closed) list of subjects related to the content.
+- Authors: creators of the content object.
+- Language: (closed).
+- Audience: (closed) grad. (graduates), undergrad (undergraduates), prac. (practitioners).
+- Reviews: list of URLs of reviews of the content object.
+- URLs: list of URLS to access the content object.
+- Last checked: last time this record was checked.
+- License: permissions set by the legal owner to use the content object.
 
 ## Columns of tables in review blog post page
 
-- Title
-- Author
-- Language
-- Subjects
-- Media info
-- Audience
-- Description
-- URLs
-- Related URLs
-- License
-- Last checked
+- Title: the title of the reviewed content object.
+- Subjects: see topics table columns.
+- Author: see topics table columns.
+- Language: see topics table columns.
+- Audience: see topics table columns.
+- CO info: content object information.
+- Description: content object description.
+- URLs: see topics table columns.
+- Last checked: see topics table columns.
+- License: see topics table columns.
 
 ## Math categories
 
 ### Description
 
-- Arithmetic: Basic computations, fractions, decimals, and elementary number theory.
-- Pre-Algebra: Introducing algebraic thinking, including basic algebraic operations and principles.
-- Algebra: Covering topics like algebraic expressions, equations, inequalities, functions, and graphing.
-- Geometry: Study of shapes, sizes, properties of space, proofs, and theorems related to angles, circles, triangles, and other figures.
-- Trigonometry: Focusing on the relationships between the sides and angles of triangles, trigonometric functions, and their applications.
-- Precalculus: Preparation for calculus, including advanced algebra, trigonometry, and other topics such as sequences, series, and complex numbers.
-- Calculus: Differential and integral calculus, often split into Calculus I (limits, derivatives, applications of derivatives), Calculus II (integration, applications of integration), and Calculus III (multivariable calculus).
-- Linear Algebra: Matrix algebra, vector spaces, linear transformations, and systems of linear equations.
-- Differential Equations: Ordinary and partial differential equations and their applications.
-- Discrete Mathematics: Combinatorics, graph theory, logic, set theory, and sometimes an introduction to computer science and algorithms.
-- Probability and Statistics: Basic probability theory, random variables, probability distributions, statistical inference, and data analysis.
-- Abstract Algebra: The study of algebraic structures such as groups, rings, and fields.
-- Real Analysis: Rigorous study of calculus, continuity, sequences and series of functions, and convergence.
-- Complex Analysis: Study of functions that operate on complex numbers.
-- Topology: Properties of space that are preserved under continuous transformations.
-- Numerical Analysis: Algorithms for numerical approximation of mathematical analysis problems.
-- Mathematical Logic: Formal logic, set theory, model theory, recursion theory, and proof theory.
-- Mathematical Methods: Applied mathematics for engineers and scientists, including special functions, integral transforms, and perturbation methods.
-- Mathematics for Education: Methods and content for teaching mathematics at various levels.
-- History of Mathematics: Historical development of mathematical concepts and biographies of mathematicians.
-- Mathematical Modeling: The process of creating mathematical representations of real-world situations.
-- Operations Research: Optimization, linear programming, queuing theory, and decision-making.
-- Actuarial Science: Mathematics of risk, primarily for insurance, finance, and other actuarial applications.
+- Arithmetic: basic computations, fractions, decimals, and elementary number theory.
+- Pre-Algebra: introducing algebraic thinking, including basic algebraic operations and principles.
+- Algebra: covering topics like algebraic expressions, equations, inequalities, functions, and graphing.
+- Geometry: study of shapes, sizes, properties of space, proofs, and theorems related to angles, circles, triangles, and other figures.
+- Trigonometry: focusing on the relationships between the sides and angles of triangles, trigonometric functions, and their applications.
+- Precalculus: preparation for calculus, including advanced algebra, trigonometry, and other topics such as sequences, series, and complex numbers.
+- Calculus: differential and integral calculus, often split into calculus I (limits, derivatives, applications of derivatives), calculus II (integration, applications of integration), and calculus III (multivariable calculus).
+- Linear algebra: matrix algebra, vector spaces, linear transformations, and systems of linear equations.
+- Differential equations: ordinary and partial differential equations and their applications.
+- Discrete mathematics: combinatorics, graph theory, logic, set theory, and sometimes an introduction to computer science and algorithms.
+- Probability and statistics: basic probability theory, random variables, probability distributions, statistical inference, and data analysis.
+- Abstract algebra: the study of algebraic structures such as groups, rings, and fields.
+- Real analysis: Rigorous study of calculus, continuity, sequences and series of functions, and convergence.
+- Complex analysis: study of functions that operate on complex numbers.
+- Topology: properties of space that are preserved under continuous transformations.
+- Numerical analysis: algorithms for numerical approximation of mathematical analysis problems.
+- Mathematical logic: formal logic, set theory, model theory, recursion theory, and proof theory.
+- Mathematical methods: applied mathematics for engineers and scientists, including special functions, integral transforms, and perturbation methods.
+- Mathematics for education: methods and content for teaching mathematics at various levels.
+- History of mathematics: historical development of mathematical concepts and biographies of mathematicians.
+- Mathematical modeling: the process of creating mathematical representations of real-world situations.
+- Operations research: optimization, linear programming, queuing theory, and decision-making.
+- Actuarial science: mathematics of risk, primarily for insurance, finance, and other actuarial applications.
 
 ### CFK categorization
 

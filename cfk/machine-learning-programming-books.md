@@ -6,7 +6,6 @@ toc: false
 author_profile: false
 classes: wide
 share: true
-related: true
 sidebar:
   nav: "get"
 ---
