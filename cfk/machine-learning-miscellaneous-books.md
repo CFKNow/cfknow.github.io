@@ -10,6 +10,6 @@ sidebar:
   nav: "get"
 ---
 
-| Title | Type | Subjects | Authors | Language | Audience | Reviews | URLs | Related URLs | Last checked | License |
+| Title | Type | Subjects | Authors | Language | Audience | Reviews | URLs | Last checked | License |
 |---|---|---|---|---|---|---|---|---|---|---|
-| The Quest for Artificial Intelligence: A History of Ideas and Achievements | Book | History | Nilsson, Nils J. | English | General |  | <a    href = "https://ai.stanford.edu/%7Enilsson/QAI/qai.pdf"   target = "_blank" >PDF</a> |  | 10/11/2023 |  |
+| The Quest for Artificial Intelligence: A History of Ideas and Achievements | Book | History | Nilsson, Nils J. | English | General |  | <a    href = "https://ai.stanford.edu/%7Enilsson/QAI/qai.pdf"   target = "_blank" >PDF</a> | 10/11/2023 |  |
