@@ -26,6 +26,8 @@ get:
         url: /get/machine-learning-programming-books/
       - title: "Books on applications"
         url: /get/machine-learning-applications-books/
+      - title: "Books on miscellaneous topics"
+        url: /get/machine-learning-miscellaneous-books/
   - title: Mathematics
     children:
       - title: "Books on algebra"
