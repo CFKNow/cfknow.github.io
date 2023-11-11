@@ -42,6 +42,8 @@ get:
         url: /get/mathematics-geometry_trigonometry-books/
       - title: "Books on mathematical logic"
         url: /get/mathematics-mathematical-logic-books/
+      - title: "Books on operations research"
+        url: /get/mathematics-operations-research-books/
       - title: "Books on methods and numerical analysis"
         url: /get/mathematics-methods_numerical-analysis-books/
       - title: "Books on probability and statistics"

@@ -85,6 +85,7 @@ sidebar:
 - Geometry and trigonometry: Geometry + Trigonometry
 - Mathematical logic: Mathematical logic
 - Methods and numerical analysis: Mathematical methods + Numerical analysis
+- Operations research: Operations research
 - Probability and statistics: Probability + Statistics 
 - Real and complex analysis: Real analysis + Complex analysis
 - Miscellaneous: History of mathematics + Mathematics for education
