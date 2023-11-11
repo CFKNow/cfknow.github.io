@@ -130,9 +130,11 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CFKNow/cfknow.github.io"
     - label: "Terms and conditions"
-      icon: "fab fa-fw fa-link"
+      icon: "fa-link fa-invert"
       url: "/terms-conditions/"
-
+    - label: "About"
+      icon: "fa-link fa-invert"
+      url: "/about/"
 
 # Reading Files
 include:

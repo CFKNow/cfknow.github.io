@@ -4,14 +4,14 @@ main:
     url: /get/
   - title: "Community"
     url: /community/
+  - title: "Learning paths"
+    url: /learning-paths/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "About"
-    url: /about/
 
 get:
   - title: How to contribute
