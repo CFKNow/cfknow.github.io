@@ -133,7 +133,7 @@ footer:
       icon: "fas fa-link"
       url: "/terms-conditions/"
     - label: "About"
-      icon: "fas fa-link fa-invert"
+      icon: "fas fa-link"
       url: "/about/"
 
 # Reading Files
