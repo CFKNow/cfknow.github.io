@@ -18,7 +18,7 @@ If you have browsed the site, you will have understood that the goal is to gathe
 This page describes how you can actively contribute. It is largely based on [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/) tutorial.
 
 ## Before acting
-So, you have an idea but before doing anything, do a quick check to make sure it hasn’t been discussed elsewhere or someone is working on something similar. Skim the project’s [README](https://github.com/CFKNow/cfknow.github.io), [issues}(https://github.com/CFKNow/cfknow.github.io/issues) (open and closed), [community Discord server](https://cfknow.github.io/community/). You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
+So, you have an idea but before doing anything, do a quick check to make sure it hasn’t been discussed elsewhere or someone is working on something similar. Skim the project’s [README](https://github.com/CFKNow/cfknow.github.io), [issues](https://github.com/CFKNow/cfknow.github.io/issues) (open and closed), [community Discord server](https://cfknow.github.io/community/). You don’t have to spend hours going through everything, but a quick search for a few key terms goes a long way.
 
 If you can’t find your idea elsewhere, you’re ready to make a move and you’ll likely communicate by doing the following:
 - Raising an issue: these are like starting a conversation or discussion.
