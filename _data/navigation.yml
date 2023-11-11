@@ -37,6 +37,13 @@ get:
       - title: "Books on real and complex analysis"
         url: /get/mathematics-real_complex-analysis-books/    
 
+learning-paths:
+  - title: Machine learning practitioner
+    children:
+      - title: "Beginner"
+        url: /machine-learning-beginner/
+      - title: Natural language analysis
+        url: /machine-learning-nl-analysis/
             
 
 
