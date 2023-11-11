@@ -130,7 +130,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/CFKNow/cfknow.github.io"
     - label: "Terms and conditions"
-      icon: "fas fa-link fa-invert"
+      icon: "fas fa-link"
       url: "/terms-conditions/"
     - label: "About"
       icon: "fas fa-link fa-invert"
