@@ -640,7 +640,7 @@ state the exclusion of warranty; and each file should have at least
 the “copyright” line and a pointer to where the full notice is found.
 
     CFKNow - https://cfknow.github.io/
-    Copyright (C) 2023  Antonio Montano
+    Copyright (C) 2023-2024  Antonio Montano
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published by
