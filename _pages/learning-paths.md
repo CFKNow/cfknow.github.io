@@ -1,6 +1,6 @@
 ---
 permalink: /learning-paths/
-title: "Learninng paths"
+title: "Learning paths"
 layout: single
 author_profile: false
 toc: false
@@ -11,5 +11,6 @@ sidebar:
   nav: "learning-paths"
 ---
 
+{% include nav_list nav="get" %}
 
 
