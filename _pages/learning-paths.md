@@ -11,6 +11,6 @@ sidebar:
   nav: "learning-paths"
 ---
 
-{% include nav_list nav="get" %}
+
 
 

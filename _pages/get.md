@@ -37,7 +37,18 @@ sidebar:
 - Last checked: see topics table columns.
 - License: see topics table columns.
 
-## Math categories
+## Machine learning topics
+
+### Description
+
+### Topics
+
+- Applications
+- Programming
+- Theory
+- Miscellaneous
+
+## Math topics
 
 ### Description
 
@@ -65,7 +76,15 @@ sidebar:
 - Operations research: optimization, linear programming, queuing theory, and decision-making.
 - Actuarial science: mathematics of risk, primarily for insurance, finance, and other actuarial applications.
 
-### CFK categorization
+### Topics
 
-- Algebra: Pre-algebra + Algebra + Linear algebra 
+- Algebra: Arithmetic + Pre-algebra + Algebra + Linear algebra 
+- Abstract algebra and topology: Abstract algebra + Topology
+- Calculus and differential equations: Precalculus + Calculus + Differential equations
+- Discrete mathematics: Discrete mathematics
+- Geometry and trigonometry: Geometry + Trigonometry
+- Mathematical logic: Mathematical logic
+- Methods and numerical analysis: Mathematical methods + Numerical analysis
+- Probability and statistics: Probability + Statistics 
 - Real and complex analysis: Real analysis + Complex analysis
+- Miscellaneous: History of mathematics + Mathematics for education
