@@ -11,41 +11,13 @@ sidebar:
   nav: "get"
 ---
 
-## 1. Content Disclaimer
+## 1. Content disclaimer
 This website serves as a directory to link to free educational materials such as books, videos, and other curated content hosted on external sites. We do not host any of the content directly. The aim is to promote free learning opportunities globally.
 
 If you are a content owner and wish to request the removal or modification of your content linked on our site, please contact us at cfknow.online@gmail.com.
 
-## 2. Software License - MIT License
-The software used to generate this site is open-source and is licensed under the MIT License:
-
-The MIT License (MIT)
-
-Copyright © `2023` `Antonio Montano`
-
-Permission is hereby granted, free of charge, to any person
-obtaining a copy of this software and associated documentation
-files (the “Software”), to deal in the Software without
-restriction, including without limitation the rights to use,
-copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the
-Software is furnished to do so, subject to the following
-conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
-OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
-HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
-WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
-
-## 3. License for Original Site Content - GNU AFFERO GENERAL PUBLIC LICENSE
-All original content created for this site is licensed under the GNU Affero General Public License (AGPL), Version 3.
+## 2. License for software and original site content 
+The software used to generate this site is open-source and is licensed under the GNU Affero General Public License (AGPL), Version 3. All original content created for this site is licensed under the same license.
 
 GNU Affero General Public License
 
@@ -55,7 +27,7 @@ _Copyright © 2007 Free Software Foundation, Inc. &lt;<http://fsf.org/>&gt;_
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
-## Preamble
+### Preamble
 
 The GNU Affero General Public License is a free, copyleft license for
 software and other kinds of works, specifically designed to ensure
@@ -106,9 +78,9 @@ this license.
 The precise terms and conditions for copying, distribution and
 modification follow.
 
-## TERMS AND CONDITIONS
+### TERMS AND CONDITIONS
 
-### 0. Definitions
+#### 0. Definitions
 
 “This License” refers to version 3 of the GNU Affero General Public License.
 
@@ -147,7 +119,7 @@ work under this License, and how to view a copy of this License.  If
 the interface presents a list of user commands or options, such as a
 menu, a prominent item in the list meets this criterion.
 
-### 1. Source Code
+#### 1. Source Code
 
 The “source code” for a work means the preferred form of the work
 for making modifications to it.  “Object code” means any non-source
@@ -189,7 +161,7 @@ Source.
 The Corresponding Source for a work in source code form is that
 same work.
 
-### 2. Basic Permissions
+#### 2. Basic Permissions
 
 All rights granted under this License are granted for the term of
 copyright on the Program, and are irrevocable provided the stated
@@ -214,7 +186,7 @@ Conveying under any other circumstances is permitted solely under
 the conditions stated below.  Sublicensing is not allowed; section 10
 makes it unnecessary.
 
-### 3. Protecting Users' Legal Rights From Anti-Circumvention Law
+#### 3. Protecting Users' Legal Rights From Anti-Circumvention Law
 
 No covered work shall be deemed part of an effective technological
 measure under any applicable law fulfilling obligations under article
@@ -230,7 +202,7 @@ modification of the work as a means of enforcing, against the work's
 users, your or third parties' legal rights to forbid circumvention of
 technological measures.
 
-### 4. Conveying Verbatim Copies
+#### 4. Conveying Verbatim Copies
 
 You may convey verbatim copies of the Program's source code as you
 receive it, in any medium, provided that you conspicuously and
@@ -243,7 +215,7 @@ recipients a copy of this License along with the Program.
 You may charge any price or no price for each copy that you convey,
 and you may offer support or warranty protection for a fee.
 
-### 5. Conveying Modified Source Versions
+#### 5. Conveying Modified Source Versions
 
 You may convey a work based on the Program, or the modifications to
 produce it from the Program, in the form of source code under the
@@ -277,7 +249,7 @@ beyond what the individual works permit.  Inclusion of a covered work
 in an aggregate does not cause this License to apply to the other
 parts of the aggregate.
 
-### 6. Conveying Non-Source Forms
+#### 6. Conveying Non-Source Forms
 
 You may convey a covered work in object code form under the terms
 of sections 4 and 5, provided that you also convey the
@@ -371,7 +343,7 @@ documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
 
-### 7. Additional Terms
+#### 7. Additional Terms
 
 “Additional permissions” are terms that supplement the terms of this
 License by making exceptions from one or more of its conditions.
@@ -430,7 +402,7 @@ Additional terms, permissive or non-permissive, may be stated in the
 form of a separately written license, or stated as exceptions;
 the above requirements apply either way.
 
-### 8. Termination
+#### 8. Termination
 
 You may not propagate or modify a covered work except as expressly
 provided under this License.  Any attempt otherwise to propagate or
@@ -458,7 +430,7 @@ this License.  If your rights have been terminated and not permanently
 reinstated, you do not qualify to receive new licenses for the same
 material under section 10.
 
-### 9. Acceptance Not Required for Having Copies
+#### 9. Acceptance Not Required for Having Copies
 
 You are not required to accept this License in order to receive or
 run a copy of the Program.  Ancillary propagation of a covered work
@@ -469,7 +441,7 @@ modify any covered work.  These actions infringe copyright if you do
 not accept this License.  Therefore, by modifying or propagating a
 covered work, you indicate your acceptance of this License to do so.
 
-### 10. Automatic Licensing of Downstream Recipients
+#### 10. Automatic Licensing of Downstream Recipients
 
 Each time you convey a covered work, the recipient automatically
 receives a license from the original licensors, to run, modify and
@@ -494,7 +466,7 @@ rights granted under this License, and you may not initiate litigation
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
 
-### 11. Patents
+#### 11. Patents
 
 A “contributor” is a copyright holder who authorizes use under this
 License of the Program or a work on which the Program is based.  The
@@ -563,7 +535,7 @@ Nothing in this License shall be construed as excluding or limiting
 any implied license or other defenses to infringement that may
 otherwise be available to you under applicable patent law.
 
-### 12. No Surrender of Others' Freedom
+#### 12. No Surrender of Others' Freedom
 
 If conditions are imposed on you (whether by court order, agreement or
 otherwise) that contradict the conditions of this License, they do not
@@ -575,7 +547,7 @@ to collect a royalty for further conveying from those to whom you convey
 the Program, the only way you could satisfy both those terms and this
 License would be to refrain entirely from conveying the Program.
 
-### 13. Remote Network Interaction; Use with the GNU General Public License
+#### 13. Remote Network Interaction; Use with the GNU General Public License
 
 Notwithstanding any other provision of this License, if you modify the
 Program, your modified version must prominently offer all users
@@ -596,7 +568,7 @@ License will continue to apply to the part which is the covered work,
 but the work with which it is combined will remain governed by version
 3 of the GNU General Public License.
 
-### 14. Revised Versions of this License
+#### 14. Revised Versions of this License
 
 The Free Software Foundation may publish revised and/or new versions of
 the GNU Affero General Public License from time to time.  Such new versions
@@ -622,7 +594,7 @@ permissions.  However, no additional obligations are imposed on any
 author or copyright holder as a result of your choosing to follow a
 later version.
 
-### 15. Disclaimer of Warranty
+#### 15. Disclaimer of Warranty
 
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
 APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
@@ -633,7 +605,7 @@ PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
 IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
 ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
 
-### 16. Limitation of Liability
+#### 16. Limitation of Liability
 
 IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
 WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
@@ -645,7 +617,7 @@ PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
 EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGES.
 
-### 17. Interpretation of Sections 15 and 16
+#### 17. Interpretation of Sections 15 and 16
 
 If the disclaimer of warranty and limitation of liability provided
 above cannot be given local legal effect according to their terms,
@@ -656,7 +628,7 @@ copy of the Program in return for a fee.
 
 _END OF TERMS AND CONDITIONS_
 
-## How to Apply These Terms to Your New Programs
+### How to Apply These Terms to Your New Programs
 
 If you develop a new program, and you want it to be of the greatest
 possible use to the public, the best way to achieve this is to make it
@@ -698,5 +670,5 @@ if any, to sign a “copyright disclaimer” for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 &lt;<http://www.gnu.org/licenses/>&gt;.
 
-## 4. Application of These Terms
+## 3. Application of These Terms
 By using this website, you agree to comply with these terms and conditions. We reserve the right to modify these terms at any time, and continued use of the site will constitute your acceptance of any adjustments to these terms.
