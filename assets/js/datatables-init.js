@@ -37,12 +37,22 @@ document.addEventListener('DOMContentLoaded', function() {
                         select.add(new Option(d));
                     });
                 });
+
+                // Apply specific styles to the table
+                jQuery('table.display').css({
+                    'margin': '0 auto',
+                    'clear': 'both',
+                    'width': '100%',
+                    'table-layout': 'fixed'
+                });
             }
         }); 
 
-        // Apply styles to the table
-        jQuery('table.display').css('width', 'inherit !important');
-        jQuery('table.display').css('position', 'relative');
+        // Additional code for setting column styles if needed
+        jQuery('table.display td').css({
+            'white-space': 'pre-wrap',
+            'word-wrap': 'break-word'
+        });
     } else {
         console.error("jQuery is not loaded");
     }
