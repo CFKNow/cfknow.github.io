@@ -1,6 +1,6 @@
 ---
-permalink: /get/mathematics-mathematical-logic-books/
-title: "Mathematics mathematical logic books"
+permalink: /get/machine-learning-applications-books/
+title: "Machine learning applications books"
 layout: single
 toc: false
 author_profile: false
@@ -9,4 +9,8 @@ share: true
 sidebar:
   nav: "get"
 ---
+
+
+
+
 

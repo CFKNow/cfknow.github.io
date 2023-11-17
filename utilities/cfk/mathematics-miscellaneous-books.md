@@ -1,6 +1,6 @@
 ---
-permalink: /get/mathematics-mathematical-logic-books/
-title: "Mathematics mathematical logic books"
+permalink: /get/mathematics-miscellaneous-books/
+title: "Miscellaneous books"
 layout: single
 toc: false
 author_profile: false
