@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) {
-        jQuery('table.dataTable').DataTable({
+        jQuery('display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
