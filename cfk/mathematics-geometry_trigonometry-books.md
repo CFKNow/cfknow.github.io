@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var column = this;
 
                     // Exclude specific columns by index
-                    var excludedColumns = [0, 2]; // Add the indices of columns to exclude
+                    var excludedColumns = [1, 2]; // Add the indices of columns to exclude
                     if (excludedColumns.includes(index)) {
                         return; // Skip this iteration
                     }
