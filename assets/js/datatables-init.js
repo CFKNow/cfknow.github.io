@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) {
         jQuery('table.display').DataTable({
@@ -8,7 +7,6 @@ document.addEventListener('DOMContentLoaded', function() {
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
-
                     var columnName = jQuery(column.header()).text().trim();
 
                     // Define the column names to exclude
@@ -41,16 +39,10 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
         }); 
-        
-        // Apply styles to 'td' elements
-        table.on('draw', function () {
-            jQuery('table.display td').css({
-                'white-space': 'pre-wrap',
-                'word-wrap': 'break-word'
-            });
-        });
+
+        // Apply styles to the table
+        jQuery('table.display').css('width', 'inherit !important');
     } else {
         console.error("jQuery is not loaded");
     }
 });
-
