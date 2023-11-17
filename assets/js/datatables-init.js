@@ -1,7 +1,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) {
-        jQuery('display').DataTable({
+        jQuery('table.display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
@@ -9,9 +9,11 @@ document.addEventListener('DOMContentLoaded', function() {
                 this.api().columns().every(function (index) {
                     var column = this;
 
-                    // Exclude specific columns by index
-                    var excludedColumns = [1, 2];
-                    if (excludedColumns.includes(index)) {
+                    var columnName = jQuery(column.header()).text().trim();
+
+                    // Define the column names to exclude
+                    var excludedColumns = ["Column Name 1", "Column Name 2"];
+                    if (excludedColumns.includes(columnName)) {
                         return; // Skip this iteration
                     }
 
