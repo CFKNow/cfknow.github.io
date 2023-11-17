@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     // Create select element and add class
                     var select = document.createElement('select');
-                    select.classList.add("dataTables_length"); 
+                    select.classList.add("dataTables_length", "select"); 
                     select.style.backgroundColor = "transparent"; 
                     select.add(new Option(''));
 
