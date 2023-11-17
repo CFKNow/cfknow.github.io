@@ -25,6 +25,16 @@ sidebar:
             <td>Row 1, Col 2</td>
             <td>Row 1, Col 3</td>
         </tr>
+        <tr>
+            <td>Row 1, Col 1</td>
+            <td>Row 1, Col 2</td>
+            <td>Row 1, Col 3</td>
+        </tr>
+        <tr>
+            <td>Row 1, Col 1</td>
+            <td>Row 1, Col 2</td>
+            <td>Row 1, Col 3</td>
+        </tr>
         <!-- Add more rows as needed -->
     </tbody>
 </table>
