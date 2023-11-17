@@ -32,8 +32,10 @@ sidebar:
 <!-- DataTables Initialization Script -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  console.error("wtf 1");
     if (window.jQuery) { // Check if jQuery is loaded
         jQuery('#math').DataTable(); // Initialize DataTables using jQuery
+      console.error("wtf 2");
     } else {
         console.error("jQuery is not loaded");
     }
