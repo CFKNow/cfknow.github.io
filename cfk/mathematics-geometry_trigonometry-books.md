@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <!-- HTML Table -->
-<table id="myTable" class="stripe" style="width:100% !important;">
+<table id="myTable" class="display" style="width:100% !important;">
     <thead>
         <tr>
             <th>Column 1</th>
