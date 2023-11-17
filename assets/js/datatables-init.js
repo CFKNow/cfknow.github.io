@@ -42,6 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
         // Apply styles to the table
         jQuery('table.display').css('width', 'inherit !important');
+        jQuery('table.display').css('position', 'relative');
     } else {
         console.error("jQuery is not loaded");
     }
