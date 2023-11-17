@@ -4,6 +4,12 @@ document.addEventListener('DOMContentLoaded', function() {
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
+            "columnDefs": [
+                { 
+                    "targets": 0, // Target the first column
+                    "width": "15%"
+                }
+            ],            
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
