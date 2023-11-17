@@ -44,7 +44,9 @@ sidebar:
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) { // Check if jQuery is loaded
         jQuery('#myTable').DataTable({
-
+          "language": {
+            "lengthMenu": "Display _MENU_"
+          }
         }); 
     } else {
         console.error("jQuery is not loaded");
