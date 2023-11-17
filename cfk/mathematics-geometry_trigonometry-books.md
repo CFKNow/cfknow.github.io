@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <!-- HTML Table -->
-<table id="myTable" class="display" style="width:100% !important;">
+<table id="myTable" class="table table-striped" style="width:100% !important;">
     <thead>
         <tr>
             <th>Column 1</th>
@@ -27,7 +27,10 @@ sidebar:
         </tr>
         <tr>
             <td>Row 1, Col 1</td>
-            <td>Row 1, Col 2</td>
+            <td>
+              <a href="https://link1.example.com" target="_blank" class="btn btn--primary">Link 1</a>
+              <a href="https://link2.example.com" target="_blank" class="btn btn--info">Link 2</a>
+            </td>
             <td>Row 1, Col 3</td>
         </tr>
         <tr>
@@ -59,8 +62,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     // Create select element and add class
                     var select = document.createElement('select');
-                    select.classList.add("dataTables_length", "select"); 
-                    select.style.backgroundColor = "transparent"; 
+                    //select.classList.add("dataTables_length", "select"); 
+                    //select.style.backgroundColor = "transparent"; 
                     select.add(new Option(''));
 
                     column.footer().replaceChildren(select);
