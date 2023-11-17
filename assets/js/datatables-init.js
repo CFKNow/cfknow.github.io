@@ -5,6 +5,9 @@ document.addEventListener('DOMContentLoaded', function() {
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
+            "columnDefs": [
+                { "width": "20%", "targets": 0 }
+            ],
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
