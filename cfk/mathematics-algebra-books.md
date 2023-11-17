@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <!-- HTML Table -->
-<table id="mathematics-algebra-books-table" class="stripe" style="width:100%">
+<table id="math" class="stripe" style="width:100%">
 <thead>
   <tr>
     <th>Title</th>
@@ -57,7 +57,7 @@ sidebar:
 <!-- DataTables Initialization Script -->
 <script>
 $(document).ready( function () {
-    $('#mathematics-algebra-books-table').DataTable();
+    $('#math').DataTable();
 });
 </script>
 
