@@ -44,7 +44,7 @@ sidebar:
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) { // Check if jQuery is loaded
         jQuery('#myTable').DataTable(); // Initialize DataTables using jQuery
-      
+        "lengthChange": false;
     } else {
         console.error("jQuery is not loaded");
     }
