@@ -44,13 +44,38 @@ sidebar:
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) { // Check if jQuery is loaded
         jQuery('#myTable').DataTable({
-          "language": {
-            "lengthMenu": "Display _MENU_"
-          }
+            "language": {
+                "lengthMenu": "Display: _MENU_"
+            },
+            "initComplete": function () {
+                this.api().columns().every(function () {
+                    var column = this;
+
+                    // Create select element
+                    var select = document.createElement('select');
+                    select.add(new Option(''));
+                    column.footer().replaceChildren(select);
+
+                    // Apply listener for user change in value
+                    select.addEventListener('change', function () {
+                        var val = jQuery.fn.dataTable.util.escapeRegex(select.value);
+
+                        column
+                            .search(val ? '^' + val + '$' : '', true, false)
+                            .draw();
+                    });
+
+                    // Add list of options
+                    column.data().unique().sort().each(function (d, j) {
+                        select.add(new Option(d));
+                    });
+                });
+            }
         }); 
     } else {
         console.error("jQuery is not loaded");
     }
 });
 </script>
+
 
