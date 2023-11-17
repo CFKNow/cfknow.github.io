@@ -5,9 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
-            "columnDefs": [
-                { "width": "20%", "targets": 0 }
-            ],
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
@@ -44,6 +41,14 @@ document.addEventListener('DOMContentLoaded', function() {
                 });
             }
         }); 
+        
+        // Apply styles to 'td' elements
+        table.on('draw', function () {
+            jQuery('table.display td').css({
+                'white-space': 'pre-wrap',
+                'word-wrap': 'break-word'
+            });
+        });
     } else {
         console.error("jQuery is not loaded");
     }
