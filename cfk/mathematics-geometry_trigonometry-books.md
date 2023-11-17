@@ -40,9 +40,9 @@ sidebar:
         </tr>
         <tfoot>
             <tr>
-              <th>Column 1</th>
-              <th>Column 2</th>
-              <th>Column 3</th>
+              <th></th>
+              <th></th>
+              <th></th>
             </tr>
         </tfoot>
     </tbody>
