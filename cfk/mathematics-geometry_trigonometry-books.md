@@ -51,15 +51,17 @@ document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) { // Check if jQuery is loaded
         jQuery('#myTable').DataTable({
             "language": {
-                "lengthMenu": "Display: _MENU_"
+                "lengthMenu": "Display entries: _MENU_"
             },
             "initComplete": function () {
                 this.api().columns().every(function () {
                     var column = this;
 
-                    // Create select element
+                    // Create select element and add class
                     var select = document.createElement('select');
+                    select.classList.add("dataTables_length", "select"); // Add classes here
                     select.add(new Option(''));
+
                     column.footer().replaceChildren(select);
 
                     // Apply listener for user change in value
@@ -83,5 +85,6 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
+
 
 
