@@ -293,3 +293,6 @@ defaults:
       share: true
       comments: false
       mathjax: true
+
+after_footer_scripts:
+  - /assets/js/datatables-init.js
