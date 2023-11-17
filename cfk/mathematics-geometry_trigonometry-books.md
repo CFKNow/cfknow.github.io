@@ -35,7 +35,13 @@ sidebar:
             <td>Row 1, Col 2</td>
             <td>Row 1, Col 3</td>
         </tr>
-        <!-- Add more rows as needed -->
+        <tfoot>
+            <tr>
+              <th>Column 1</th>
+              <th>Column 2</th>
+              <th>Column 3</th>
+            </tr>
+        </tfoot>
     </tbody>
 </table>
 
