@@ -19,6 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var select = document.createElement('select');
                     select.classList.add("dataTables_length", "select");
                     select.style.backgroundColor = "transparent"; 
+                    select.style.maxWidth = "100%"; // Set max width to 100% of the column width
                     select.add(new Option(''));
 
                     column.footer().replaceChildren(select);
