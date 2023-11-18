@@ -66,7 +66,6 @@ document.addEventListener('DOMContentLoaded', function() {
                 column.visible(!column.visible());
             });
         });
-        
     } else {
         console.error("jQuery is not loaded");
     }
