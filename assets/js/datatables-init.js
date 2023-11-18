@@ -60,19 +60,22 @@ document.addEventListener('DOMContentLoaded', function() {
         style.type = 'text/css';
         style.innerHTML = '.display th:first-child, .display td:first-child { max-width: 15%; }';
         document.head.appendChild(style);
+
+        // Setup column visibility toggle
+        document.querySelectorAll('a.toggle-vis').forEach((el) => {
+            el.addEventListener('click', function (e) {
+                e.preventDefault();
+
+                let columnIdx = e.target.getAttribute('data-column');
+                let column = dataTableInstance.column(columnIdx);
+
+                // Toggle the visibility
+                column.visible(!column.visible());
+            });
+        });
+
     } else {
         console.error("jQuery is not loaded");
     }
 });
 
-document.querySelectorAll('a.toggle-vis').forEach((el) => {
-    el.addEventListener('click', function (e) {
-        e.preventDefault();
- 
-        let columnIdx = e.target.getAttribute('data-column');
-        let column = table.column(columnIdx);
- 
-        // Toggle the visibility
-        column.visible(!column.visible());
-    });
-});
