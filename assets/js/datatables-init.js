@@ -3,13 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
         jQuery('table.display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
-            },
-            "columnDefs": [
-                { 
-                    "targets": 0, // Target the first column
-                    "width": 100px
-                }
-            ],            
+            },          
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
@@ -59,6 +53,12 @@ document.addEventListener('DOMContentLoaded', function() {
             'white-space': 'pre-wrap',
             'word-wrap': 'break-word'
         });
+
+        // Inject CSS to limit the width of the first column
+        var style = document.createElement('style');
+        style.type = 'text/css';
+        style.innerHTML = '.display th:first-child, .display td:first-child { max-width: 15%; }';
+        document.head.appendChild(style);
     } else {
         console.error("jQuery is not loaded");
     }
