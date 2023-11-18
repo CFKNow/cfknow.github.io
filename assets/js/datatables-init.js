@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var columnName = jQuery(column.header()).text().trim();
 
                     // Define the column names to exclude from the dropdown filter
-                    var excludedColumns = ["Title", "Subjects", "Audience", "URLs", "Reviews"];
+                    var excludedColumns = ["Title", "Subjects", "Audience", "URLs", "Reviews", "License"];
                     if (excludedColumns.includes(columnName)) {
                         return; // Skip this iteration
                     }
@@ -27,6 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var select = document.createElement('select');
                     select.classList.add("dataTables_length", "select");
                     select.style.backgroundColor = "transparent"; 
+                    select.style.maxWidth = "100%"; // Set max width to 100% of the column width
                     select.add(new Option(''));
 
                     column.footer().replaceChildren(select);
@@ -44,14 +45,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     column.data().unique().sort().each(function (d, j) {
                         select.add(new Option(d));
                     });
-                });
-
-                // Apply specific styles to the table
-                jQuery('table.display').css({
-                    'margin': '0',
-                    'clear': 'both',
-                    'width': '100%',
-                    'table-layout': 'fixed'
                 });
             }
         });
