@@ -23,7 +23,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
                 file.write(f'---\npermalink: /get/{first_row}/\n')
                 file.write(f'title: "{title}"\nlayout: single\ntoc: false\n')
                 file.write('author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: get\n---\n\n')
-                file.write('<div>\nToggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>\n</div>')
+                file.write('<div class="table_cols_toggles">\nToggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>\n</div>')
 
                 if len(pd.read_excel(xls, sheet_name, header=None)) > 1:
                     df = pd.read_excel(xls, sheet_name, header=1)
