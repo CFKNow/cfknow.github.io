@@ -87,7 +87,7 @@ tags:
 	</table>
 </div>
 
-![image-left](/assets/images/coverLADR4e.png){: .align-left .cover_image}
+![image-left](/assets/images/coverLADR4e.png){: .align-left}
 
 
 
