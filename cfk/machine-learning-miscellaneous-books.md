@@ -7,10 +7,12 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: "get"
+  nav: get
 ---
 
-<table class="display">
+<div>
+Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
+</div><table class="display">
 <thead>
 <tr>
     <th>Title</th>
@@ -35,7 +37,7 @@ sidebar:
     <td>General</td>
     <td></td>
     <td><a href="https://ai.stanford.edu/%7Enilsson/QAI/qai.pdf" target="_blank" class="btn btn--primary">PDF</a></td>
-    <td>10/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tfoot>

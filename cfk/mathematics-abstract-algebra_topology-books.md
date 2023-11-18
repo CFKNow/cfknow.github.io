@@ -7,13 +7,12 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: "get"
+  nav: get
 ---
 
 <div>
-  Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
-</div>
-<table class="display" style="width:100%">
+Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
+</div><table class="display">
 <thead>
 <tr>
     <th>Title</th>
@@ -35,10 +34,10 @@ sidebar:
     <td>Topology</td>
     <td>Morris, Sidney A.</td>
     <td>English</td>
-    <td>Grad.</td>
+    <td>Grad</td>
     <td></td>
     <td><a href="http://www.topologywithouttears.net/topbook2023.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.topologywithouttears.net/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -46,11 +45,12 @@ sidebar:
     <td>Book</td>
     <td>Algebra</td>
     <td>Judson, Thomas W.</td>
-    <td>English / Spanish</td>
-    <td>Grad.</td>
+    <td>English
+Spanish</td>
+    <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank">English HTML</a><br><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank">Spanish HTML</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2024</td>
+    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">HTML En</a><br><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">HTML Es</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-11</td>
     <td>GNU Free Documentation License (GFDL)</td>
 </tr>
 <tr>
@@ -59,10 +59,10 @@ sidebar:
     <td>Algebra</td>
     <td>Goodman, Frederick M.</td>
     <td>English</td>
-    <td>Grad.</td>
+    <td>Grad</td>
     <td></td>
     <td><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/book.2.6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/download.htm" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2025</td>
+    <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
 <tr>
@@ -71,10 +71,10 @@ sidebar:
     <td>Algebra</td>
     <td>Connell, Edwin H.</td>
     <td>English</td>
-    <td>Undergrad.</td>
+    <td>Undergrad</td>
     <td></td>
     <td><a href="https://www.math.miami.edu/~ec/book/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.math.miami.edu/~ec/book/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2026</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tfoot>

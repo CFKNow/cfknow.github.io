@@ -20,9 +20,10 @@ def create_markdown_from_excel_with_replacements(excel_file):
 
             with open(md_filename, 'w') as file:
                 # Write the header to the Markdown file
-                file.write(f"---\npermalink: /get/{first_row}/\n")
-                file.write(f"title: \"{title}\"\nlayout: single\ntoc: false\n")
-                file.write("author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: \"get\"\n---\n\n")
+                file.write(f'---\npermalink: /get/{first_row}/\n')
+                file.write(f'title: "{title}"\nlayout: single\ntoc: false\n')
+                file.write('author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: get\n---\n\n')
+                file.write('<div>\nToggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>\n</div>')
 
                 if len(pd.read_excel(xls, sheet_name, header=None)) > 1:
                     df = pd.read_excel(xls, sheet_name, header=1)
@@ -38,10 +39,10 @@ def create_markdown_from_excel_with_replacements(excel_file):
                         for j, cell in enumerate(row):
                             cell_value = '' if pd.isna(cell) else cell
                             if df.columns[j] == "URLs" and isinstance(cell_value, str):
-                                cell_value = cell_value.replace('>PDF</a>', ' class="btn btn--primary">PDF</a>')
-                                cell_value = cell_value.replace('>HTML</a>', ' class="btn btn--primary">HTML</a>')
-                                cell_value = cell_value.replace('>Code</a>', ' class="btn btn--primary">PDF</a>')
-                                cell_value = cell_value.replace('>Datasets</a>', ' class="btn btn--primary">HTML</a>')
+                                cell_value = cell_value.replace('>PDF', ' class="btn btn--primary">PDF')
+                                cell_value = cell_value.replace('>HTML', ' class="btn btn--primary">HTML')
+                                cell_value = cell_value.replace('>Resources</a>', ' class="btn btn--primary">Resources</a>')
+                                cell_value = cell_value.replace('>Errata</a>', ' class="btn btn--primary">Errata</a>')
                                 cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
                             elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('<a ', '<a class="btn btn--danger" ')
