@@ -45,11 +45,22 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Book</td>
     <td>Algebra</td>
     <td>Judson, Thomas W.</td>
-    <td>English
-Spanish</td>
+    <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">HTML En</a><br><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">HTML Es</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">HTML</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-11</td>
+    <td>GNU Free Documentation License (GFDL)</td>
+</tr>
+<tr>
+    <td>Abstract Algebra: Theory and Applications</td>
+    <td>Book</td>
+    <td>Algebra</td>
+    <td>Judson, Thomas W.</td>
+    <td>Spanish</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">HTML</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License (GFDL)</td>
 </tr>
