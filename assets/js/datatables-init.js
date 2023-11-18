@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "columnDefs": [
                 {
                     "targets": [3, 8, 9], // Indices of 'Authors', 'Last checked', and 'License' columns
-                    "visible": false
+                    "visible": true
                 }
             ],
             "initComplete": function () {
