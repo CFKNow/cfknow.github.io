@@ -5,9 +5,9 @@
 
 ## Vision and roadmap
 
-## How contact project memebers
+## How contact project members
 
-# How you can contributels
+# How you can contribute
 ## How to file a bug report
 
 ## How to suggest a new feature
