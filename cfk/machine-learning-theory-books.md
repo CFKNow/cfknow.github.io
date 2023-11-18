@@ -31,7 +31,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Pattern Recognition and Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Bishop, Christopher M.</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -43,8 +44,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Patterns, predictions, and actions: Foundations of machine learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Hardt, Moritz / Recht, Benjamin</td>
+    <td>Algorithms
+Theory</td>
+    <td>Hardt, Moritz
+Recht, Benjamin</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -55,8 +58,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Goodfellow, Ian / Bengio, Yoshua / Courville, Aaron</td>
+    <td>Algorithms
+Theory</td>
+    <td>Goodfellow, Ian
+Bengio, Yoshua
+Courville, Aaron</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -67,8 +73,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Understanding Machine Learning: From Theory to Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Shalev-Shwartz, Shai / Ben-David, Shai</td>
+    <td>Algorithms
+Theory</td>
+    <td>Shalev-Shwartz, Shai
+Ben-David, Shai</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -79,7 +87,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Understanding Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Prince, Simon J.D.</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -91,8 +100,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Bandit Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Lattimore, Tom / Szepesvári, Csaba</td>
+    <td>Algorithms
+Theory</td>
+    <td>Lattimore, Tom
+Szepesvári, Csaba</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -103,8 +114,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Boosting: Foundations and Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Schapire, Robert E. / Freund, Yoav</td>
+    <td>Algorithms
+Theory</td>
+    <td>Schapire, Robert E.
+Freund, Yoav</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -115,8 +128,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Foundations of Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Mohri, Mehryar / Rostamizadeh, Afshin / Talwalkar, Ameet</td>
+    <td>Algorithms
+Theory</td>
+    <td>Mohri, Mehryar
+Rostamizadeh, Afshin
+Talwalkar, Ameet</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -127,8 +143,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Mathematics for Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Deisenroth, Marc P. / Faisal, A. Aldo / Ong, Cheng Soon.</td>
+    <td>Algorithms
+Theory</td>
+    <td>Deisenroth, Marc P.
+Faisal, A. Aldo
+Ong, Cheng Soon.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -139,8 +158,14 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>An Introduction to Statistical Learning, with Applications in Python</td>
     <td>Book</td>
-    <td>Algorithms / Theory / Programming</td>
-    <td>James, Gareth / Witten, Daniela / Hastie, Trevor / Tibshirani, Robert / Taylor, Jonathan</td>
+    <td>Algorithms
+Theory
+Programming</td>
+    <td>James, Gareth
+Witten, Daniela
+Hastie, Trevor
+Tibshirani, Robert
+Taylor, Jonathan</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -151,8 +176,13 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>An Introduction to Statistical Learning, with Applications in R</td>
     <td>Book</td>
-    <td>Algorithms / Theory / Programming</td>
-    <td>James, Gareth / Witten, Daniela / Hastie, Trevor / Tibshirani, Robert</td>
+    <td>Algorithms
+Theory
+Programming</td>
+    <td>James, Gareth
+Witten, Daniela
+Hastie, Trevor
+Tibshirani, Robert</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -163,8 +193,12 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>The Elements of Statistical Learning: Data Mining, Inference, and Prediction</td>
     <td>Book</td>
-    <td>Algorithms / Theory / Programming</td>
-    <td>Hastie, Trevor / Tibshirani, Robert / Friedman, Jerome</td>
+    <td>Algorithms
+Theory
+Programming</td>
+    <td>Hastie, Trevor
+Tibshirani, Robert
+Friedman, Jerome</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -175,8 +209,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Linear Algebra and Optimization with Applications to Machine Learning - Volume I: Linear Algebra for Computer Vision, Robotics, and Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
-    <td>Gallier, Jean / Quaintance, Jocelyn</td>
+    <td>Algorithms
+Math
+Theory</td>
+    <td>Gallier, Jean
+Quaintance, Jocelyn</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -187,8 +224,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
-    <td>Gallier, Jean / Quaintance, Jocelyn</td>
+    <td>Algorithms
+Math
+Theory</td>
+    <td>Gallier, Jean
+Quaintance, Jocelyn</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -199,8 +239,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Data Mining and Machine Learning: Fundamental Concepts and Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Zaki, Mohammed J. / Meira, Wagner Jr</td>
+    <td>Algorithms
+Theory</td>
+    <td>Zaki, Mohammed J.
+Meira, Wagner Jr</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -211,8 +253,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Speech and Language Processing</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Jurafsky, Dan / Martin, James H.</td>
+    <td>Algorithms
+Theory</td>
+    <td>Jurafsky, Dan
+Martin, James H.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -223,7 +267,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Mathematical Analysis of Machine Learning Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Zhang, Tong</td>
     <td>English</td>
     <td>Grad</td>
@@ -235,8 +280,12 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
-    <td>Jentzen, Arnulf / Kuckuck, Benno / von Wurstemberger, Philippe</td>
+    <td>Algorithms
+Math
+Theory</td>
+    <td>Jentzen, Arnulf
+Kuckuck, Benno
+von Wurstemberger, Philippe</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -247,8 +296,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Multi-Agent Reinforcement Learning: Foundations and Modern Approaches</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Albrecht, Stefano V. / Christianos, Filippos / Schäfer, Lukas</td>
+    <td>Algorithms
+Theory</td>
+    <td>Albrecht, Stefano V.
+Christianos, Filippos
+Schäfer, Lukas</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -259,7 +311,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>A First Course in Causal Inference</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Ding, Peng</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -271,8 +324,12 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Distributional Reinforcement Learning</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
-    <td>Bellemare, Marc G. / Dabney, Will / Rowland, Mark</td>
+    <td>Algorithms
+Math
+Theory</td>
+    <td>Bellemare, Marc G.
+Dabney, Will
+Rowland, Mark</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -283,7 +340,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Probabilistic Machine Learning: An Introduction</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Murphy, Kevin P.</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -295,7 +353,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Probabilistic Machine Learning: Advanced Topics</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Murphy, Kevin P.</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -307,7 +366,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Bayesian Reasoning and Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Barber, David</td>
     <td>English</td>
     <td>Grad</td>
@@ -319,7 +379,9 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Convex Optimization for Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
+    <td>Algorithms
+Math
+Theory</td>
     <td>Suh, Changho</td>
     <td>English</td>
     <td>Undergrad</td>
@@ -331,8 +393,10 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Reinforcement Learning: An Introduction</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Sutton, Richard S. / Barto, Andrew G.</td>
+    <td>Algorithms
+Theory</td>
+    <td>Sutton, Richard S.
+Barto, Andrew G.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
@@ -343,8 +407,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Computational Topology for Data Analysis</td>
     <td>Book</td>
-    <td>Algorithms / Math / Theory</td>
-    <td>Dey, Tamal K. / Wang, Yusu</td>
+    <td>Algorithms
+Math
+Theory</td>
+    <td>Dey, Tamal K.
+Wang, Yusu</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -355,8 +422,11 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Elements of Causal Inference: Foundations and Learning Algorithms</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
-    <td>Peters, Jonas / Janzing, Dominik / Schölkopf, Bernhard</td>
+    <td>Algorithms
+Theory</td>
+    <td>Peters, Jonas
+Janzing, Dominik
+Schölkopf, Bernhard</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
@@ -367,7 +437,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Pen and Paper Exercises in Machine Learning</td>
     <td>Book</td>
-    <td>Algorithms / Theory</td>
+    <td>Algorithms
+Theory</td>
     <td>Gutmann, Michael U.</td>
     <td>English</td>
     <td>Undergrad</td>

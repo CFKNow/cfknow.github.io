@@ -31,7 +31,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Measure, Integration & Real Analysis</td>
     <td>Book</td>
-    <td>Measure / Integration</td>
+    <td>Measure
+Integration</td>
     <td>Axler, Sheldon</td>
     <td>English</td>
     <td>Grad</td>

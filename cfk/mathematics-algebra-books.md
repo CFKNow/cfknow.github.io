@@ -49,7 +49,7 @@ Matrix theory</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://wstein.org/ent/ent.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/williamstein/ent" target="_blank">Repo</a><br><a href="https://wstein.org/ent/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://wstein.org/ent/ent.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/williamstein/ent" target="_blank" class="btn btn--primary">Resources</a><br><a href="https://wstein.org/ent/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>

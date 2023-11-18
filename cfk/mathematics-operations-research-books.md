@@ -31,7 +31,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>An introduction to optimization on smooth manifolds</td>
     <td>Book</td>
-    <td>Geometry / Optimization</td>
+    <td>Geometry
+Optimization</td>
     <td>Boumal, Nicolas</td>
     <td>English</td>
     <td>Grad</td>
