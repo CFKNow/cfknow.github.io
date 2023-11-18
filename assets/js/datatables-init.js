@@ -4,21 +4,14 @@ document.addEventListener('DOMContentLoaded', function() {
         var dataTableInstance = jQuery('table.display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
-            },
-            "columnDefs": [
-                { 
-                    "targets": ["Authors", "Last checked", "License"],
-                    "visible": false,
-                    "searchable": false
-                }
-            ],
+            },          
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
                     var columnName = jQuery(column.header()).text().trim();
 
                     // Define the column names to exclude from the dropdown filter
-                    var excludedColumns = ["Title", "Subjects", "Audience", "URLs", "Reviews", "License"];
+                    var excludedColumns = ["Title", "Subjects", "Audience", "Authors", "URLs", "Reviews", "License"];
                     if (excludedColumns.includes(columnName)) {
                         return; // Skip this iteration
                     }
@@ -73,6 +66,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 column.visible(!column.visible());
             });
         });
+        
     } else {
         console.error("jQuery is not loaded");
     }
