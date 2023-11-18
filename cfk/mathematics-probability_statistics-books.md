@@ -32,8 +32,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Introduction to Probability</td>
     <td>Book</td>
     <td>Probability</td>
-    <td>Grinstead, Charles M.
-Snell, J. Laurie</td>
+    <td>Grinstead, Charles M.<br>Snell, J. Laurie</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>

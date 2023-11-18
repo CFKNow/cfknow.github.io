@@ -31,8 +31,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Linear Algebra Done Right</td>
     <td>Book</td>
-    <td>Linear and multilinear algebras
-Matrix theory</td>
+    <td>Linear and multilinear algebras<br>Matrix theory</td>
     <td>Axler, Sheldon</td>
     <td>English</td>
     <td>Undergrad</td>

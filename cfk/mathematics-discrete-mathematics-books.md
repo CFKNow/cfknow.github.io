@@ -31,8 +31,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
 <tr>
     <td>Discrete Mathematics: An Open Introduction</td>
     <td>Book</td>
-    <td>Discrete mathematics
-Graph theory</td>
+    <td>Discrete mathematics<br>Graph theory</td>
     <td>Levin, Oscar</td>
     <td>English</td>
     <td>Undergrad</td>
