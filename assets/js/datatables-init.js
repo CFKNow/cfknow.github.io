@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 "lengthMenu": "Display entries: _MENU_"
             },
             "columnDefs": [
-                { 
+                {
                     "targets": [3, 8, 9], // Indices of 'Authors', 'Last checked', and 'License' columns
                     "visible": false
                 }
@@ -26,7 +26,6 @@ document.addEventListener('DOMContentLoaded', function() {
                     var select = document.createElement('select');
                     select.classList.add("dataTables_length", "select");
                     select.style.backgroundColor = "transparent"; 
-                    select.style.maxWidth = "100%"; // Set max width to 100% of the column width
                     select.add(new Option(''));
 
                     column.footer().replaceChildren(select);
@@ -61,16 +60,14 @@ document.addEventListener('DOMContentLoaded', function() {
         document.head.appendChild(style);
 
         // Setup column visibility toggle
-        document.querySelectorAll('a.toggle-vis').forEach((el) => {
-            el.addEventListener('click', function (e) {
-                e.preventDefault();
+        jQuery(dataTableInstance.table().container()).on('click', 'a.toggle-vis', function(e) {
+            e.preventDefault();
 
-                let columnIdx = this.getAttribute('data-column');
-                let column = dataTableInstance.column(columnIdx);
+            let columnIdx = jQuery(this).data('column');
+            let column = dataTableInstance.column(columnIdx);
 
-                // Toggle the visibility
-                column.visible(!column.visible());
-            });
+            // Toggle the visibility
+            column.visible(!column.visible());
         });
     } else {
         console.error("jQuery is not loaded");
