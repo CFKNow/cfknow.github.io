@@ -4,7 +4,13 @@ document.addEventListener('DOMContentLoaded', function() {
         var dataTableInstance = jQuery('table.display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
-            },          
+            },
+            "columnDefs": [
+                { 
+                    "targets": [3, 8, 9], // Indices of 'Authors', 'Last checked', and 'License' columns
+                    "visible": false
+                }
+            ],
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
