@@ -10,7 +10,7 @@ sidebar:
   nav: get
 ---
 
-<div>
+<div class="table_cols_toggles">
 Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
 </div><table class="display">
 <thead>
@@ -41,17 +41,5 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td></td>
 </tr>
 <tfoot>
-<tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-</tr>
 </tfoot>
 </table>
