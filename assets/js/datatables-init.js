@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     if (window.jQuery) {
-        jQuery('table.display').DataTable({
+        // Initialize DataTables and store the instance
+        var dataTableInstance = jQuery('table.display').DataTable({
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },          
@@ -9,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var column = this;
                     var columnName = jQuery(column.header()).text().trim();
 
-                    // Define the column names to exclude
+                    // Define the column names to exclude from the dropdown filter
                     var excludedColumns = ["Title", "Subjects", "Audience", "Authors", "URLs", "Reviews", "License"];
                     if (excludedColumns.includes(columnName)) {
                         return; // Skip this iteration
@@ -38,18 +39,10 @@ document.addEventListener('DOMContentLoaded', function() {
                         select.add(new Option(d));
                     });
                 });
-
-                // Apply specific styles to the table
-                jQuery('table.display').css({
-                    'margin': '0 auto',
-                    'clear': 'both',
-                    'width': '100%',
-                    'table-layout': 'fixed'
-                });
             }
-        }); 
+        });
 
-        // Additional code for setting column styles if needed
+        // Additional code for setting column styles
         jQuery('table.display td').css({
             'white-space': 'pre-wrap',
             'word-wrap': 'break-word'
@@ -66,16 +59,16 @@ document.addEventListener('DOMContentLoaded', function() {
             el.addEventListener('click', function (e) {
                 e.preventDefault();
 
-                let columnIdx = e.target.getAttribute('data-column');
+                let columnIdx = this.getAttribute('data-column');
                 let column = dataTableInstance.column(columnIdx);
 
                 // Toggle the visibility
                 column.visible(!column.visible());
             });
         });
-
     } else {
         console.error("jQuery is not loaded");
     }
 });
+
 
