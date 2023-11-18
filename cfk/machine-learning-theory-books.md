@@ -9,9 +9,9 @@ share: true
 sidebar:
   nav: "get"
 ---
-<div>
+<div class="table-cols-toggles">
   Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
-    </div>
+</div>
 <table class="display" style="width:100%">
 <thead>
 <tr>
