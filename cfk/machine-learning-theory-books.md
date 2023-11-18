@@ -12,6 +12,7 @@ sidebar:
 <div>
   Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
 </div>
+pippo
 <table class="display" style="width:100%">
 <thead>
 <tr>
