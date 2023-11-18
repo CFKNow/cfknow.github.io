@@ -40,9 +40,10 @@ def create_markdown_from_excel_with_replacements(excel_file):
                             if df.columns[j] == "URLs" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('>PDF</a>', ' class="btn btn--primary">PDF</a>')
                                 cell_value = cell_value.replace('>HTML</a>', ' class="btn btn--primary">HTML</a>')
+                                cell_value = cell_value.replace('>Code</a>', ' class="btn btn--primary">PDF</a>')
+                                cell_value = cell_value.replace('>Datasets</a>', ' class="btn btn--primary">HTML</a>')
                                 cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
                             elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
-                                # Apply specific replacement for each <a> tag in the cell
                                 cell_value = cell_value.replace('<a ', '<a class="btn btn--danger" ')
                             file.write(f"    <td>{cell_value}</td>\n")
                         file.write("</tr>\n")
@@ -54,5 +55,5 @@ def create_markdown_from_excel_with_replacements(excel_file):
 
                     file.write("</table>\n")
 
-# Replace 'cfk.xlsx' with the path to your Excel file
+
 create_markdown_from_excel_with_replacements('cfk.xlsx')
