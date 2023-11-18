@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     var columnName = jQuery(column.header()).text().trim();
 
                     // Define the column names to exclude
-                    var excludedColumns = ["URLs", "Reviews"];
+                    var excludedColumns = ["Title", "Authors", "URLs", "Reviews"];
                     if (excludedColumns.includes(columnName)) {
                         return; // Skip this iteration
                     }
