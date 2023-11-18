@@ -89,8 +89,6 @@ tags:
 
 ![image-left](/assets/images/coverLADR4e.png){: .align-left}
 
-
-
 1. Vector Spaces
 2. Finite-Dimensional Vector Spaces
 3. Linear Maps
@@ -100,7 +98,5 @@ tags:
 7. Operators on Inner Product Spaces
 8. Operators on Complex Vector Spaces
 9. Multilinear Algebra and Determinants
-
-
 
 # Recensione di 'Linear Algebra Done Right'
