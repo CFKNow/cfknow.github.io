@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             "columnDefs": [
                 { 
                     "targets": 0, // Target the first column
-                    "width": "15%"
+                    "width": 100px
                 }
             ],            
             "initComplete": function () {
