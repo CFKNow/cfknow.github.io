@@ -41,17 +41,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
 
-        // Additional code for setting column styles
-        jQuery('table.display td').css({
-            'white-space': 'pre-wrap',
-            'word-wrap': 'break-word'
-        });
-
-        // Inject CSS to limit the width of the first column
-        var style = document.createElement('style');
-        style.type = 'text/css';
-        style.innerHTML = '.display th:first-child, .display td:first-child { max-width: 15%; }';
-        document.head.appendChild(style);
+        // DEL
 
         // Setup column visibility toggle
         jQuery(dataTableInstance.table().container()).on('click', 'a.toggle-vis', function(e) {
