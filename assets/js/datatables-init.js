@@ -5,14 +5,22 @@ document.addEventListener('DOMContentLoaded', function() {
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
+            "columnDefs": [
+                {
+                    "targets": [3, 5, 8, 9], // Indices of 'Authors', 'Audience', 'Last checked', and 'License' columns
+                    "visible": false
+                }
+            ],
             "initComplete": function () {
-                this.api().columns().every(function (index) {
+                //console.log("DataTable initialized.");
+                this.api().columns().every(function () {
                     var column = this;
                     var columnName = jQuery(column.header()).text().trim();
 
                     // Define the column names to exclude from the dropdown filter
                     var excludedColumns = ["Title", "Subjects", "Audience", "Authors", "URLs", "Reviews", "License"];
                     if (excludedColumns.includes(columnName)) {
+                        //console.log("Column excluded from dropdown filter:", columnName);
                         return; // Skip this iteration
                     }
 
@@ -34,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     });
 
                     // Add list of options
-                    column.data().unique().sort().each(function (d, j) {
+                    column.data().unique().sort().each(function (d) {
                         select.add(new Option(d));
                     });
                 });
@@ -48,21 +56,31 @@ document.addEventListener('DOMContentLoaded', function() {
         });
 
         // Inject CSS to limit the width of the first column
-        var style = document.createElement('style');
-        style.type = 'text/css';
-        style.innerHTML = '.display th:first-child, .display td:first-child { max-width: 15%; }';
-        document.head.appendChild(style);
+        // var style = document.createElement('style');
+        // style.type = 'text/css';
+        // style.innerHTML = '.display th:first-child, .display td:first-child { max-width: 15%; }';
+        // document.head.appendChild(style);
 
         // Setup column visibility toggle
-        jQuery(dataTableInstance.table().container()).on('click', 'a.toggle-vis', function(e) {
+        jQuery(document).on('click', 'a.toggle-vis', function(e) {
             e.preventDefault();
-
+        
+            // Log that the link was clicked
+            // console.log("Toggle link clicked.");
+        
             let columnIdx = jQuery(this).data('column');
+            // console.log("Toggling visibility for column:", columnIdx);
             let column = dataTableInstance.column(columnIdx);
-
-            // Toggle the visibility
-            column.visible(!column.visible());
+        
+            // Check if the column was found before toggling visibility
+            if (column) {
+                // Toggle the visibility
+                column.visible(!column.visible());
+            } else {
+                console.error("Column not found:", columnIdx);
+            }
         });
+
     } else {
         console.error("jQuery is not loaded");
     }
