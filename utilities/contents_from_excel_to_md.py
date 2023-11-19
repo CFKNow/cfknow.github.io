@@ -41,7 +41,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
                             if df.columns[j] == "URLs" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('>PDF', ' class="btn btn--primary">PDF')
                                 cell_value = cell_value.replace('>HTML', ' class="btn btn--primary">HTML')
-                                cell_value = cell_value.replace('>Resources</a>', ' class="btn btn--primary">Resources</a>')
+                                cell_value = cell_value.replace('>Res</a>', ' class="btn btn--primary">Res</a>')
                                 cell_value = cell_value.replace('>Errata</a>', ' class="btn btn--primary">Errata</a>')
                                 cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
                             elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
