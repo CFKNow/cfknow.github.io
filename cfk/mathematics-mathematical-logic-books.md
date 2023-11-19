@@ -139,4 +139,4 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td></td>
 </tr>
 </tfoot>
-</table>
+
