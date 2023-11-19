@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <div class="table_cols_toggles">
-Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> - <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> - <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> - <a class="toggle-vis btn btn--danger" data-column="9">License</a>
+Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>
 <table class="display" style="width:100%">
 <thead>
