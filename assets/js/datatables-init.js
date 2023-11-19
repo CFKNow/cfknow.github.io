@@ -10,16 +10,35 @@ document.addEventListener('DOMContentLoaded', function() {
                 this.api().columns().every(function () {
                     var column = this;
                     var columnName = jQuery(column.header()).text().trim();
-                    console.log("Processing column: " + columnName);
 
                     // Define the column names to exclude from the dropdown filter
                     var excludedColumns = ["Title", "Subjects", "Audience", "Authors", "URLs", "Reviews", "License"];
                     if (excludedColumns.includes(columnName)) {
-                        console.log("Column excluded from dropdown filter: " + columnName);
+                        console.log("Column excluded from dropdown filter:", columnName);
                         return; // Skip this iteration
                     }
 
-                    // Rest of your initComplete function...
+                    // Create select element and add class
+                    var select = document.createElement('select');
+                    select.classList.add("dataTables_length", "select");
+                    select.style.backgroundColor = "transparent"; 
+                    select.add(new Option(''));
+
+                    column.footer().replaceChildren(select);
+
+                    // Apply listener for user change in value
+                    select.addEventListener('change', function () {
+                        var val = jQuery.fn.dataTable.util.escapeRegex(select.value);
+
+                        column
+                            .search(val ? '^' + val + '$' : '', true, false)
+                            .draw();
+                    });
+
+                    // Add list of options
+                    column.data().unique().sort().each(function (d) {
+                        select.add(new Option(d));
+                    });
                 });
             }
         });
@@ -41,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
             e.preventDefault();
 
             let columnIdx = jQuery(this).data('column');
-            console.log("Toggling visibility for column: " + columnIdx);
+            console.log("Toggling visibility for column:", columnIdx);
             let column = dataTableInstance.column(columnIdx);
 
             // Check if the column was found before toggling visibility
@@ -49,7 +68,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 // Toggle the visibility
                 column.visible(!column.visible());
             } else {
-                console.error("Column not found: " + columnIdx);
+                console.error("Column not found:", columnIdx);
             }
         });
     } else {
