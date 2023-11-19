@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
                     "targets": [3, 5, 8, 9], // Indices of 'Authors', 'Audience', 'Last checked', and 'License' columns
                     "visible": false
                 }
-            ]
+            ],
             "initComplete": function () {
                 //console.log("DataTable initialized.");
                 this.api().columns().every(function () {
