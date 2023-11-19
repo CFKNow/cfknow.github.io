@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <div class="table_cols_toggles">
-Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="5">Audience</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
+Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> - <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> - <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> - <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>
 <table class="display" style="width:100%">
 <thead>
@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://joyofcryptography.com/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://joyofcryptography.com/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://joyofcryptography.com/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://joyofcryptography.com/" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-17</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
 </tr>
@@ -55,4 +55,3 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td></td>
 </tr>
 </tfoot>
-</table>

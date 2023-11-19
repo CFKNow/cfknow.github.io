@@ -11,7 +11,7 @@ sidebar:
 ---
 
 <div class="table_cols_toggles">
-Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="toggle-vis" data-column="5">Audience</a> - <a class="toggle-vis" data-column="8">Last checked</a> - <a class="toggle-vis" data-column="9">License</a>
+Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> - <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> - <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> - <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>
 <table class="display" style="width:100%">
 <thead>
@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://builds.openlogicproject.org/open-logic-complete.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://openlogicproject.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://builds.openlogicproject.org/open-logic-complete.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://openlogicproject.org/" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://slc.openlogicproject.org/slc-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://slc.openlogicproject.org" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://slc.openlogicproject.org/slc-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://slc.openlogicproject.org" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -61,7 +61,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://forallx.openlogicproject.org/forallxyyc.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://forallx.openlogicproject.org" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://forallx.openlogicproject.org/forallxyyc.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://forallx.openlogicproject.org" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -73,7 +73,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://ic.openlogicproject.org/ic-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://ic.openlogicproject.org" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://ic.openlogicproject.org/ic-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://ic.openlogicproject.org" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -85,7 +85,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://bd.openlogicproject.org/bd-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://bd.openlogicproject.org" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://bd.openlogicproject.org/bd-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://bd.openlogicproject.org" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -97,7 +97,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://st.openlogicproject.org/settheory-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/set-theory/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://st.openlogicproject.org/settheory-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/set-theory/" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -109,19 +109,19 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://builds.openlogicproject.org/courses/intermediate-logic/il-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/intermediate-logic/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://builds.openlogicproject.org/courses/intermediate-logic/il-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/intermediate-logic/" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
 <tr>
     <td>What if?: An Open Introduction to Non-Classical Logics</td>
-    <td></td>
+    <td>Book</td>
     <td>Non-classical logics</td>
     <td>The Open Logic Project contributors</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://builds.openlogicproject.org/courses/what-if/wi-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/what-if/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://builds.openlogicproject.org/courses/what-if/wi-screen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://builds.openlogicproject.org/courses/what-if/" target="_blank" class="btn btn--warning">Site</a></td>
     <td>2023-11-19</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -139,4 +139,3 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td></td>
 </tr>
 </tfoot>
-</table>
