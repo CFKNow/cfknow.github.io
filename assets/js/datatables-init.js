@@ -56,13 +56,16 @@ document.addEventListener('DOMContentLoaded', function() {
         document.head.appendChild(style);
 
         // Setup column visibility toggle
-        jQuery(dataTableInstance.table().container()).on('click', 'a.toggle-vis', function(e) {
+        jQuery(document).on('click', 'a.toggle-vis', function(e) {
             e.preventDefault();
-
+        
+            // Log that the link was clicked
+            console.log("Toggle link clicked.");
+        
             let columnIdx = jQuery(this).data('column');
             console.log("Toggling visibility for column:", columnIdx);
             let column = dataTableInstance.column(columnIdx);
-
+        
             // Check if the column was found before toggling visibility
             if (column) {
                 // Toggle the visibility
@@ -71,6 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 console.error("Column not found:", columnIdx);
             }
         });
+
     } else {
         console.error("jQuery is not loaded");
     }
