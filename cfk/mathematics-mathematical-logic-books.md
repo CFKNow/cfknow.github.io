@@ -139,3 +139,4 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
 </tr>
 </tfoot>
+
