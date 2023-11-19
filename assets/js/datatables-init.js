@@ -5,12 +5,6 @@ document.addEventListener('DOMContentLoaded', function() {
             "language": {
                 "lengthMenu": "Display entries: _MENU_"
             },
-            "columnDefs": [
-                {
-                    "targets": [3, 8, 9], // Indices of 'Authors', 'Last checked', and 'License' columns
-                    "visible": true
-                }
-            ],
             "initComplete": function () {
                 this.api().columns().every(function (index) {
                     var column = this;
