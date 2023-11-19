@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td><a class="btn btn--danger" href="https://cfknow.github.io/review/Pattern-Recognition-and-Machine-Learning/" target="_blank">2023-11-11</a></td>
     <td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href="https://mlstory.org/pdf/patterns.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://mlstory.org/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -61,7 +61,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href="https://www.deeplearningbook.org/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -73,7 +73,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -96,8 +96,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://tor-lattimore.com/downloads/book/book.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://tor-lattimore.com/downloads/book/solutions.pdf" target = "_blank"  class="btn btn--primary">Resources</a></td>
-    <td>11/11/2023</td>
+    <td><a href = "https://tor-lattimore.com/downloads/book/book.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://tor-lattimore.com/downloads/book/solutions.pdf" target = "_blank"  class="btn btn--primary">Res</a></td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -109,7 +109,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -121,7 +121,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover" target = "_blank" class="btn btn--primary">HTML</a><br><a href = "https://cs.nyu.edu/~mohri/mlbook/errata_ed2_p1.html" target = "_blank" class="btn btn--primary">Errata</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://mml-book.github.io/book/mml-book.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://mml-book.github.io/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -144,8 +144,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-python" target = "_blank" class="btn btn--primary">Resources</a></td>
-    <td>11/11/2023</td>
+    <td><a href = "https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-python" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -156,8 +156,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-second-edition" target = "_blank" class="btn btn--primary">Resources</a></td>
-    <td>11/11/2023</td>
+    <td><a href = "https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-second-edition" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -169,7 +169,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://hastie.su.domains/ElemStatLearn/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.seas.upenn.edu/~cis5150/linalg-I.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/linalg.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -193,7 +193,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "http://www.cis.upenn.edu/~jean/math-deep.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/geomath.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://dataminingbook.info/book_html/" target = "_blank"  class="btn btn--primary">HTML</a><br><a href = "https://dataminingbook.info/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://web.stanford.edu/~jurafsky/slp3/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "https://tongzhang-ml.org/lt-book/lt-book.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://tongzhang-ml.org/lt-book.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
 <tr>
@@ -240,8 +240,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/pdf/2310.20360.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://github.com/introdeeplearning/book" target = "_blank" class="btn btn--primary">Resources</a></td>
-    <td>11/11/2023</td>
+    <td><a href = "https://arxiv.org/pdf/2310.20360.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://github.com/introdeeplearning/book" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.marl-book.com/download"  class="btn btn--primary">PDF</a><br><a href = "https://www.marl-book" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -264,8 +264,8 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/abs/2305.18793"  class="btn btn--primary">PDF</a><br><a href = "https://sites.google.com/site/pengdingpku/teaching" target = "_blank" class="btn btn--info">Site</a><br><a href = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZX3VEV" target = "_blank" class="btn btn--primary">Resources</a></td>
-    <td>11/11/2023</td>
+    <td><a href = "https://arxiv.org/abs/2305.18793"  class="btn btn--primary">PDF</a><br><a href = "https://sites.google.com/site/pengdingpku/teaching" target = "_blank" class="btn btn--info">Site</a><br><a href = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZX3VEV" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -277,7 +277,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5590/Distributional-Reinforcement-Learning" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -289,7 +289,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://github.com/probml/pml-book/releases/latest/download/book1.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://probml.github.io/pml-book/book1.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -301,7 +301,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://github.com/probml/pml2-book/releases/latest/download/book2.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://probml.github.io/pml-book/book2.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -313,7 +313,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf"  class="btn btn--primary">PDF</a><br><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
@@ -325,7 +325,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.nowpublishers.com/article/DownloadEBook/9781638280521?format=pdf"  class="btn btn--primary">PDF</a><br><a href = "https://www.nowpublishers.com/article/BookDetails/9781638280521" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC 2.0 DEED</td>
 </tr>
 <tr>
@@ -337,7 +337,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "http://incompleteideas.net/book/RLbook2020.pdf"  class="btn btn--primary">PDF</a><br><a href = "http://incompleteideas.net/book/the-book.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 2.0 DEED</td>
 </tr>
 <tr>
@@ -349,7 +349,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
 <tr>
@@ -361,7 +361,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Grad</td>
     <td></td>
     <td><a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
@@ -373,7 +373,7 @@ Toggle column: <a class="toggle-vis" data-column="3">Authors</a> - <a class="tog
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://arxiv.org/pdf/2206.13446.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2206.13446" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>11/11/2023</td>
+    <td>2023-11-11</td>
     <td></td>
 </tr>
 <tfoot>
