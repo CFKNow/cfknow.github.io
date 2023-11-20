@@ -87,16 +87,40 @@ tags:
 	</table>
 </div>
 
-![image-left](/assets/images/coverLADR4e.png){: .align-left}
+<p>
+	<img src="/assets/images/coverLADR4e.png" alt="Linear Algebra Done Right cover" class="align-left">
+	Table of contents
+<ol>
+  <li>Vector Spaces</li>
+  <li>Finite-Dimensional Vector Spaces</li>
+  <li>Linear Maps</li>
+  <li>Polynomials</li>
+  <li>Eigenvalues, Eigenvectors</li>
+  <li>Inner Product Spaces</li>
+  <li>Operators on Inner Product Spaces</li>
+  <li>Operators on Complex Vector Spaces</li>
+  <li>Multilinear Algebra and Determinants</li>
+</ol>
+</p>
+<p>
+Linear Algebra Done Right" by Sheldon Axler is a highly regarded textbook, particularly suitable for undergraduate students seeking a deep and conceptual understanding of linear algebra. The book's unique approach is centered around the principle that linear algebra should be taught in a more abstract and theoretical manner, focusing on vector spaces and linear transformations rather than matrix operations.
+</p>
+<p>
+One of the standout features of Axler's book is its clarity in exposition. The concepts are presented in a logical and understandable manner, making it accessible even to those new to linear algebra. Axler emphasizes understanding over rote memorization, encouraging students to grasp the 'why' behind the methods and theorems.
+</p>
+<p>
+The book diverges from the traditional curriculum by delaying the introduction of determinants. Instead, it prioritizes an understanding of vector spaces and linear mappings, which some students find more intuitive. This approach provides a strong foundation for more advanced studies in mathematics and theoretical physics.
+</p>
+<p>
+Exercises in the book are thought-provoking and aim to reinforce the material in a meaningful way. They range from straightforward computations to more challenging problems that stimulate critical thinking and a deeper understanding of the subject.
+</p>
+<p>
+However, this approach might not be suitable for all students. Those who prefer a more computational or application-oriented approach might find Axler's abstract treatment less appealing. Also, since the book deviates from the standard curriculum, it might not align perfectly with some linear algebra courses, especially those that are more computation-focused.
+</p>
+<p>
+In summary, "Linear Algebra Done Right" is an excellent choice for students who prefer a theoretical and conceptual approach to linear algebra. It's well-written, clear, and fosters a deep understanding of the subject, making it a valuable resource for students aiming to build a strong mathematical foundation.
+</p>
 
-1. Vector Spaces
-2. Finite-Dimensional Vector Spaces
-3. Linear Maps
-4. Polynomials
-5. Eigenvalues, Eigenvectors
-6. Inner Product Spaces
-7. Operators on Inner Product Spaces
-8. Operators on Complex Vector Spaces
-9. Multilinear Algebra and Determinants
+
 
 # Recensione di 'Linear Algebra Done Right'
