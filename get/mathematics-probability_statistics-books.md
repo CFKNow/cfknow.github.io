@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/amsbook.mac.pdf" target="_blank">PDF</a><br><a href="https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html" target="_blank">Site</a></td>
+    <td><a href="https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/amsbook.mac.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://chance.dartmouth.edu/teaching_aids/books_articles/probability_book/book.html" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License (FDL)</td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://services.math.duke.edu/~rtd/EOSP/EOSP2021.pdf" target="_blank">PDF</a><br><a href="https://services.math.duke.edu/~rtd/EOSP/eosp.html" target="_blank">Site</a></td>
+    <td><a href="https://services.math.duke.edu/~rtd/EOSP/EOSP2021.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://services.math.duke.edu/~rtd/EOSP/eosp.html" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>

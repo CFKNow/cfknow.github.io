@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>General</td>
     <td></td>
-    <td><a href="https://ai.stanford.edu/%7Enilsson/QAI/qai.pdf" target="_blank">PDF</a></td>
+    <td><a href="https://ai.stanford.edu/%7Enilsson/QAI/qai.pdf" target="_blank" class="btn btn--primary">PDF</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>

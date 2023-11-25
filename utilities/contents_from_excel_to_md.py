@@ -53,6 +53,19 @@ def create_markdown_from_excel_with_replacements(excel_file):
                         file.write("<tr>\n")
                         for j, cell in enumerate(row):
                             cell_value = '' if pd.isna(cell) else cell
+
+                            if df.columns[j] == "URLs" and isinstance(cell_value, str):
+                                cell_value = cell_value.replace('>PDF', ' class="btn btn--primary">PDF')
+                                cell_value = cell_value.replace('>EPUB', ' class="btn btn--primary">EPUB')
+                                cell_value = cell_value.replace('>HTML', ' class="btn btn--primary">HTML')
+                                cell_value = cell_value.replace('>Res</a>', ' class="btn btn--primary">Res</a>')
+                                cell_value = cell_value.replace('>Errata</a>', ' class="btn btn--primary">Errata</a>')
+                                cell_value = cell_value.replace('>LATEX</a>', ' class="btn btn--primary">LATEX</a>')
+                                cell_value = cell_value.replace('>Code</a>', ' class="btn btn--primary">Code</a>')
+                                cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
+                            elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
+                                cell_value = cell_value.replace('<a ', '<a class="btn btn--success" ')
+
                             file.write(f"    <td>{cell_value}</td>\n")
                         file.write("</tr>\n")
 
@@ -62,7 +75,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
                     file.write("</tr>\n</tfoot>\n")
                 else:
                     # Handle case when there's no table
-                    file.write(f"No table data available in sheet: {sheet_name}\n")
+                    file.write("No content available")
 
     return rows_count_dict
 

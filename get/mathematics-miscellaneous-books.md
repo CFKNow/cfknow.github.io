@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1024&context=books" target="_blank">PDF</a><br><a href="https://scholarworks.gvsu.edu/books/24/" target="_blank">Site</a></td>
+    <td><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1024&context=books" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://scholarworks.gvsu.edu/books/24/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC 4.0 DEED</td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://joyofcryptography.com/pdf/book.pdf" target="_blank">PDF</a><br><a href="https://joyofcryptography.com/" target="_blank">Site</a></td>
+    <td><a href="https://joyofcryptography.com/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://joyofcryptography.com/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-17</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
 </tr>

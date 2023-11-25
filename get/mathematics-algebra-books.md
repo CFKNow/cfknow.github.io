@@ -36,8 +36,8 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Axler, Sheldon</td>
     <td>English</td>
     <td>Undergrad</td>
-    <td><a href="https://cfknow.github.io/review/Linear-Algebra-Done-Right/" target="_blank">2023-11</a></td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf" target="_blank">PDF</a><br><a href="https://linear.axler.net/" target="_blank">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank">Site</a></td>
+    <td><a class="btn btn--success" href="https://cfknow.github.io/review/Linear-Algebra-Done-Right/" target="_blank">2023-11</a></td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://linear.axler.net/" target="_blank" class="btn btn--info">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-06</td>
     <td>CC BY-NC 4.0 DEED</td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://wstein.org/ent/ent.pdf" target="_blank">PDF</a><br><a href="https://github.com/williamstein/ent" target="_blank">Res</a><br><a href="https://wstein.org/ent/" target="_blank">Site</a></td>
+    <td><a href="https://wstein.org/ent/ent.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/williamstein/ent" target="_blank" class="btn btn--primary">Res</a><br><a href="https://wstein.org/ent/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
