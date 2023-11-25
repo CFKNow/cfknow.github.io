@@ -18,7 +18,7 @@ get:
     text: "Books, courses, and other digital content"
     children: 
       - title: "Computer science"
-        url: /get/computer-science/
+        url: /computer-science/
       - title: "Machine learning"
         url: /machine-learning/
       - title: "Mathematics"
@@ -30,63 +30,71 @@ computer-science:
   - title: Books 
     children:
       - title: "Applications"
-        url: /get/computer-science/computer-science-applications-books/
+        url: /computer-science/computer-science-applications-books/
       - title: "Programming"
-        url: /get/computer-science/computer-science-programming-books/
+        url: /computer-science/computer-science-programming-books/
       - title: "Theory"
-        url: /get/computer-science/computer-science-theory-books/
+        url: /computer-science/computer-science-theory-books/
       - title: "Miscellaneous topics"
-        url: /get/computer-science/computer-science-miscellaneous-books/        
+        url: /computer-science/computer-science-miscellaneous-books/        
 
 machine-learning:
   - title: Books 
     children:
       - title: "Applications"
-        url: /get/machine-learning/machine-learning-applications-books/
+        url: /machine-learning/machine-learning-applications-books/
       - title: "Programming"
-        url: /get/machine-learning/machine-learning-programming-books/
+        url: /machine-learning/machine-learning-programming-books/
       - title: "Theory"
-        url: /get/machine-learning/machine-learning-theory-books/
+        url: /machine-learning/machine-learning-theory-books/
       - title: "Miscellaneous topics"
-        url: /get/machine-learning/machine-learning-miscellaneous-books/
+        url: /machine-learning/machine-learning-miscellaneous-books/
         
 mathematics:
   - title: Books
     children:
       - title: "Algebra"
-        url: /get/mathematics/mathematics-algebra-books/
+        url: /mathematics/mathematics-algebra-books/
       - title: "Algebra and topology"
-        url: /get/mathematics/mathematics-abstract-algebra_topology-books/
+        url: /mathematics/mathematics-abstract-algebra_topology-books/
       - title: "Calculus and differential equations"
-        url: /get/mathematics/mathematics-calculus_differential-equations-books/
+        url: /mathematics/mathematics-calculus_differential-equations-books/
       - title: "Discrete mathematics"
-        url: /get/mathematics/mathematics-discrete-mathematics-books/
+        url: /mathematics/mathematics-discrete-mathematics-books/
       - title: "Geometry and trigonometry"
-        url: /get/mathematics/mathematics-geometry_trigonometry-books/
+        url: /mathematics/mathematics-geometry_trigonometry-books/
       - title: "Mathematical logic"
-        url: /get/mathematics/mathematics-mathematical-logic-books/
+        url: /mathematics/mathematics-mathematical-logic-books/
       - title: "Operations research"
-        url: /get/mathematics/mathematics-operations-research-books/
+        url: /mathematics/mathematics-operations-research-books/
       - title: "Methods and numerical analysis"
-        url: /get/mathematics/mathematics-methods_numerical-analysis-books/
+        url: /mathematics/mathematics-methods_numerical-analysis-books/
       - title: "Probability and statistics"
-        url: /get/mathematics/mathematics-probability_statistics-books/   
+        url: /mathematics/mathematics-probability_statistics-books/   
       - title: "Real and complex analysis"
-        url: /get/mathematics/mathematics-real_complex-analysis-books/    
+        url: /mathematics/mathematics-real_complex-analysis-books/    
       - title: "Miscellaneous topics"
-        url: /get/mathematics/mathematics-miscellaneous-books/
+        url: /mathematics/mathematics-miscellaneous-books/
+  - title: "Computer science"
+    url: /computer-science/
+  - title: "Machine learning"
+    url: /machine-learning/
+  - title: "Mathematics"
+    url: /mathematics/
+  - title: "Quantum computing"
+    url: /quantum-computing/
 
 quantum-computing:
   - title: Books 
     children:
       - title: "Applications"
-        url: /get/quantum-computing/quantum-computing-applications-books/
+        url: /quantum-computing/quantum-computing-applications-books/
       - title: "Programming"
-        url: /get/quantum-computing/quantum-computing-programming-books/
+        url: /quantum-computing/quantum-computing-programming-books/
       - title: "Theory"
-        url: /get/quantum-computing/quantum-computing-theory-books/
+        url: /quantum-computing/quantum-computing-theory-books/
       - title: "Miscellaneous topics"
-        url: /get/quantum-computing/quantum-computing-miscellaneous-books/
+        url: /quantum-computing/quantum-computing-miscellaneous-books/
         
 learning-paths:
   - title: Machine learning practitioner
