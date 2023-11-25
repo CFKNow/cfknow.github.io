@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning/
+permalink: /machine-learning/
 title: "Machine learning resources"
 layout: single
 toc: false
