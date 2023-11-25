@@ -30,16 +30,16 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 </thead>
 <tbody>
 <tr>
-    <td>The Joy of Cryptography</td>
+    <td>Numerical Methods</td>
     <td>Book</td>
-    <td>Applied math<br> Cryptography</td>
-    <td>Rosulek, Mike</td>
+    <td>Numerical Methods</td>
+    <td>Chasnov, Jeffrey R. </td>
     <td>English</td>
-    <td>Grad</td>
+    <td>Undergrad</td>
     <td></td>
-    <td><a href="https://joyofcryptography.com/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://joyofcryptography.com/" target="_blank" class="btn btn--warning">Site</a></td>
-    <td>2023-11-17</td>
-    <td>CC BY-NC-SA 4.0 DEED</td>
+    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Numerical_Methods_(Chasnov)" target="_blank" class="btn btn--primary">HTML</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY 1.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

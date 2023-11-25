@@ -26,6 +26,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
 
                 if len(pd.read_excel(xls, sheet_name, header=None)) > 1:
                     df = pd.read_excel(xls, sheet_name, header=1)
+                    df = df.sort_values(df.columns[0])
 
                     file.write('<div class="table_cols_toggles">\nToggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>\n</div>\n')
                     file.write('<table class="display" style="width:100%">\n<thead>\n<tr>\n')
@@ -43,7 +44,9 @@ def create_markdown_from_excel_with_replacements(excel_file):
                                 cell_value = cell_value.replace('>HTML', ' class="btn btn--primary">HTML')
                                 cell_value = cell_value.replace('>Res</a>', ' class="btn btn--primary">Res</a>')
                                 cell_value = cell_value.replace('>Errata</a>', ' class="btn btn--primary">Errata</a>')
-                                cell_value = cell_value.replace('>Site</a>', ' class="btn btn--warning">Site</a>')
+                                cell_value = cell_value.replace('>LATEX</a>', ' class="btn btn--primary">LATEX</a>')
+                                cell_value = cell_value.replace('>Code</a>', ' class="btn btn--primary">Code</a>')
+                                cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
                             elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('<a ', '<a class="btn btn--success" ')
                             file.write(f"    <td>{cell_value}</td>\n")
