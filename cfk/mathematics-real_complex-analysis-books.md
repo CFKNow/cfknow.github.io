@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank" class="btn btn--primary">PDF</a><br><a href=https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-25</td>
     <td></td>
 </tr>

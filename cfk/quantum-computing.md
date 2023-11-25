@@ -10,3 +10,9 @@ sidebar:
   nav: "quantum-computing"
 ---
 
+## Topics
+
+- Applications
+- Programming
+- Theory
+- Miscellaneous

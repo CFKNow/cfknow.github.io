@@ -10,3 +10,9 @@ sidebar:
   nav: "computer-science"
 ---
 
+## Topics
+
+- Applications
+- Programming
+- Theory
+- Miscellaneous
