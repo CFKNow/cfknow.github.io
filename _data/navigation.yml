@@ -18,7 +18,7 @@ get:
     text: "Books, courses, and other digital content"
     children: 
       - title: "Computer science"
-        url: /computer-science/
+        url: /get/computer-science/
       - title: "Machine learning"
         url: /machine-learning/
       - title: "Mathematics"

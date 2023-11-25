@@ -1,6 +1,6 @@
 ---
 permalink: /get/computer-science/
-title: "Computer science resources"
+title: "Computer science"
 layout: single
 toc: false
 author_profile: false
