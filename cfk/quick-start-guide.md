@@ -1,5 +1,5 @@
 ---
-permalink: /get/how-to-contribute-quick-start-guide/
+permalink: /community/how-to-contribute-quick-start-guide/
 title: "How to contribute quick start guide"
 layout: single
 toc: false
