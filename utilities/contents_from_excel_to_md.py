@@ -15,7 +15,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
     for sheet_name in xls.sheet_names:
         first_row = pd.read_excel(xls, sheet_name, nrows=1, header=None).iloc[0, 0]
         if not pd.isna(first_row) and isinstance(first_row, str):
-            md_filename = "./out/" + first_row + ".md"
+            md_filename = "./out/" + first_row.split('/')[0] + ".md"
             title = format_title(first_row)
 
             with open(md_filename, 'w') as file:
