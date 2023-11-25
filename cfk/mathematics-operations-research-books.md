@@ -37,20 +37,8 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.nicolasboumal.net/book/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf" target="_blank">PDF</a><br><a href="https://www.nicolasboumal.net/book/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Convex Optimization</td>
-    <td>Book</td>
-    <td>Optimization</td>
-    <td>Boyd, Stephen<br>Vandenberghe, Lieven </td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href="https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://stanford.edu/~boyd/cvxbook/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
     <td></td>
 </tr>
 <tr>
@@ -61,8 +49,20 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://large-scale-book.mathopt.com/LSCOMO.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://large-scale-book.mathopt.com/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://large-scale-book.mathopt.com/LSCOMO.pdf" target="_blank">PDF</a><br><a href="https://large-scale-book.mathopt.com/" target="_blank">Site</a></td>
     <td>2023-11-20</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Convex Optimization</td>
+    <td>Book</td>
+    <td>Optimization</td>
+    <td>Boyd, Stephen<br>Vandenberghe, Lieven </td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank">PDF</a><br><a href="https://stanford.edu/~boyd/cvxbook/" target="_blank">Site</a></td>
+    <td>2023-11-25</td>
     <td></td>
 </tr>
 <tfoot>

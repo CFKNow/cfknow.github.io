@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/abs/2305.18793"  class="btn btn--primary">PDF</a><br><a href = "https://sites.google.com/site/pengdingpku/teaching" target = "_blank" class="btn btn--info">Site</a><br><a href = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZX3VEV" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td><a href = "https://arxiv.org/abs/2305.18793" >PDF</a><br><a href = "https://sites.google.com/site/pengdingpku/teaching" target = "_blank">Site</a><br><a href = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZX3VEV" target = "_blank">Res</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "http://www.cis.upenn.edu/~jean/math-deep.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/geomath.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "http://www.cis.upenn.edu/~jean/math-deep.pdf" target = "_blank" >PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/geomath.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -61,7 +61,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-python" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td><a href = "https://hastie.su.domains/ISLP/ISLP_website.pdf.download.html" target = "_blank" >PDF</a><br><a href = "https://www.statlearning.com/resources-python" target = "_blank">Res</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -73,7 +73,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.statlearning.com/resources-second-edition" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td><a href = "https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.download.html" target = "_blank" >PDF</a><br><a href = "https://www.statlearning.com/resources-second-edition" target = "_blank">Res</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -85,7 +85,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://tor-lattimore.com/downloads/book/book.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://tor-lattimore.com/downloads/book/solutions.pdf" target = "_blank"  class="btn btn--primary">Res</a></td>
+    <td><a href = "https://tor-lattimore.com/downloads/book/book.pdf" target = "_blank" >PDF</a><br><a href = "https://tor-lattimore.com/downloads/book/solutions.pdf" target = "_blank" >Res</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -97,7 +97,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://www.bayesrulesbook.com/" target = "_blank" class="btn btn--primary">HTML</a><br><a href = "https://bayes-rules.github.io" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.bayesrulesbook.com/" target = "_blank">HTML</a><br><a href = "https://bayes-rules.github.io" target = "_blank">Site</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -109,7 +109,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf"  class="btn btn--primary">PDF</a><br><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf" >PDF</a><br><a href = "http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -121,7 +121,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank" >PDF</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -133,7 +133,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf" >PDF</a><br><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
@@ -145,7 +145,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://www.nowpublishers.com/article/DownloadEBook/9781638280521?format=pdf"  class="btn btn--primary">PDF</a><br><a href = "https://www.nowpublishers.com/article/BookDetails/9781638280521" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.nowpublishers.com/article/DownloadEBook/9781638280521?format=pdf" >PDF</a><br><a href = "https://www.nowpublishers.com/article/BookDetails/9781638280521" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC 2.0 DEED</td>
 </tr>
@@ -157,7 +157,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://dataminingbook.info/book_html/" target = "_blank"  class="btn btn--primary">HTML</a><br><a href = "https://dataminingbook.info/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://dataminingbook.info/book_html/" target = "_blank" >HTML</a><br><a href = "https://dataminingbook.info/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -169,8 +169,20 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.deeplearningbook.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.deeplearningbook.org/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Jentzen, Arnulf<br>Kuckuck, Benno<br>Wurstemberger, Philippe von</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://arxiv.org/pdf/2310.20360.pdf" target="_blank">PDF</a><br><a href="https://github.com/introdeeplearning/book" target="_blank">Code</a></td>
+    <td>2023-11-25</td>
     <td></td>
 </tr>
 <tr>
@@ -181,7 +193,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5590/Distributional-Reinforcement-Learning" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf" >PDF</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5590/Distributional-Reinforcement-Learning" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -191,49 +203,10 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Algorithms<br>Theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
-    <td>Japanese</td>
+    <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://ja.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Vietnamese</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://d2l.aivivn.com/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Turkish</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://tr.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Korean</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://ko.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
@@ -246,20 +219,7 @@ Smola, Alexander J.</td>
     <td>Chinese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://zh.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://zh.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
@@ -272,7 +232,59 @@ Smola, Alexander J.</td>
     <td>Portuguese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://pt.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://pt.d2l.ai/" target = "_blank">Site</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Dive into Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
+Smola, Alexander J.</td>
+    <td>Turkish</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://tr.d2l.ai/" target = "_blank">Site</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Dive into Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
+Smola, Alexander J.</td>
+    <td>Vietnamese</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://d2l.aivivn.com/" target = "_blank">Site</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Dive into Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
+Smola, Alexander J.</td>
+    <td>Korean</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://ko.d2l.ai/" target = "_blank">Site</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Dive into Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
+Smola, Alexander J.</td>
+    <td>Japanese</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://ja.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
@@ -284,7 +296,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf" >PDF</a><br><a href = "https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -296,7 +308,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://home.ttic.edu/~avrim/book.pdf" target = "_blank" class="btn btn--primary">PDF</a></td>
+    <td><a href = "https://home.ttic.edu/~avrim/book.pdf" target = "_blank">PDF</a></td>
     <td>2023-11-25</td>
     <td>Personal use</td>
 </tr>
@@ -308,7 +320,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover" target = "_blank" class="btn btn--primary">HTML</a><br><a href = "https://cs.nyu.edu/~mohri/mlbook/errata_ed2_p1.html" target = "_blank" class="btn btn--primary">Errata</a></td>
+    <td><a href = "https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1" target = "_blank" >PDF</a><br><a href = "https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover" target = "_blank">HTML</a><br><a href = "https://cs.nyu.edu/~mohri/mlbook/errata_ed2_p1.html" target = "_blank">Errata</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -320,7 +332,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://www.seas.upenn.edu/~cis5150/linalg-I.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/linalg.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.seas.upenn.edu/~cis5150/linalg-I.pdf" target = "_blank" >PDF</a><br><a href = "https://www.cis.upenn.edu/~jean/gbooks/linalg.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -332,21 +344,9 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://tongzhang-ml.org/lt-book/lt-book.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://tongzhang-ml.org/lt-book.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://tongzhang-ml.org/lt-book/lt-book.pdf" >PDF</a><br><a href = "https://tongzhang-ml.org/lt-book.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
-</tr>
-<tr>
-    <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Jentzen, Arnulf<br>Kuckuck, Benno<br>Wurstemberger, Philippe von</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href="https://arxiv.org/pdf/2310.20360.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/introdeeplearning/book" target="_blank" class="btn btn--primary">Code</a></td>
-    <td>2023-11-25</td>
-    <td></td>
 </tr>
 <tr>
     <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
@@ -356,7 +356,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/pdf/2310.20360.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://github.com/introdeeplearning/book" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td><a href = "https://arxiv.org/pdf/2310.20360.pdf" >PDF</a><br><a href = "https://github.com/introdeeplearning/book" target = "_blank">Res</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -368,7 +368,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://mml-book.github.io/book/mml-book.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://mml-book.github.io/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://mml-book.github.io/book/mml-book.pdf" target = "_blank" >PDF</a><br><a href = "https://mml-book.github.io/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -380,7 +380,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://www.marl-book.com/download"  class="btn btn--primary">PDF</a><br><a href = "https://www.marl-book" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.marl-book.com/download" >PDF</a><br><a href = "https://www.marl-book" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -391,8 +391,8 @@ Smola, Alexander J.</td>
     <td>Bishop, Christopher M.</td>
     <td>English</td>
     <td>Undergrad</td>
-    <td><a class="btn btn--success" href="https://cfknow.github.io/review/Pattern-Recognition-and-Machine-Learning/" target="_blank">2023-11</a></td>
-    <td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://cfknow.github.io/review/Pattern-Recognition-and-Machine-Learning/" target="_blank">2023-11</a></td>
+    <td><a href="https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf" target="_blank">PDF</a><br><a href="https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -404,7 +404,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://mlstory.org/pdf/patterns.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://mlstory.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://mlstory.org/pdf/patterns.pdf" target="_blank">PDF</a><br><a href="https://mlstory.org/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -416,7 +416,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/pdf/2206.13446.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2206.13446" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://arxiv.org/pdf/2206.13446.pdf" >PDF</a><br><a href = "https://arxiv.org/abs/2206.13446" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -428,7 +428,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://github.com/probml/pml2-book/releases/latest/download/book2.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://probml.github.io/pml-book/book2.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://github.com/probml/pml2-book/releases/latest/download/book2.pdf" >PDF</a><br><a href = "https://probml.github.io/pml-book/book2.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -440,7 +440,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://github.com/probml/pml-book/releases/latest/download/book1.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://probml.github.io/pml-book/book1.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://github.com/probml/pml-book/releases/latest/download/book1.pdf" >PDF</a><br><a href = "https://probml.github.io/pml-book/book1.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -452,7 +452,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html" target = "_blank" class="btn btn--primary">HTML</a><br><a href = "https://monika76five.github.io/ProbBayes/" target = "_blank" class="btn btn--primary">Res</a></td>
+    <td><a href = "https://bayesball.github.io/BOOK/probability-a-measurement-of-uncertainty.html" target = "_blank">HTML</a><br><a href = "https://monika76five.github.io/ProbBayes/" target = "_blank">Res</a></td>
     <td></td>
     <td></td>
 </tr>
@@ -464,7 +464,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "http://incompleteideas.net/book/RLbook2020.pdf"  class="btn btn--primary">PDF</a><br><a href = "http://incompleteideas.net/book/the-book.html" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "http://incompleteideas.net/book/RLbook2020.pdf" >PDF</a><br><a href = "http://incompleteideas.net/book/the-book.html" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 2.0 DEED</td>
 </tr>
@@ -476,7 +476,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://web.stanford.edu/~jurafsky/slp3/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf" >PDF</a><br><a href = "https://web.stanford.edu/~jurafsky/slp3/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -488,7 +488,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://hastie.su.domains/ElemStatLearn/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf" target = "_blank" >PDF</a><br><a href = "https://hastie.su.domains/ElemStatLearn/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -500,7 +500,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank" >PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -512,7 +512,7 @@ Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" target = "_blank" >PDF</a><br><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>

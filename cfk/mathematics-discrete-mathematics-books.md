@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://discrete.openmathbooks.org/dmoi3/dmoi.html" target="_blank" class="btn btn--primary">HTML</a><br><a href="https://discrete.openmathbooks.org/dmoi3.html" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://discrete.openmathbooks.org/pdfs/dmoi3-tablet.pdf" target="_blank">PDF</a><br><a href="https://discrete.openmathbooks.org/dmoi3/dmoi.html" target="_blank">HTML</a><br><a href="https://discrete.openmathbooks.org/dmoi3.html" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>

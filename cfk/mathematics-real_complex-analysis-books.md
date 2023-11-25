@@ -30,6 +30,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 </thead>
 <tbody>
 <tr>
+    <td>Measure, Integration & Real Analysis</td>
+    <td>Book</td>
+    <td>Measure<br>Integration</td>
+    <td>Axler, Sheldon</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://measure.axler.net/MIRA.pdf" target="_blank">PDF</a><br><a href="https://measure.axler.net/" target="_blank">Site</a><br><a href="https://doi.org/10.1007/978-3-030-33143-6" target="_blank">Site</a></td>
+    <td>2023-11-11</td>
+    <td>CC BY-NC 4.0 DEED</td>
+</tr>
+<tr>
     <td>An introduction to measure theory</td>
     <td>Book</td>
     <td>Measure</td>
@@ -37,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf" target="_blank">PDF</a><br><a href="https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -49,21 +61,9 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td></td>
-</tr>
-<tr>
-    <td>Measure, Integration & Real Analysis</td>
-    <td>Book</td>
-    <td>Measure<br>Integration</td>
-    <td>Axler, Sheldon</td>
-    <td>English</td>
-    <td>Grad</td>
-    <td></td>
-    <td><a href="https://measure.axler.net/MIRA.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://measure.axler.net/" target="_blank" class="btn btn--info">Site</a><br><a href="https://doi.org/10.1007/978-3-030-33143-6" target="_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td>CC BY-NC 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

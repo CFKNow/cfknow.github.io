@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://theory.cs.princeton.edu/complexity/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://theory.cs.princeton.edu/complexity/" target="_blank" class="btn btn--info">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://theory.cs.princeton.edu/complexity/book.pdf" target="_blank">PDF</a><br><a href="https://theory.cs.princeton.edu/complexity/" target="_blank">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td></td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.math.ias.edu/files/Book-online-Aug0619.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://press.princeton.edu/books/hardcover/9780691189130/mathematics-and-computation" target="_blank" class="btn btn--info">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.math.ias.edu/files/Book-online-Aug0619.pdf" target="_blank">PDF</a><br><a href="https://press.princeton.edu/books/hardcover/9780691189130/mathematics-and-computation" target="_blank">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td></td>
 </tr>

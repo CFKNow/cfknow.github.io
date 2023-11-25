@@ -21,10 +21,10 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 </thead>
 <tbody>
 <tr>
-    <td>quantum-computing/quantum-computing-miscellaneous-books</td>
+    <td>quantum-computing/quantum-computing-theory-books</td>
 </tr>
 <tr>
-    <td>quantum-computing/quantum-computing-theory-books</td>
+    <td>quantum-computing/quantum-computing-miscellaneous-books</td>
 </tr>
 <tfoot>
 <tr>
