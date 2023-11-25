@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning-miscellaneous-books/
+permalink: /get/machine-learning/machine-learning-miscellaneous-books/
 title: "Machine learning miscellaneous books"
 layout: single
 toc: false
@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: get
+  nav: machine-learning
 ---
 
 <div class="table_cols_toggles">

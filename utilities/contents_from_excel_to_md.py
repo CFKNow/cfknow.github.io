@@ -15,14 +15,14 @@ def create_markdown_from_excel_with_replacements(excel_file):
     for sheet_name in xls.sheet_names:
         first_row = pd.read_excel(xls, sheet_name, nrows=1, header=None).iloc[0, 0]
         if not pd.isna(first_row) and isinstance(first_row, str):
-            md_filename = "./out/" + first_row.split('/')[0] + ".md"
-            title = format_title(first_row)
+            md_filename = "./out/" + first_row.split('/', 1)[1] + ".md"
+            title = format_title(first_row.split('/', 1)[1])
 
             with open(md_filename, 'w') as file:
                 # Write the header to the Markdown file
                 file.write(f'---\npermalink: /get/{first_row}/\n')
                 file.write(f'title: "{title}"\nlayout: single\ntoc: false\n')
-                file.write('author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: get\n---\n\n')
+                file.write(f'author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: {first_row.split("/")[0]}\n---\n\n')
 
                 if len(pd.read_excel(xls, sheet_name, header=None)) > 1:
                     df = pd.read_excel(xls, sheet_name, header=1)

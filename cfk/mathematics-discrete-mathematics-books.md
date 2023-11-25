@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics-discrete-mathematics-books/
+permalink: /get/mathematics/mathematics-discrete-mathematics-books/
 title: "Mathematics discrete mathematics books"
 layout: single
 toc: false
@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: get
+  nav: mathematics
 ---
 
 <div class="table_cols_toggles">

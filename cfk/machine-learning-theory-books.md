@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning-theory-books/
+permalink: /get/machine-learning/machine-learning-theory-books/
 title: "Machine learning theory books"
 layout: single
 toc: false
@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: get
+  nav: machine-learning
 ---
 
 <div class="table_cols_toggles">

@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics-mathematical-logic-books/
+permalink: /get/mathematics/mathematics-mathematical-logic-books/
 title: "Mathematics mathematical logic books"
 layout: single
 toc: false
@@ -7,7 +7,7 @@ author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: get
+  nav: mathematics
 ---
 
 <div class="table_cols_toggles">
