@@ -14,8 +14,8 @@ main:
     url: /tags/
 
 get:
-  - title:  
-    children:
+  - title: Resources
+    children: 
       - title: "Computer science"
         url: /get/computer-science/
       - title: "Machine learning"
