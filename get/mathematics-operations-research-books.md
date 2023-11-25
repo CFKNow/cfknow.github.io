@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-operations-research-books/
+permalink: /mathematics/mathematics-operations-research-books/
 title: "Mathematics operations research books"
 layout: single
 toc: false

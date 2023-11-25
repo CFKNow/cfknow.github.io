@@ -1,5 +1,5 @@
 ---
-permalink: /get/quantum-computing/quantum-computing-programming-books/
+permalink: /quantum-computing/quantum-computing-programming-books/
 title: "Quantum computing programming books"
 layout: single
 toc: false

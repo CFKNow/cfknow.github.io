@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning/machine-learning-miscellaneous-books/
+permalink: /machine-learning/machine-learning-miscellaneous-books/
 title: "Machine learning miscellaneous books"
 layout: single
 toc: false

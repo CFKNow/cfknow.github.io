@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning/machine-learning-applications-books/
+permalink: /machine-learning/machine-learning-applications-books/
 title: "Machine learning applications books"
 layout: single
 toc: false

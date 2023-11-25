@@ -1,5 +1,5 @@
 ---
-permalink: /get/computer-science/computer-science-applications-books/
+permalink: /computer-science/computer-science-applications-books/
 title: "Computer science applications books"
 layout: single
 toc: false

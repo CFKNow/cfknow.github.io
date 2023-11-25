@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-mathematical-logic-books/
+permalink: /mathematics/mathematics-mathematical-logic-books/
 title: "Mathematics mathematical logic books"
 layout: single
 toc: false

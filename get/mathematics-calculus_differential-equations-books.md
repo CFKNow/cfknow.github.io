@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-calculus_differential-equations-books/
+permalink: /mathematics/mathematics-calculus_differential-equations-books/
 title: "Mathematics calculus and differential equations books"
 layout: single
 toc: false

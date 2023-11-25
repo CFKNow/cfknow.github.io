@@ -1,5 +1,5 @@
 ---
-permalink: /get/computer-science/
+permalink: /computer-science/
 title: "Computer science"
 layout: single
 toc: false

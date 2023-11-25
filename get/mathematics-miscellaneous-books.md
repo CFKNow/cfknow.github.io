@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-miscellaneous-books/
+permalink: /mathematics/mathematics-miscellaneous-books/
 title: "Mathematics miscellaneous books"
 layout: single
 toc: false

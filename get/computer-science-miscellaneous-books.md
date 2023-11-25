@@ -1,5 +1,5 @@
 ---
-permalink: /get/computer-science/computer-science-miscellaneous-books/
+permalink: /computer-science/computer-science-miscellaneous-books/
 title: "Computer science miscellaneous books"
 layout: single
 toc: false

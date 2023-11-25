@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-methods_numerical-analysis-books/
+permalink: /mathematics/mathematics-methods_numerical-analysis-books/
 title: "Mathematics methods and numerical analysis books"
 layout: single
 toc: false

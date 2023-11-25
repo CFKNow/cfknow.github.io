@@ -1,5 +1,5 @@
 ---
-permalink: /get/computer-science/computer-science-theory-books/
+permalink: /computer-science/computer-science-theory-books/
 title: "Computer science theory books"
 layout: single
 toc: false

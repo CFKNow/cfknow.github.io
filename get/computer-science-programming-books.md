@@ -1,5 +1,5 @@
 ---
-permalink: /get/computer-science/computer-science-programming-books/
+permalink: /computer-science/computer-science-programming-books/
 title: "Computer science programming books"
 layout: single
 toc: false

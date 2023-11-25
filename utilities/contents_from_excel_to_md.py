@@ -26,7 +26,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
 
             with open(md_filename, 'w') as file:
                 # Write the header to the Markdown file
-                file.write(f'---\npermalink: /get/{first_row}/\n')
+                file.write(f'---\npermalink: /{first_row}/\n')
                 file.write(f'title: "{title}"\nlayout: single\ntoc: false\n')
                 file.write(f'author_profile: false\nclasses: wide\nshare: true\nsidebar:\n  nav: {key}\n---\n\n')
 

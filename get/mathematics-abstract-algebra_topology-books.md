@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-abstract-algebra_topology-books/
+permalink: /mathematics/mathematics-abstract-algebra_topology-books/
 title: "Mathematics abstract algebra and topology books"
 layout: single
 toc: false

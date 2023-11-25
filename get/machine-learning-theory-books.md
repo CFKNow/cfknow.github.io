@@ -1,5 +1,5 @@
 ---
-permalink: /get/machine-learning/machine-learning-theory-books/
+permalink: /machine-learning/machine-learning-theory-books/
 title: "Machine learning theory books"
 layout: single
 toc: false
@@ -98,7 +98,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.bayesrulesbook.com/" target = "_blank" class="btn btn--primary">HTML</a><br><a href = "https://bayes-rules.github.io" target = "_blank" class="btn btn--info">Site</a></td>
-    <td></td>
+    <td>2023-11-25</td>
     <td></td>
 </tr>
 <tr>

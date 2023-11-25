@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-probability_statistics-books/
+permalink: /mathematics/mathematics-probability_statistics-books/
 title: "Mathematics probability and statistics books"
 layout: single
 toc: false

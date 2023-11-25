@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/mathematics-algebra-books/
+permalink: /mathematics/mathematics-algebra-books/
 title: "Mathematics algebra books"
 layout: single
 toc: false
