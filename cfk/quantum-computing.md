@@ -1,5 +1,5 @@
 ---
-permalink: /get/quantum-computing/
+permalink: /quantum-computing/
 title: "Quantum computing resources"
 layout: single
 toc: false
