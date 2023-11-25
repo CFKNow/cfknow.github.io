@@ -15,6 +15,7 @@ main:
 
 get:
   - title: Resources
+    text: "Books, courses, and other digital content"
     children: 
       - title: "Computer science"
         url: /computer-science/
@@ -26,65 +27,65 @@ get:
         url: /quantum-computing/
 
 computer-science:
-  - title: Resources 
+  - title: Books 
     children:
-      - title: "Books on applications"
+      - title: "Applications"
         url: /get/computer-science/computer-science-applications-books/
-      - title: "Books on programming"
+      - title: "Programming"
         url: /get/computer-science/computer-science-programming-books/
-      - title: "Books on theory"
+      - title: "Theory"
         url: /get/computer-science/computer-science-theory-books/
-      - title: "Books on miscellaneous topics"
+      - title: "Miscellaneous topics"
         url: /get/computer-science/computer-science-miscellaneous-books/        
 
 machine-learning:
-  - title: Resources 
+  - title: Books 
     children:
-      - title: "Books on applications"
+      - title: "Applications"
         url: /get/machine-learning/machine-learning-applications-books/
-      - title: "Books on programming"
+      - title: "Programming"
         url: /get/machine-learning/machine-learning-programming-books/
-      - title: "Books on theory"
+      - title: "Theory"
         url: /get/machine-learning/machine-learning-theory-books/
-      - title: "Books on miscellaneous topics"
+      - title: "Miscellaneous topics"
         url: /get/machine-learning/machine-learning-miscellaneous-books/
         
 mathematics:
-  - title: Resources
+  - title: Books
     children:
-      - title: "Books on algebra"
+      - title: "Algebra"
         url: /get/mathematics/mathematics-algebra-books/
-      - title: "Books on abstract algebra and topology"
+      - title: "Algebra and topology"
         url: /get/mathematics/mathematics-abstract-algebra_topology-books/
-      - title: "Books on calculus and differential equations"
+      - title: "Calculus and differential equations"
         url: /get/mathematics/mathematics-calculus_differential-equations-books/
-      - title: "Books on discrete mathematics"
+      - title: "Discrete mathematics"
         url: /get/mathematics/mathematics-discrete-mathematics-books/
-      - title: "Books on geometry and trigonometry"
+      - title: "Geometry and trigonometry"
         url: /get/mathematics/mathematics-geometry_trigonometry-books/
-      - title: "Books on mathematical logic"
+      - title: "Mathematical logic"
         url: /get/mathematics/mathematics-mathematical-logic-books/
-      - title: "Books on operations research"
+      - title: "Operations research"
         url: /get/mathematics/mathematics-operations-research-books/
-      - title: "Books on methods and numerical analysis"
+      - title: "Methods and numerical analysis"
         url: /get/mathematics/mathematics-methods_numerical-analysis-books/
-      - title: "Books on probability and statistics"
+      - title: "Probability and statistics"
         url: /get/mathematics/mathematics-probability_statistics-books/   
-      - title: "Books on real and complex analysis"
+      - title: "Real and complex analysis"
         url: /get/mathematics/mathematics-real_complex-analysis-books/    
-      - title: "Books on miscellaneous topics"
+      - title: "Miscellaneous topics"
         url: /get/mathematics/mathematics-miscellaneous-books/
 
 quantum-computing:
-  - title: Resources 
+  - title: Books 
     children:
-      - title: "Books on applications"
+      - title: "Applications"
         url: /get/quantum-computing/quantum-computing-applications-books/
-      - title: "Books on programming"
+      - title: "Programming"
         url: /get/quantum-computing/quantum-computing-programming-books/
-      - title: "Books on theory"
+      - title: "Theory"
         url: /get/quantum-computing/quantum-computing-theory-books/
-      - title: "Books on miscellaneous topics"
+      - title: "Miscellaneous topics"
         url: /get/quantum-computing/quantum-computing-miscellaneous-books/
         
 learning-paths:
