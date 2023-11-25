@@ -1,5 +1,5 @@
 ---
-permalink: /get/mathematics/
+permalink: /mathematics/
 title: "Mathematics resources"
 layout: single
 toc: false
