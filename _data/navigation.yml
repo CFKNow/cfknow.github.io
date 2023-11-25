@@ -17,13 +17,13 @@ get:
   - title: Resources
     children: 
       - title: "Computer science"
-        url: /get/computer-science/
+        url: /computer-science/
       - title: "Machine learning"
-        url: /get/machine-learning/
+        url: /machine-learning/
       - title: "Mathematics"
-        url: /get/mathematics/
+        url: /mathematics/
       - title: "Quantum computing"
-        url: /get/quantum-computing/
+        url: /quantum-computing/
 
 computer-science:
   - title: Resources 
