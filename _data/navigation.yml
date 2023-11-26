@@ -28,10 +28,18 @@ get:
 computer-science:
   - title: Books 
     children:
-      - title: "Applications"
-        url: /computer-science/computer-science-applications-books/
-      - title: "Programming"
-        url: /computer-science/computer-science-programming-books/
+      - title: "Augmented and virtual reality"
+        url: /computer-science/computer-science-augmented_virtual-reality-books/
+      - title: "Cloud computing"
+        url: /computer-science/computer-science-cloud-computing-books/
+      - title: "Computing systems"
+        url: /computer-science/computer-science-computing-systems-books/
+      - title: "Cybersecurity"
+        url: /computer-science/computer-science-cybersecurity-books/
+      - title: "Data science"
+        url: /computer-science/computer-science-data-science-books/
+      - title: "Software engineering"
+        url: /computer-science/computer-science-software-engineering-books/        
       - title: "Theory"
         url: /computer-science/computer-science-theory-books/
       - title: "Miscellaneous topics"
