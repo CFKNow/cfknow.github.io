@@ -15,7 +15,6 @@ main:
 
 get:
   - title: Resources
-    text: "Books, courses, and other digital content"
     children: 
       - title: "Computer science"
         url: /computer-science/
@@ -36,7 +35,13 @@ computer-science:
       - title: "Theory"
         url: /computer-science/computer-science-theory-books/
       - title: "Miscellaneous topics"
-        url: /computer-science/computer-science-miscellaneous-books/        
+        url: /computer-science/computer-science-miscellaneous-books/  
+  - title: "Machine learning"
+    url: /machine-learning/
+  - title: "Mathematics"
+    url: /mathematics/
+  - title: "Quantum computing"
+    url: /quantum-computing/
 
 machine-learning:
   - title: Books 
@@ -49,6 +54,12 @@ machine-learning:
         url: /machine-learning/machine-learning-theory-books/
       - title: "Miscellaneous topics"
         url: /machine-learning/machine-learning-miscellaneous-books/
+  - title: "Computer science"
+    url: /computer-science/
+  - title: "Mathematics"
+    url: /mathematics/
+  - title: "Quantum computing"
+    url: /quantum-computing/
         
 mathematics:
   - title: Books
@@ -79,8 +90,6 @@ mathematics:
     url: /computer-science/
   - title: "Machine learning"
     url: /machine-learning/
-  - title: "Mathematics"
-    url: /mathematics/
   - title: "Quantum computing"
     url: /quantum-computing/
 
@@ -95,6 +104,12 @@ quantum-computing:
         url: /quantum-computing/quantum-computing-theory-books/
       - title: "Miscellaneous topics"
         url: /quantum-computing/quantum-computing-miscellaneous-books/
+  - title: "Computer science"
+    url: /computer-science/
+  - title: "Machine learning"
+    url: /machine-learning/
+  - title: "Mathematics"
+    url: /mathematics/
         
 learning-paths:
   - title: Machine learning practitioner
