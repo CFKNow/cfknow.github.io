@@ -10,9 +10,4 @@ sidebar:
   nav: "machine-learning"
 ---
 
-## Topics
 
-- Applications
-- Programming
-- Theory
-- Miscellaneous
