@@ -10,7 +10,7 @@ sidebar:
   nav: "mathematics"
 ---
 
-## Math topics
+## Topics
 
 ### Description
 
@@ -38,7 +38,7 @@ sidebar:
 - Operations research: optimization, linear programming, queuing theory, and decision-making.
 - Actuarial science: mathematics of risk, primarily for insurance, finance, and other actuarial applications.
 
-### Topics
+### Pages
 
 - Algebra: Arithmetic + Pre-algebra + Algebra + Linear algebra 
 - Abstract algebra and topology: Abstract algebra + Topology
