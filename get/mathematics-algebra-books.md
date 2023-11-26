@@ -53,6 +53,30 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>2023-11-11</td>
     <td></td>
 </tr>
+<tr>
+    <td>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</td>
+    <td>Book</td>
+    <td>Linear algebra</td>
+    <td>Boyd, Stephen<br>Vandenberghe, Lieven </td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://web.stanford.edu/~boyd/vmls/vmls.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9" target="_blank" class="btn btn--primary">Videos</a><br><a href="https://web.stanford.edu/~boyd/vmls/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-26</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Linear Matrix Inequalities in System and Control Theory</td>
+    <td>Book</td>
+    <td>Linear algebra</td>
+    <td>Boyd, Stephen<br>El Ghaoui, Laurent<br>Feron, Eric<br>Balakrishnan, Venkataramanan</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://web.stanford.edu/~boyd/lmibook/lmibook.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://web.stanford.edu/~boyd/lmibook/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-26</td>
+    <td></td>
+</tr>
 <tfoot>
 <tr>
     <td></td>

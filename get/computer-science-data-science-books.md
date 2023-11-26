@@ -1,6 +1,6 @@
 ---
-permalink: /computer-science/computer-science-programming-books/
-title: "Computer science programming books"
+permalink: /computer-science/computer-science-data-science-books/
+title: "Computer science data science books"
 layout: single
 toc: false
 author_profile: false
