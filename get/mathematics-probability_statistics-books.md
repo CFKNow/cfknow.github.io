@@ -53,6 +53,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>2023-11-11</td>
     <td></td>
 </tr>
+<tr>
+    <td>Bayes Rules! An Introduction to Applied Bayesian Modeling</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Johnson, Alicia A.<br>Ott, Miles Q.<br>Dogucu, Mine</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://www.bayesrulesbook.com/" target = "_blank" class="btn btn--primary">Web</a><br><a href = "https://bayes-rules.github.io" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-25</td>
+    <td></td>
+</tr>
 <tfoot>
 <tr>
     <td></td>

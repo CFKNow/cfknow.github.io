@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1051&context=ny_oers" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://math.libretexts.org/Bookshelves/Geometry/Elementary_College_Geometry_(Africk)" target="_blank" class="btn btn--primary">HTML</a></td>
+    <td><a href="https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1051&context=ny_oers" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://math.libretexts.org/Bookshelves/Geometry/Elementary_College_Geometry_(Africk)" target="_blank" class="btn btn--primary">Web</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
 </tr>
@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://math.libretexts.org/Bookshelves/Geometry/Modern_Geometry_(Bishop)" target="_blank" class="btn btn--primary">HTML</a><br><a href="https://math.libretexts.org/Bookshelves/Geometry/Modern_Geometry_(Bishop)" target="_blank" class="btn btn--primary">HTML</a></td>
+    <td><a href="https://math.libretexts.org/Bookshelves/Geometry/Modern_Geometry_(Bishop)" target="_blank" class="btn btn--primary">Web</a><br><a href="https://math.libretexts.org/Bookshelves/Geometry/Modern_Geometry_(Bishop)" target="_blank" class="btn btn--primary">Web</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC 4.0 DEED</td>
 </tr>

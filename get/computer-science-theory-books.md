@@ -44,13 +44,97 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Mathematics and Computation: A Theory Revolutionizing Technology and Science</td>
     <td>Book</td>
-    <td>Computational complexity</td>
+    <td>Computation theory</td>
     <td>Wigderson, Avi</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.math.ias.edu/files/Book-online-Aug0619.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://press.princeton.edu/books/hardcover/9780691189130/mathematics-and-computation" target="_blank" class="btn btn--info">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://cglab.ca/~michiel/TheoryOfComputation/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-25</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Introduction to Theory of Computation</td>
+    <td>Book</td>
+    <td>Computation theory</td>
+    <td>Maheshwari, Anil<br>Smid, Michiel</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.math.ias.edu/files/Book-online-Aug0619.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://press.princeton.edu/books/hardcover/9780691189130/mathematics-and-computation" target="_blank" class="btn btn--info">Site</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-41026-0" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
+    <td>CC BY-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Operating Systems: Three Easy Pieces</td>
+    <td>Book</td>
+    <td>Operating systems</td>
+    <td>Arpaci-Dusseau, Remzi H.<br>Arpaci-Dusseau, Andrea C.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://courses.csail.mit.edu/6.042/spring18/mcs.pdf" target="_blank" class="btn btn--primary">PDF</a></td>
+    <td>2023-12-02</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Mathematics for Computer Science</td>
+    <td>Book</td>
+    <td>Computation theory</td>
+    <td>Lehman, Eric<br>Leighton, Frank T.<br>Meyer, Albert R.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://pages.cs.wisc.edu/~remzi/OSTEP/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
+    <td>CC BY-SA 3.0 DEED</td>
+</tr>
+<tr>
+    <td>A Data-Centric Introduction to Computing</td>
+    <td>Book</td>
+    <td>Computation theory</td>
+    <td>Fisler, Kathi<br>Krishnamurthi, Shriram<br>Lerner, Benjamin S.<br>Politz, Joe G.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://dcic-world.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Principles of Programming Languages</td>
+    <td>Book</td>
+    <td>Programming languages</td>
+    <td>Smith, Scott F.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://pl.cs.jhu.edu/pl/book/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://pl.cs.jhu.edu/pl/book/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
+    <td>CC BY-SA 3.0 US DEED</td>
+</tr>
+<tr>
+    <td>Introduction to Compilers and Language Design</td>
+    <td>Book</td>
+    <td>Programming languages<br>Compilers</td>
+    <td>Thain, Douglas</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="http://compilerbook.org" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
+    <td>Personal use</td>
+</tr>
+<tr>
+    <td>Anatomy of Programming Languages</td>
+    <td>Book</td>
+    <td>Programming languages</td>
+    <td>Cook, William R.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.cs.utexas.edu/~wcook/anatomy/anatomy.htm" target="_blank" class="btn btn--primary">Web</a><br><a href="https://www.cs.utexas.edu/~wcook/anatomy/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-02</td>
     <td></td>
 </tr>
 <tfoot>

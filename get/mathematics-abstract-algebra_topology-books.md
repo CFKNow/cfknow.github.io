@@ -49,7 +49,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">HTML</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License (GFDL)</td>
 </tr>
@@ -61,7 +61,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Spanish</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">HTML</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License (GFDL)</td>
 </tr>

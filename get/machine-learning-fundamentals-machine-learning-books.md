@@ -1,6 +1,6 @@
 ---
-permalink: /machine-learning/machine-learning-theory-books/
-title: "Machine learning theory books"
+permalink: /machine-learning/machine-learning-fundamentals-machine-learning-books/
+title: "Machine learning fundamentals machine learning books"
 layout: single
 toc: false
 author_profile: false
@@ -90,18 +90,6 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
 </tr>
 <tr>
-    <td>Bayes Rules! An Introduction to Applied Bayesian Modeling</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Johnson, Alicia A.<br>Ott, Miles Q.<br>Dogucu, Mine</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://www.bayesrulesbook.com/" target = "_blank" class="btn btn--primary">Web</a><br><a href = "https://bayes-rules.github.io" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td></td>
-</tr>
-<tr>
     <td>Bayesian Reasoning and Machine Learning</td>
     <td>Book</td>
     <td>Algorithms<br>Theory</td>
@@ -124,18 +112,6 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Computational Topology for Data Analysis</td>
-    <td>Book</td>
-    <td>Algorithms<br>Math<br>Theory</td>
-    <td>Dey, Tamal K.<br>Wang, Yusu</td>
-    <td>English</td>
-    <td>Grad</td>
-    <td></td>
-    <td><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.purdue.edu/homes/tamaldey/book/CTDAbook/CTDAbook.html" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td>Personal use</td>
 </tr>
 <tr>
     <td>Convex Optimization for Machine Learning</td>
@@ -162,30 +138,6 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
 </tr>
 <tr>
-    <td>Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Goodfellow, Ian<br>Bengio, Yoshua<br>Courville, Aaron</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href="https://www.deeplearningbook.org/" target="_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td></td>
-</tr>
-<tr>
-    <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Jentzen, Arnulf<br>Kuckuck, Benno<br>Wurstemberger, Philippe von</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href="https://arxiv.org/pdf/2310.20360.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/introdeeplearning/book" target="_blank" class="btn btn--primary">Code</a></td>
-    <td>2023-11-25</td>
-    <td></td>
-</tr>
-<tr>
     <td>Distributional Reinforcement Learning</td>
     <td>Book</td>
     <td>Algorithms<br>Math<br>Theory</td>
@@ -198,97 +150,6 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Chinese</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://zh.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Portuguese</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://pt.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Turkish</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://tr.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Vietnamese</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://d2l.aivivn.com/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Korean</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://ko.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Dive into Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
-Smola, Alexander J.</td>
-    <td>Japanese</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://ja.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-SA 4.0 DEED</td>
-</tr>
-<tr>
     <td>Elements of Causal Inference: Foundations and Learning Algorithms</td>
     <td>Book</td>
     <td>Algorithms<br>Theory</td>
@@ -299,18 +160,6 @@ Smola, Alexander J.</td>
     <td><a href = "https://mitp-content-server.mit.edu/books/content/sectbyfn?collid=books_pres_0&id=11283&fn=11283.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://mitpress.mit.edu/9780262344296/elements-of-causal-inference/" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
-</tr>
-<tr>
-    <td>Foundations of Data Science</td>
-    <td>Book</td>
-    <td>Algorithms<br>Data science<br>Theory</td>
-    <td>Blum, Avrim<br>Hopcroft, John<br>Kannan, Ravindran </td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://home.ttic.edu/~avrim/book.pdf" target = "_blank" class="btn btn--primary">PDF</a></td>
-    <td>2023-11-25</td>
-    <td>Personal use</td>
 </tr>
 <tr>
     <td>Foundations of Machine Learning</td>
@@ -347,18 +196,6 @@ Smola, Alexander J.</td>
     <td><a href = "https://tongzhang-ml.org/lt-book/lt-book.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://tongzhang-ml.org/lt-book.html" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
-</tr>
-<tr>
-    <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
-    <td>Book</td>
-    <td>Algorithms<br>Math<br>Theory</td>
-    <td>Jentzen, Arnulf<br>Kuckuck, Benno<br>von Wurstemberger, Philippe</td>
-    <td>English</td>
-    <td>Grad</td>
-    <td></td>
-    <td><a href = "https://arxiv.org/pdf/2310.20360.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://github.com/introdeeplearning/book" target = "_blank" class="btn btn--primary">Res</a></td>
-    <td>2023-11-11</td>
-    <td></td>
 </tr>
 <tr>
     <td>Mathematics for Machine Learning</td>
@@ -409,18 +246,6 @@ Smola, Alexander J.</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
-    <td>Pen and Paper Exercises in Machine Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Gutmann, Michael U.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://arxiv.org/pdf/2206.13446.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2206.13446" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td></td>
-</tr>
-<tr>
     <td>Probabilistic Machine Learning: Advanced Topics</td>
     <td>Book</td>
     <td>Algorithms<br>Theory</td>
@@ -469,18 +294,6 @@ Smola, Alexander J.</td>
     <td>CC BY-NC-ND 2.0 DEED</td>
 </tr>
 <tr>
-    <td>Speech and Language Processing</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Jurafsky, Dan<br>Martin, James H.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://web.stanford.edu/~jurafsky/slp3/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td></td>
-</tr>
-<tr>
     <td>The Elements of Statistical Learning: Data Mining, Inference, and Prediction</td>
     <td>Book</td>
     <td>Algorithms<br>Theory<br>Programming</td>
@@ -491,18 +304,6 @@ Smola, Alexander J.</td>
     <td><a href = "https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://hastie.su.domains/ElemStatLearn/" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
-</tr>
-<tr>
-    <td>Understanding Deep Learning</td>
-    <td>Book</td>
-    <td>Algorithms<br>Theory</td>
-    <td>Prince, Simon J.D.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-11</td>
-    <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
     <td>Understanding Machine Learning: From Theory to Algorithms</td>

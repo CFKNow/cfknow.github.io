@@ -37,7 +37,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Numerical_Methods_(Chasnov)" target="_blank" class="btn btn--primary">HTML</a></td>
+    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Numerical_Methods_(Chasnov)" target="_blank" class="btn btn--primary">Web</a></td>
     <td>2023-11-25</td>
     <td>CC BY 1.0 DEED</td>
 </tr>

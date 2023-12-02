@@ -133,7 +133,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Seven_Sketches_in_Compositionality%3A_An_Invitation_to_Applied_Category_Theory_(Fong_and_Spivak)" target="_blank" class="btn btn--primary">HTML</a></td>
+    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Seven_Sketches_in_Compositionality%3A_An_Invitation_to_Applied_Category_Theory_(Fong_and_Spivak)" target="_blank" class="btn btn--primary">Web</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
 </tr>

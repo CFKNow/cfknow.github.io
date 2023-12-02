@@ -1,13 +1,13 @@
 ---
-permalink: /computer-science/computer-science-cybersecurity-books/
-title: "Computer science cybersecurity books"
+permalink: /machine-learning/machine-learning-natural-language-processing-books/
+title: "Machine learning natural language processing books"
 layout: single
 toc: false
 author_profile: false
 classes: wide
 share: true
 sidebar:
-  nav: computer-science
+  nav: machine-learning
 ---
 
 <div class="table_cols_toggles">
@@ -30,16 +30,16 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 </thead>
 <tbody>
 <tr>
-    <td>Trends in Data Protection and Encryption Technologies</td>
+    <td>Speech and Language Processing</td>
     <td>Book</td>
-    <td>Blockchain<br>Cybersecurity<br>Cryptography<br>Data protection</td>
-    <td>Mulder, Valentin<br>Mermoud, Alain<br>Lenders, Vincent<br>Tellenbach, Bernhard</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Jurafsky, Dan<br>Martin, James H.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-33386-6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-33386-6.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href=https://link.springer.com/book/10.1007/978-3-031-33386-6 target="_blank" class="btn btn--info">Site</a></td>
-    <td>2023-11-26</td>
-    <td>CC BY 4.0 DEED</td>
+    <td><a href = "https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://web.stanford.edu/~jurafsky/slp3/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-11</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

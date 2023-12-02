@@ -41,6 +41,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>2023-11-11</td>
     <td></td>
 </tr>
+<tr>
+    <td>Pen and Paper Exercises in Machine Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Gutmann, Michael U.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://arxiv.org/pdf/2206.13446.pdf"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2206.13446" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-11</td>
+    <td></td>
+</tr>
 <tfoot>
 <tr>
     <td></td>
