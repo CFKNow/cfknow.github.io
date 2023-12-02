@@ -11,6 +11,7 @@ sidebar:
 ---
 
 Number of "orphaned rows": 10. Can you write a review to help other learners?
+
 Number of rows with non-empty reviews: 0
 
 <div class="table_cols_toggles">
