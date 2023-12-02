@@ -10,6 +10,9 @@ sidebar:
   nav: mathematics
 ---
 
+Number of "orphaned rows": 4. Can you write a review to help other learners?
+Number of rows with non-empty reviews: 0
+
 <div class="table_cols_toggles">
 Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>

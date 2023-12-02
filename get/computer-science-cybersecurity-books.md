@@ -10,6 +10,9 @@ sidebar:
   nav: computer-science
 ---
 
+Number of "orphaned rows": 1. Can you write a review to help other learners?
+Number of rows with non-empty reviews: 0
+
 <div class="table_cols_toggles">
 Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>
@@ -37,7 +40,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-33386-6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-33386-6.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href=https://link.springer.com/book/10.1007/978-3-031-33386-6 target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-33386-6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-33386-6.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-33386-6 target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-26</td>
     <td>CC BY 4.0 DEED</td>
 </tr>

@@ -41,6 +41,15 @@ def create_markdown_from_excel_with_replacements(excel_file):
                     else:
                         rows_count_dict[key] = len(df)
 
+                    # Count the number of rows where the "Reviews" column is empty
+                    num_empty_reviews = df['Reviews'].isna().sum()
+                    # Count the number of rows where the "Reviews" column is not empty
+                    num_non_empty_reviews = len(df) - num_empty_reviews
+
+                    # Write the counts to the Markdown file
+                    file.write(f'Number of "orphaned rows": {num_empty_reviews}. Can you write a review to help other learners?\n')
+                    file.write(f'Number of rows with non-empty reviews: {num_non_empty_reviews}\n\n')
+
                     # Writing the DataFrame to the Markdown file
                     file.write('<div class="table_cols_toggles">\nToggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>\n</div>\n')
                     file.write('<table class="display" style="width:100%">\n<thead>\n<tr>\n')

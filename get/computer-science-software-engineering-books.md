@@ -10,6 +10,9 @@ sidebar:
   nav: computer-science
 ---
 
+Number of "orphaned rows": 11. Can you write a review to help other learners?
+Number of rows with non-empty reviews: 0
+
 <div class="table_cols_toggles">
 Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a> <a class="toggle-vis btn btn--danger" data-column="5">Audience</a> <a class="toggle-vis btn btn--danger" data-column="8">Last checked</a> <a class="toggle-vis btn btn--danger" data-column="9">License</a>
 </div>
@@ -126,7 +129,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>CC BY 2.5 CA DEED</td>
 </tr>
 <tr>
-    <td>Open Data Structures: Java Edition (Estruturas de Dados Abertas: Uma introduc¸ao em C++)</td>
+    <td>Open Data Structures: Java Edition (Estruturas de Dados Abertas: Uma introduçao em C++)</td>
     <td>Book</td>
     <td>Algorithms<br>Data structures</td>
     <td>Morin, Pat</td>
