@@ -53,4 +53,4 @@ sidebar:
 - **Computing systems**: **Parallel and distributed computing** + **Operating systems** + **Computer architecture and engineering** + **Computational science and engineering** + **Database systems**.
 - **Cloud computing**: **Cloud computing and virtualization**.
 - **Augmented and virtual reality**: **Augmented reality (AR) and virtual reality (VR)**.
-- **Miscellaneous**: **Geographic information systems (GIS)** + **E-commerce and e-business systems** + **Products and services** + **Embedded systems and Internet of things (IoT)** + **Mobile computing** + **Game development and design**.
+- **Miscellaneous**: **Bioinformatics and computational biology** **Geographic information systems (GIS)** + **E-commerce and e-business systems** + **Products and services** + **Embedded systems and Internet of things (IoT)** + **Mobile computing** + **Game development and design**.
