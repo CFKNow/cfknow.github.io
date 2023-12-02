@@ -10,13 +10,15 @@ sidebar:
   nav: "machine-learning"
 ---
 
-Computer science is a multifaceted discipline that encompasses the study of computation, the design of computer systems, and the exploration of how to systematically solve complex problems, or algorithms. At its core, it is about understanding the principles and processes that underlie the acquisition, representation, processing, storage, communication of, and access to information. This field is not just about coding or programming; it delves into the theoretical foundations of information and computation, taking into account the practical techniques for their implementation and application in computer systems.
+Machine learning is a branch of artificial intelligence that equips systems with the ability to automatically learn and improve from experience without being explicitly programmed. It focuses on the development of computer programs that can access data and use it to learn for themselves.
 
-Computer science covers a wide array of topics such as the development of algorithms, the architecture and logic design of computers, software engineering, and the interaction between hardware and software. It also encompasses more abstract concepts like computational complexity, which examines the efficiency of algorithms, and artificial intelligence, which seeks to emulate human intelligence through machines.
+The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers to learn automatically without human intervention or assistance and adjust actions accordingly.
 
-This discipline is inherently interdisciplinary, often intersecting with fields such as mathematics, engineering, cognitive science, and others. It has given rise to various subfields, including computer graphics, computational biology, human-computer interaction, and information theory, to name a few.
+Machine learning involves a variety of algorithms and models that a computer uses to perform a specific task. These models are trained on sets of data, allowing them to make predictions or decisions without being programmed to perform the task. For instance, machine learning models are used to predict which products a customer is likely to purchase, to recognize speech, or to diagnose medical conditions.
 
-The applications of computer science are vast and deeply ingrained in the fabric of contemporary society. From enabling complex scientific research and fostering technological innovation to facilitating everyday conveniences through mobile devices and the Internet, the contributions of computer science are indispensable to modern life.
+The discipline is broadly divided into three categories: supervised learning, where the model is trained on labeled data; unsupervised learning, where the model learns from data without labels, finding the structure within; and reinforcement learning, where an agent learns to make decisions by taking actions in an environment to achieve some notion of cumulative reward.
+
+Machine learning applications are extensive and growing rapidly, affecting industries from healthcare to finance, and changing the way we interact with technology on a daily basis. It underlies many of the most captivating technological advances, from self-driving cars to personalized medicine and intelligent personal assistants.
 
 ## Topics
 
