@@ -54,12 +54,24 @@ computer-science:
 machine-learning:
   - title: Books 
     children:
-      - title: "Applications"
-        url: /machine-learning/machine-learning-applications-books/
-      - title: "Programming"
-        url: /machine-learning/machine-learning-programming-books/
-      - title: "Theory"
-        url: /machine-learning/machine-learning-theory-books/
+      - title: "Computer vision"
+        url: /machine-learning/machine-learning-computer-vision-books/
+      - title: "Deep learning"
+        url: /machine-learning/machine-learning-deep-learning-books/
+      - title: "Ethics and responsible AI"
+        url: /machine-learning/machine-learning-ethics_responsible-AI-books/
+      - title: "Fundamentals of machine learning"
+        url: /machine-learning/machine-learning-fundamentals-machine-learning-books/
+      - title: "Industry-specific applications"
+        url: /machine-learning/machine-learning-industry-specific-applications-books/
+      - title: "Natural language processing"
+        url: /machine-learning/machine-learning-natural-language-processing-books/
+      - title: "Practical machine learning"
+        url: /machine-learning/machine-learning-practical-machine-learning-books/     
+      - title: "Privacy-preserving machine learning"
+        url: /machine-learning/machine-learning-privacy-preserving-machine-learning-books/
+      - title: "Programming and tools"
+        url: /machine-learning/machine-learning-programming_tools-books/
       - title: "Miscellaneous topics"
         url: /machine-learning/machine-learning-miscellaneous-books/
   - title: "Computer science"
