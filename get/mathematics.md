@@ -38,7 +38,7 @@ Contribute by adding resources, reporting errors, and, most importantly, writing
 
 ## Topics
 
-### Description
+### List
 
 - **Arithmetic**: basic computations, fractions, decimals, and elementary number theory.
 - **Pre-algebra**: introducing algebraic thinking, including basic algebraic operations and principles.
