@@ -10,7 +10,7 @@ def format_title(input, key):
     else:
         title = input
 
-    return title.capitalize()
+    return title[0].capitalize() + title[1:]
 
 # Function to create Markdown files from Excel sheets with specific replacements
 def create_markdown_from_excel_with_replacements(excel_file):
