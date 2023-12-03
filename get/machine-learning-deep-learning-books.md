@@ -1,6 +1,6 @@
 ---
 permalink: /machine-learning/machine-learning-deep-learning-books/
-title: "Machine learning deep learning books"
+title: "Deep learning books"
 layout: single
 toc: false
 author_profile: false

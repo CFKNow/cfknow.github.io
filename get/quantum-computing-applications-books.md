@@ -1,6 +1,6 @@
 ---
 permalink: /quantum-computing/quantum-computing-applications-books/
-title: "Quantum computing applications books"
+title: "Applications books"
 layout: single
 toc: false
 author_profile: false

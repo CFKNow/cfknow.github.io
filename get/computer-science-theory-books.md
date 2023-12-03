@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-theory-books/
-title: "Computer science theory books"
+title: "Theory books"
 layout: single
 toc: false
 author_profile: false

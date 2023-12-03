@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-cloud-computing-books/
-title: "Computer science cloud computing books"
+title: "Cloud computing books"
 layout: single
 toc: false
 author_profile: false

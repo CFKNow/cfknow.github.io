@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-discrete-mathematics-books/
-title: "Mathematics discrete mathematics books"
+title: "Discrete mathematics books"
 layout: single
 toc: false
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 permalink: /machine-learning/machine-learning-fundamentals-machine-learning-books/
-title: "Machine learning fundamentals machine learning books"
+title: "Fundamentals machine learning books"
 layout: single
 toc: false
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-abstract-algebra_topology-books/
-title: "Mathematics abstract algebra and topology books"
+title: "Abstract algebra and topology books"
 layout: single
 toc: false
 author_profile: false

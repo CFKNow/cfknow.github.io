@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-mathematical-logic-books/
-title: "Mathematics mathematical logic books"
+title: "Mathematical logic books"
 layout: single
 toc: false
 author_profile: false

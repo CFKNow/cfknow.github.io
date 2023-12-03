@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-miscellaneous-books/
-title: "Computer science miscellaneous books"
+title: "Miscellaneous books"
 layout: single
 toc: false
 author_profile: false

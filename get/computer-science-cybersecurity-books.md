@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-cybersecurity-books/
-title: "Computer science cybersecurity books"
+title: "Cybersecurity books"
 layout: single
 toc: false
 author_profile: false

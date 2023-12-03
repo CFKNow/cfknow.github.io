@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-computing-systems-books/
-title: "Computer science computing systems books"
+title: "Computing systems books"
 layout: single
 toc: false
 author_profile: false

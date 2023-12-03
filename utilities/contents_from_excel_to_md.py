@@ -2,8 +2,14 @@ import pandas as pd
 import os
 
 # Function to capitalize the first letter and replace certain characters
-def format_title(title):
-    title = title.replace('-', ' ').replace('_', ' and ')
+def format_title(input, key):
+    if len(input) > len(key) + 1:
+        input = input[2 * (len(key) + 1):]
+        title = input.replace('-', ' ').replace('_', ' and ')
+
+    else:
+        title = input
+
     return title.capitalize()
 
 # Function to create Markdown files from Excel sheets with specific replacements
@@ -20,9 +26,9 @@ def create_markdown_from_excel_with_replacements(excel_file):
         first_row = sheet_data.iloc[0, 0] if not sheet_data.empty else sheet_name  # Default to sheet name if empty
 
         if not pd.isna(first_row) and isinstance(first_row, str):
-            key = first_row.split('/')[0]
-            md_filename = "./out/" + first_row.split('/', 1)[1] + ".md" if '/' in first_row else f"./out/{sheet_name}.md"
-            title = format_title(first_row.split('/', 1)[1] if '/' in first_row else sheet_name)
+            key = first_row.split('/')[0] if '/' in first_row else ''
+            md_filename = './out/' + first_row.split('/', 1)[1] + '.md' if '/' in first_row else f'./out/{sheet_name}.md'
+            title = format_title(first_row, key)
 
             with open(md_filename, 'w') as file:
                 # Write the header to the Markdown file

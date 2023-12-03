@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-real_complex-analysis-books/
-title: "Mathematics real and complex analysis books"
+title: "Real and complex analysis books"
 layout: single
 toc: false
 author_profile: false

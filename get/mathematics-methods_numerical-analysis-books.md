@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-methods_numerical-analysis-books/
-title: "Mathematics methods and numerical analysis books"
+title: "Methods and numerical analysis books"
 layout: single
 toc: false
 author_profile: false

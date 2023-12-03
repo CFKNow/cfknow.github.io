@@ -1,6 +1,6 @@
 ---
 permalink: /machine-learning/machine-learning-computer-vision-books/
-title: "Machine learning computer vision books"
+title: "Computer vision books"
 layout: single
 toc: false
 author_profile: false

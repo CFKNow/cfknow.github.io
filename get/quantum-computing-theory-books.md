@@ -1,6 +1,6 @@
 ---
 permalink: /quantum-computing/quantum-computing-theory-books/
-title: "Quantum computing theory books"
+title: "Theory books"
 layout: single
 toc: false
 author_profile: false

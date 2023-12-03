@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-algebra-books/
-title: "Mathematics algebra books"
+title: "Algebra books"
 layout: single
 toc: false
 author_profile: false

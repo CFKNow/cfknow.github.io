@@ -1,6 +1,6 @@
 ---
 permalink: /machine-learning/machine-learning-natural-language-processing-books/
-title: "Machine learning natural language processing books"
+title: "Natural language processing books"
 layout: single
 toc: false
 author_profile: false

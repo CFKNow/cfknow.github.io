@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-operations-research-books/
-title: "Mathematics operations research books"
+title: "Operations research books"
 layout: single
 toc: false
 author_profile: false

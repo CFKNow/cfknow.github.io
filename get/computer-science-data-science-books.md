@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-data-science-books/
-title: "Computer science data science books"
+title: "Data science books"
 layout: single
 toc: false
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 permalink: /mathematics/mathematics-miscellaneous-books/
-title: "Mathematics miscellaneous books"
+title: "Miscellaneous books"
 layout: single
 toc: false
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 permalink: /computer-science/computer-science-software-engineering-books/
-title: "Computer science software engineering books"
+title: "Software engineering books"
 layout: single
 toc: false
 author_profile: false

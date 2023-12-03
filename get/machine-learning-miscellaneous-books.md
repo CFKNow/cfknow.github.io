@@ -1,6 +1,6 @@
 ---
 permalink: /machine-learning/machine-learning-miscellaneous-books/
-title: "Machine learning miscellaneous books"
+title: "Miscellaneous books"
 layout: single
 toc: false
 author_profile: false
