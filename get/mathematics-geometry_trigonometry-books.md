@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 3. Can you write a review to help other learners?
+Number of "orphaned rows": 4. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -68,6 +68,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1012&context=books" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://scholarworks.gvsu.edu/books/12/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC-SA 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Geometry with an Introduction to Cosmic Topology</td>
+    <td>Book</td>
+    <td>Geometry<br>Topology</td>
+    <td>Hitchman, Michael P.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://mphitchman.github.io/geometry/GCTprint.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://mphitchman.github.io/geometry/GCTscreen.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://mphitchman.com/geometry/frontmatter.html" target="_blank" class="btn btn--primary">Web</a><br><a href="https://mphitchman.com/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

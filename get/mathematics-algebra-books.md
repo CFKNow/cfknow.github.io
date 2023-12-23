@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 3. Can you write a review to help other learners?
+Number of "orphaned rows": 11. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -58,6 +58,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
 </tr>
 <tr>
+    <td>Elementary Number Theory: Primes, Congruences, and Secrets</td>
+    <td>Book</td>
+    <td>Number theory</td>
+    <td>Stein, William</td>
+    <td>Korean</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://wstein.org/ent/ent_ko.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://wstein.org/ent/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-11-11</td>
+    <td></td>
+</tr>
+<tr>
     <td>Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares</td>
     <td>Book</td>
     <td>Linear algebra</td>
@@ -80,6 +92,90 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://web.stanford.edu/~boyd/lmibook/lmibook.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://web.stanford.edu/~boyd/lmibook/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-26</td>
     <td></td>
+</tr>
+<tr>
+    <td>A First Course in Linear Algebra</td>
+    <td>Book</td>
+    <td>Linear algebra</td>
+    <td>Beezer, Robert A. </td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="http://linear.pugetsound.edu/download/fcla-3.50-print.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="http://linear.pugetsound.edu/html/fcla.html" target="_blank" class="btn btn--primary">Web</a><br><a href="http://linear.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-09</td>
+    <td>GNU Free Documentation License</td>
+</tr>
+<tr>
+    <td>Applied Discrete Structures</td>
+    <td>Book</td>
+    <td>Combinatorics<br>Recursion theory<br>Graph theory<br>Algebraic structures</td>
+    <td>Doerr, Al<br>Levasseur, Ken</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="http://discretemath.org/ads-latex/ads.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://discretemath.org/ads/index-ads.html" target="_blank" class="btn btn--primary">Web</a><br><a href="https://discretemath.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-09</td>
+    <td>CC BY-NC-SA 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Combinatorics Through Guided Discovery</td>
+    <td>Book</td>
+    <td>Combinatorics</td>
+    <td>Bogart, Kenneth P.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://bogart.openmathbooks.org/pdf/ctgd.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://bogart.openmathbooks.org/ctgd/ctgd.html" target="_blank" class="btn btn--primary">Web</a><br><a href="https://math.dartmouth.edu/news-resources/electronic/kpbogart/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-09</td>
+    <td>GNU Free Documentation License</td>
+</tr>
+<tr>
+    <td>Linear Algebra: A Course for Physicists and Engineers</td>
+    <td>Book</td>
+    <td>Linear algebra</td>
+    <td>Mathai, Arak M.<br>Haubold, Hans J.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.degruyter.com/document/doi/10.1515/9783110562507/pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110562507/epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110562507/html" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-11</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Algorithms for Sparse Linear Systems</td>
+    <td>Book</td>
+    <td>Linear algebra<br>Numerical analysis</td>
+    <td>Scott, Jennifer<br>Tůma, Miroslav</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-25820-6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-25820-6.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-25820-6" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Linear Algebra Done Wrong</td>
+    <td>Book</td>
+    <td>Linear algebra</td>
+    <td>Treil. Sergei</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.math.brown.edu/~treil/papers/LADW/LADW_2021_01-11.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://sites.google.com/a/brown.edu/sergei-treil-homepage/linear-algebra-done-wrong" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Applied Combinatorics</td>
+    <td>Book</td>
+    <td>Combinatorics</td>
+    <td>Keller, Mitchel T.<br>Trotter, William T.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.appliedcombinatorics.org/book/app-comb.html" target="_blank" class="btn btn--primary">Web</a><br><a href="https://www.appliedcombinatorics.org/appcomb/" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

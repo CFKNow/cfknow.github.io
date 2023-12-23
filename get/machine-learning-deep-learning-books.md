@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 10. Can you write a review to help other learners?
+Number of "orphaned rows": 11. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -159,6 +159,18 @@ Smola, Alexander J.</td>
     <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Roberts, Daniel A.<br>Yaida, Sho<br>Hanin, Boris</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://arxiv.org/pdf/2106.10165.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2106.10165" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

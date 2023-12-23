@@ -72,6 +72,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
                             if df.columns[j] == "URLs" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('>PDF', ' class="btn btn--primary">PDF')
                                 cell_value = cell_value.replace('>EPUB', ' class="btn btn--primary">EPUB')
+                                cell_value = cell_value.replace('>Sources', ' class="btn btn--primary">Sources')
                                 cell_value = cell_value.replace('>Web', ' class="btn btn--primary">Web')
                                 cell_value = cell_value.replace('>Videos', ' class="btn btn--primary">Videos')
                                 cell_value = cell_value.replace('>Res</a>', ' class="btn btn--primary">Res</a>')
@@ -79,6 +80,7 @@ def create_markdown_from_excel_with_replacements(excel_file):
                                 cell_value = cell_value.replace('>LATEX</a>', ' class="btn btn--primary">LATEX</a>')
                                 cell_value = cell_value.replace('>Code</a>', ' class="btn btn--primary">Code</a>')
                                 cell_value = cell_value.replace('>Site</a>', ' class="btn btn--info">Site</a>')
+
                             elif df.columns[j] == "Reviews" and isinstance(cell_value, str):
                                 cell_value = cell_value.replace('<a ', '<a class="btn btn--success" ')
 
@@ -89,12 +91,14 @@ def create_markdown_from_excel_with_replacements(excel_file):
                     for _ in df.columns:
                         file.write("    <td></td>\n")
                     file.write("</tr>\n</tfoot>\n")
+
                 else:
                     # Handle case when there's no table
                     file.write("No content available")
 
     return rows_count_dict
 
-# Example usage
-row_counts = create_markdown_from_excel_with_replacements('cfk.xlsx')
-print(row_counts)
+
+rows_count_dict = create_markdown_from_excel_with_replacements('cfk.xlsx')
+print(rows_count_dict)
+print(sum(rows_count_dict.values()))

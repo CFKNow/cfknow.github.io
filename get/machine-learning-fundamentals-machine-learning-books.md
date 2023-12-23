@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 23. Can you write a review to help other learners?
+Number of "orphaned rows": 25. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -320,6 +320,30 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/" target = "_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
+</tr>
+<tr>
+    <td>Introduction to Online Convex Optimization</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Hazan, Elad</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://arxiv.org/pdf/1909.05207.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://sites.google.com/view/intro-oco/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-16</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Hyperparameter Tuning for Machine and Deep Learning with R</td>
+    <td>Book</td>
+    <td>Algorithms<br>Theory</td>
+    <td>Bartz, Eva<br>Bartz-Beielstein, Thomas<br>Zaefferer, Martin<br>Mersmann, Olaf</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://link.springer.com/content/pdf/10.1007/978-981-19-5170-1.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://link.springer.com/download/epub/10.1007/978-981-19-5170-1.epub" target = "_blank"  class="btn btn--primary">EPUB</a><br><a href = "https://link.springer.com/book/10.1007/978-981-19-5170-1" target = "_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-16</td>
+    <td>CC BY 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 3. Can you write a review to help other learners?
+Number of "orphaned rows": 6. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -67,6 +67,42 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
     <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank" class="btn btn--info">Site</a></td>
     <td>2023-11-25</td>
+    <td>CC BY-NC-SA 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Topics in Complex Analysis</td>
+    <td>Book</td>
+    <td>Complex analysis</td>
+    <td>Romik, Dan</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/html" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-09</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Real Harmonic Analysis</td>
+    <td>Book</td>
+    <td>Real Analysis<br>Partial differential equations</td>
+    <td>Auscher, Pascal<br>Bandara, Lashi</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://press-files.anu.edu.au/downloads/press/n1666/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://press.anu.edu.au/publications/real-harmonic-analysis" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>A First Course in Complex Analysis</td>
+    <td>Book</td>
+    <td>Complex analysis</td>
+    <td>Beck, Matthias<br>Marchesi, Gerald<br>Pixton, Dennis<br>Sabalka, Lucas</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://matthbeck.github.io/papers/complexorth.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://matthbeck.github.io/papers/complex.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://matthbeck.github.io/complex.html" target="_blank" class="btn btn--info">Site</a></td>
+    <td>2023-12-22</td>
     <td></td>
 </tr>
 <tfoot>
