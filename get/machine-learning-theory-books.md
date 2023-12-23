@@ -8,6 +8,8 @@ classes: wide
 share: true
 sidebar:
   nav: machine-learning
+tags:
+ - "machine learning test"
 ---
 
 <div class="table_cols_toggles">
