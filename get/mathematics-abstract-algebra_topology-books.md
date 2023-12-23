@@ -41,7 +41,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://www.topologywithouttears.net/topbook2023.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.topologywithouttears.net/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://www.topologywithouttears.net/topbook2023.pdf" target="_blank">PDF</a><br><a href="https://www.topologywithouttears.net/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -53,7 +53,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank" class="btn btn--primary">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://abstract.ups.edu/aata/aata.html" target="_blank">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License</td>
 </tr>
@@ -65,7 +65,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Spanish</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank" class="btn btn--primary">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="http://abstract.pugetsound.edu/aata-es/" target="_blank">Web</a><br><a href="http://abstract.pugetsound.edu/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>GNU Free Documentation License</td>
 </tr>
@@ -77,7 +77,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/book.2.6.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/download.htm" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/book.2.6.pdf" target="_blank">PDF</a><br><a href="https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/download.htm" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>Personal use</td>
 </tr>
@@ -89,7 +89,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.math.miami.edu/~ec/book/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.math.miami.edu/~ec/book/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.math.miami.edu/~ec/book/book.pdf" target="_blank">PDF</a><br><a href="https://www.math.miami.edu/~ec/book/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -101,7 +101,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1030&context=books" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://scholarworks.gvsu.edu/books/30/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1030&context=books" target="_blank">PDF</a><br><a href="https://scholarworks.gvsu.edu/books/30/" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC-SA 3.0 DEED</td>
 </tr>
@@ -113,7 +113,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-56694-4.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-030-56694-4.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-030-56694-4" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-030-56694-4.pdf" target="_blank">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-030-56694-4.epub" target="_blank">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-030-56694-4" target="_blank">Site</a></td>
     <td>2023-12-09</td>
     <td>CC BY-NC 4.0 DEED</td>
 </tr>
@@ -125,7 +125,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://radbouduniversitypress.nl/site/books/10.54195/IPVU4488/download/9253/" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://radbouduniversitypress.nl/site/books/m/10.54195/IPVU4488/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://radbouduniversitypress.nl/site/books/10.54195/IPVU4488/download/9253/" target="_blank">PDF</a><br><a href="https://radbouduniversitypress.nl/site/books/m/10.54195/IPVU4488/" target="_blank">Site</a></td>
     <td>2023-12-09</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>

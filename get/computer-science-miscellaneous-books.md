@@ -10,7 +10,7 @@ sidebar:
   nav: computer-science
 ---
 
-Number of "orphaned rows": 1. Can you write a review to help other learners?
+Number of "orphaned rows": 2. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -41,9 +41,21 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://readiab.org/introduction.html" target="_blank" class="btn btn--primary">Web</a></td>
+    <td><a href="https://readiab.org/introduction.html" target="_blank">Web</a></td>
     <td>2023-12-02</td>
     <td></td>
+</tr>
+<tr>
+    <td>Design Methods</td>
+    <td>Book</td>
+    <td>Software design</td>
+    <td>Ko, Amy J.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://faculty.washington.edu/ajko/books/design-methods/" target="_blank">Web</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-ND 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

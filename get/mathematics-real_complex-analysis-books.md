@@ -36,24 +36,24 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Measure, Integration & Real Analysis</td>
     <td>Book</td>
-    <td>Measure<br>Integration</td>
+    <td>Measure theory<br>Integration theory</td>
     <td>Axler, Sheldon</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://measure.axler.net/MIRA.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://measure.axler.net/" target="_blank" class="btn btn--info">Site</a><br><a href="https://doi.org/10.1007/978-3-030-33143-6" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://measure.axler.net/MIRA.pdf" target="_blank">PDF</a><br><a href="https://measure.axler.net/" target="_blank">Site</a><br><a href="https://doi.org/10.1007/978-3-030-33143-6" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC 4.0 DEED</td>
 </tr>
 <tr>
     <td>An introduction to measure theory</td>
     <td>Book</td>
-    <td>Measure</td>
+    <td>Measure theory</td>
     <td>Tao, Terence</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://terrytao.files.wordpress.com/2012/12/gsm-126-tao5-measure-book.pdf" target="_blank">PDF</a><br><a href="https://terrytao.wordpress.com/books/an-introduction-to-measure-theory/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -65,7 +65,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank" class="btn btn--primary">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?article=1006&context=mono" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=0&article=1006&context=mono&type=additional" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=1&article=1006&context=mono&type=additional" target="_blank">PDF</a><br><a href="https://digitalcommons.trinity.edu/cgi/viewcontent.cgi?filename=2&article=1006&context=mono&type=additional" target="_blank">LATEX</a><br><a href="https://digitalcommons.trinity.edu/mono/7/" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-NC-SA 3.0 DEED</td>
 </tr>
@@ -77,19 +77,19 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/html" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/pdf" target="_blank">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/epub" target="_blank">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.1515/9783110796810/html" target="_blank">Site</a></td>
     <td>2023-12-09</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
     <td>Real Harmonic Analysis</td>
     <td>Book</td>
-    <td>Real Analysis<br>Partial differential equations</td>
+    <td>Partial differential equations<br>Real Analysis</td>
     <td>Auscher, Pascal<br>Bandara, Lashi</td>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://press-files.anu.edu.au/downloads/press/n1666/pdf/book.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://press.anu.edu.au/publications/real-harmonic-analysis" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://press-files.anu.edu.au/downloads/press/n1666/pdf/book.pdf" target="_blank">PDF</a><br><a href="https://press.anu.edu.au/publications/real-harmonic-analysis" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -101,7 +101,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://matthbeck.github.io/papers/complexorth.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://matthbeck.github.io/papers/complex.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://matthbeck.github.io/complex.html" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://matthbeck.github.io/papers/complexorth.pdf" target="_blank">PDF</a><br><a href="https://matthbeck.github.io/papers/complex.pdf" target="_blank">PDF</a><br><a href="https://matthbeck.github.io/complex.html" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td></td>
 </tr>

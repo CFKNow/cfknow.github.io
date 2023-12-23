@@ -36,139 +36,139 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Goodfellow, Ian<br>Bengio, Yoshua<br>Courville, Aaron</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.deeplearningbook.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.deeplearningbook.org/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
 <tr>
     <td>Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Jentzen, Arnulf<br>Kuckuck, Benno<br>Wurstemberger, Philippe von</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://arxiv.org/pdf/2310.20360.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://github.com/introdeeplearning/book" target="_blank" class="btn btn--primary">Code</a></td>
+    <td><a href="https://arxiv.org/pdf/2310.20360.pdf" target="_blank">PDF</a><br><a href="https://github.com/introdeeplearning/book" target="_blank">Code</a></td>
     <td>2023-11-25</td>
     <td></td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Chinese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://zh.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://zh.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Portuguese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://pt.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://pt.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Turkish</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://tr.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://tr.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Vietnamese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://d2l.aivivn.com/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://d2l.aivivn.com/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Korean</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://ko.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://ko.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Dive into Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Zhang, Aston<br>Lipton, Zachary C.<br>Li, Mu<br>
 Smola, Alexander J.</td>
     <td>Japanese</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://ja.d2l.ai/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://ja.d2l.ai/" target = "_blank">Site</a></td>
     <td>2023-11-25</td>
     <td>CC BY-SA 4.0 DEED</td>
 </tr>
 <tr>
     <td>Understanding Deep Learning</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Prince, Simon J.D.</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf" target = "_blank" >PDF</a><br><a href = "https://udlbook.github.io/udlbook/" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
     <td>The Principles of Deep Learning Theory: An Effective Theory Approach to Understanding Neural Networks</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Deep learning theory</td>
     <td>Roberts, Daniel A.<br>Yaida, Sho<br>Hanin, Boris</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://arxiv.org/pdf/2106.10165.pdf" target = "_blank"  class="btn btn--primary">PDF</a><br><a href = "https://arxiv.org/abs/2106.10165" target = "_blank" class="btn btn--info">Site</a></td>
+    <td><a href = "https://arxiv.org/pdf/2106.10165.pdf" target = "_blank" >PDF</a><br><a href = "https://arxiv.org/abs/2106.10165" target = "_blank">Site</a></td>
     <td>2023-12-22</td>
     <td></td>
 </tr>

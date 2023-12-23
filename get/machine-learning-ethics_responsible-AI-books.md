@@ -36,12 +36,12 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Fairness and Machine Learning: Limitations and Opportunities</td>
     <td>Book</td>
-    <td>Algorithms<br>Theory</td>
+    <td>Algorithms<br>Machine learning theory<br>Responsible AI </td>
     <td>Barocas, Solon<br>Hardt, Moritz<br>Narayanan, Arvind</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://fairmlbook.org/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://fairmlbook.org/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>

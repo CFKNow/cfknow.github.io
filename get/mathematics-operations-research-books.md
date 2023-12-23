@@ -41,7 +41,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.nicolasboumal.net/book/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf" target="_blank">PDF</a><br><a href="https://www.nicolasboumal.net/book/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td></td>
 </tr>
@@ -53,7 +53,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href="https://large-scale-book.mathopt.com/LSCOMO.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://large-scale-book.mathopt.com/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://large-scale-book.mathopt.com/LSCOMO.pdf" target="_blank">PDF</a><br><a href="https://large-scale-book.mathopt.com/" target="_blank">Site</a></td>
     <td>2023-11-20</td>
     <td></td>
 </tr>
@@ -65,7 +65,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://stanford.edu/~boyd/cvxbook/" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf" target="_blank">PDF</a><br><a href="https://stanford.edu/~boyd/cvxbook/" target="_blank">Site</a></td>
     <td>2023-11-25</td>
     <td></td>
 </tr>
@@ -77,7 +77,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-13714-3.pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-13714-3.epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-13714-3" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://link.springer.com/content/pdf/10.1007/978-3-031-13714-3.pdf" target="_blank">PDF</a><br><a href="https://link.springer.com/download/epub/10.1007/978-3-031-13714-3.epub" target="_blank">EPUB</a><br><a href="https://link.springer.com/book/10.1007/978-3-031-13714-3" target="_blank">Site</a></td>
     <td>2023-12-09</td>
     <td>CC BY 4.0 DEED</td>
 </tr>
@@ -89,7 +89,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/pdf" target="_blank" class="btn btn--primary">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/epub" target="_blank" class="btn btn--primary">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/html" target="_blank" class="btn btn--info">Site</a></td>
+    <td><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/pdf" target="_blank">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/epub" target="_blank">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/html" target="_blank">Site</a></td>
     <td>2023-12-16</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
