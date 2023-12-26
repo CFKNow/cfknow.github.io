@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 8. Can you write a review to help other learners?
+Number of "orphaned rows": 12. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -128,6 +128,54 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href = "https://allendowney.github.io/ThinkBayes2/" target = "_blank">Web</a><br><a href = "https://github.com/AllenDowney/ThinkBayes2" target = "_blank">Sources</a></td>
     <td>2023-12-22</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Probability on Trees and Networks</td>
+    <td>Book</td>
+    <td>Probability</td>
+    <td>Lyons, Russell<br>Peres, Yuval</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://rdlyons.pages.iu.edu/prbtree/book_pb.pdf" target = "_blank">Web</a><br><a href = "https://rdlyons.pages.iu.edu/prbtree/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Planar Maps, Random Walks and Circle Packing</td>
+    <td>Book</td>
+    <td>Probability<br>Statistics</td>
+    <td>Nachmias, Asaf</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://link.springer.com/content/pdf/10.1007/978-3-030-27968-4.pdf" target = "_blank">PDF</a><br><a href = "https://link.springer.com/download/epub/10.1007/978-3-030-27968-4.epub" target = "_blank">EPUB</a><br><a href = "https://link.springer.com/book/10.1007/978-3-030-27968-4" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>High dimensional probability. An introduction with applications in Data Science</td>
+    <td>Book</td>
+    <td>Probability<br>Statistics</td>
+    <td>Vershynin, Roman</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf" target = "_blank">PDF</a><br><a href = "https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Algorithmic High-Dimensional Robust Statistics</td>
+    <td>Book</td>
+    <td>Algorithms<br>Probability</td>
+    <td>Diakonikolas,Ilias<br>Kane, Daniel M.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "http://www.iliasdiakonikolas.org/ars-book.pdf" target = "_blank">PDF</a><br><a href = "https://sites.google.com/view/ars-book/home" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>Personal use</td>
 </tr>
 <tfoot>
 <tr>

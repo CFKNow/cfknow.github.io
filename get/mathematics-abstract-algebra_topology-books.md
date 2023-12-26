@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 8. Can you write a review to help other learners?
+Number of "orphaned rows": 14. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -128,6 +128,78 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://radbouduniversitypress.nl/site/books/10.54195/IPVU4488/download/9253/" target="_blank">PDF</a><br><a href="https://radbouduniversitypress.nl/site/books/m/10.54195/IPVU4488/" target="_blank">Site</a></td>
     <td>2023-12-09</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Algebraic Topology</td>
+    <td>Book</td>
+    <td>Topology</td>
+    <td>Hatcher, Allen</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://pi.math.cornell.edu/~hatcher/AT/AT.pdf" target="_blank">PDF</a><br><a href="https://pi.math.cornell.edu/~hatcher/AT/ATpage.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>Personal use</td>
+</tr>
+<tr>
+    <td>Vector Bundles & K-Theory</td>
+    <td>Book</td>
+    <td>Topology</td>
+    <td>Hatcher, Allen</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://pi.math.cornell.edu/~hatcher/VBKT/VB.pdf" target="_blank">PDF</a><br><a href="https://pi.math.cornell.edu/~hatcher/VBKT/VBpage.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>Personal use</td>
+</tr>
+<tr>
+    <td>Topology of Numbers</td>
+    <td>Book</td>
+    <td>Number theory</td>
+    <td>Hatcher, Allen</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://pi.math.cornell.edu/~hatcher/TN/TNbook.pdf" target="_blank">PDF</a><br><a href="https://pi.math.cornell.edu/~hatcher/TN/TNpage.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>Personal use</td>
+</tr>
+<tr>
+    <td>Topology: A Categorical Approach</td>
+    <td>Book</td>
+    <td>Category theory<br>Topology</td>
+    <td>Bradley, Tai-Danae<br>Bryson, Tyler<br>Terilla, John</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://topology.mitpress.mit.edu/" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Seven Sketches in Compositionality: An Invitation to Applied Category Theory</td>
+    <td>Book</td>
+    <td>Category theory</td>
+    <td>Fong, Brendan<br>Spivak, David I.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Seven_Sketches_in_Compositionality%3A_An_Invitation_to_Applied_Category_Theory_(Fong_and_Spivak)" target="_blank">Web</a></td>
+    <td>2023-11-25</td>
+    <td>CC BY-NC-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Basic Category Theory</td>
+    <td>Book</td>
+    <td>Category theory</td>
+    <td>Leinster, Tom</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://arxiv.org/pdf/1612.09375.pdf" target="_blank">PDF</a><br><a href="https://arxiv.org/abs/1612.09375" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

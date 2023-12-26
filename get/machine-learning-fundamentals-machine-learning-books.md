@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 27. Can you write a review to help other learners?
+Number of "orphaned rows": 31. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -113,7 +113,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Grad</td>
     <td></td>
-    <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank" >PDF</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank">Site</a></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf" target = "_blank" >PDF</a><br><a href = "https://direct.mit.edu/books/book-media/5342/pdfviewer/2091763" target = "_blank" >Web</a><br><a href = "https://doi.org/10.7551/mitpress/8291.001.0001" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -149,7 +149,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
-    <td><a href = "https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf" >PDF</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5590/Distributional-Reinforcement-Learning" target = "_blank">Site</a></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf" >PDF</a><br><a href = "https://direct.mit.edu/books/book-media/5590/epubviewer/2111076" >Web</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5590/Distributional-Reinforcement-Learning" target = "_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
@@ -366,6 +366,54 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://web.mit.edu/dimitrib/www/RLCOURSECOMPLETE.pdf" target = "_blank" >PDF</a><br><a href = "https://web.mit.edu/dimitrib/www/RLbook.html" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>The Shallow and the Deep: A biased introduction to neural networks and old school machine learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory</td>
+    <td>Biehl, Michael</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://books.ugp.rug.nl/index.php/ugp/catalog/view/130/134/997" target = "_blank" >PDF</a><br><a href = "https://books.ugp.rug.nl/index.php/ugp/catalog/book/130" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Artificial Intelligence: Foundations of Computational Agents</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory</td>
+    <td>Poole, David L.<br>Mackworth, Alan K.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://artint.info/3e/html/ArtInt3e.html" target = "_blank" >Web</a><br><a href = "https://artint.info/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Machine Learning - A First Course for Engineers and Scientists</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory</td>
+    <td>Lindholm, Andreas<br>Wahlström, Niklas<br>Lindsten, Fredrik<br>Schön, Thomas B.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://smlbook.org/book/sml-book-draft-latest.pdf" target = "_blank" >PDF</a><br><a href = "https://smlbook.org/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Graph Representation Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory</td>
+    <td>Hamilton, William L.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf" target = "_blank" >PDF</a></td>
     <td>2023-12-22</td>
     <td></td>
 </tr>

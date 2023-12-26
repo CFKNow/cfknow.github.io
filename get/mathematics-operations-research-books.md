@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 5. Can you write a review to help other learners?
+Number of "orphaned rows": 7. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -92,6 +92,30 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/pdf" target="_blank">PDF</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/epub" target="_blank">EPUB</a><br><a href="https://www.degruyter.com/document/doi/10.2478/9783110426045/html" target="_blank">Site</a></td>
     <td>2023-12-16</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Algorithms for Decision Making</td>
+    <td>Book</td>
+    <td>Applied math<br>Optimization</td>
+    <td>Kochenderfer, Mykel J.<br> Wheeler, Tim A.<br>Wray, Kyle H.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://algorithmsbook.com/files/dm.pdf" target="_blank">PDF</a><br><a href="https://github.com/algorithmsbooks/decisionmaking-ancillaries" target="_blank">Res</a><br><a href="https://algorithmsbook.com/" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Optimization for Modern Data Analysis</td>
+    <td>Book</td>
+    <td>Applied math<br>Optimization</td>
+    <td>Wright, Stephen J.<br>Recht, Benjamin</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://people.eecs.berkeley.edu/~brecht/opt4ml_book/" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

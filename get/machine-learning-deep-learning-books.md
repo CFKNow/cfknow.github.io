@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 11. Can you write a review to help other learners?
+Number of "orphaned rows": 12. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -169,6 +169,18 @@ Smola, Alexander J.</td>
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://arxiv.org/pdf/2106.10165.pdf" target = "_blank" >PDF</a><br><a href = "https://arxiv.org/abs/2106.10165" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>The Little Book of Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Deep learning theory</td>
+    <td>Fleuret, François</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://fleuret.org/public/lbdl.pdf" target = "_blank" >PDF</a><br><a href = "https://fleuret.org/francois/lbdl.html" target = "_blank">Site</a></td>
     <td>2023-12-22</td>
     <td></td>
 </tr>

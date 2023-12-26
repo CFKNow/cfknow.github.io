@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 14. Can you write a review to help other learners?
+Number of "orphaned rows": 16. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -200,6 +200,30 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://knightscholar.geneseo.edu/cgi/viewcontent.cgi?article=1031&context=oer-ost" target="_blank">PDF</a><br><a href="https://milneopentextbooks.org/differential-calculus-from-practice-to-theory/" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>CC BY-NC-SA 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Foundations of Infinitesimal Calculus</td>
+    <td>Book</td>
+    <td>Calculus</td>
+    <td>Keisler, Howard J.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://people.math.wisc.edu/~hkeisler/foundations.pdf" target="_blank">PDF</a><br><a href="https://people.math.wisc.edu/~hkeisler/foundations.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-SA 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Elementary Calculus: An Infinitesimal Approach</td>
+    <td>Book</td>
+    <td>Calculus</td>
+    <td>Keisler, Howard J.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://people.math.wisc.edu/~hkeisler/keislercalc-12-14-22.pdf" target="_blank">PDF</a><br><a href="https://people.math.wisc.edu/~hkeisler/calc.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-SA 3.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 3. Can you write a review to help other learners?
+Number of "orphaned rows": 5. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -63,10 +63,34 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Essay on AI</td>
     <td>Kim, Hyeongjoo<br>Schönecker, Dieter</td>
     <td>English</td>
-    <td>Prac</td>
+    <td>Undergrad</td>
     <td></td>
     <td><a href = "https://www.degruyter.com/document/doi/10.1515/9783110706611/pdf" >PDF</a><br><a href = "https://www.degruyter.com/document/doi/10.1515/9783110706611/epub" >EPUB</a><br><a href = "https://www.degruyter.com/document/doi/10.1515/9783110706611/html" target = "_blank">Site</a></td>
     <td>2023-12-11</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Person, Thing, Robot: A Moral and Legal Ontology for the 21st Century and Beyond</td>
+    <td>Book</td>
+    <td>Essay on AI</td>
+    <td>Gunkel, David J.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2156679/book_9780262375221.pdf" >PDF</a><br><a href = "https://direct.mit.edu/books/book-media/5641/epubviewer/2156680" >Web</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5641/Person-Thing-RobotA-Moral-and-Legal-Ontology-for" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Gradient Expectations: Structure, Origins, and Synthesis of Predictive Neural Networks</td>
+    <td>Book</td>
+    <td>Essay on AI</td>
+    <td>Downing, Keith L.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://direct.mit.edu/books/book-pdf/2145839/book_9780262374675.pdf" >PDF</a><br><a href = "https://direct.mit.edu/books/book-media/5608/epubviewer/2145840" >Web</a><br><a href = "https://direct.mit.edu/books/oa-monograph/5608/Gradient-ExpectationsStructure-Origins-and" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tfoot>

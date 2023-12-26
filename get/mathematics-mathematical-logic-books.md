@@ -130,18 +130,6 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>CC BY 4.0 DEED</td>
 </tr>
 <tr>
-    <td>Seven Sketches in Compositionality: An Invitation to Applied Category Theory</td>
-    <td>Book</td>
-    <td>Category theory</td>
-    <td>Fong, Brendan<br>Spivak, David I.</td>
-    <td>English</td>
-    <td>Undergrad</td>
-    <td></td>
-    <td><a href="https://math.libretexts.org/Bookshelves/Applied_Mathematics/Seven_Sketches_in_Compositionality%3A_An_Invitation_to_Applied_Category_Theory_(Fong_and_Spivak)" target="_blank">Web</a></td>
-    <td>2023-11-25</td>
-    <td>CC BY-NC-SA 4.0 DEED</td>
-</tr>
-<tr>
     <td>Book of Proof</td>
     <td>Book</td>
     <td>Proof theory</td>
@@ -188,6 +176,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://github.com/osj1961/giam/blob/master/GIAM.pdf?raw=true" target="_blank">PDF</a><br><a href="https://www.youtube.com/channel/UCHyJSIROOe3Bp9Mj3vVESVQ/featured" target="_blank">Videos</a><br><a href="https://github.com/osj1961/giam" target="_blank">Sources</a><br><a href="https://osj1961.github.io/giam/" target="_blank">Site</a><br><a href="https://scholarworks.gvsu.edu/books/24/" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>GNU Free Documentation License</td>
+</tr>
+<tr>
+    <td>Actual Causality</td>
+    <td>Book</td>
+    <td>Causality theory</td>
+    <td>Halpern, Joseph Y.</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://direct.mit.edu/books/book-pdf/2090747/book_9780262336611.pdf" target="_blank">PDF</a><br><a href="https://direct.mit.edu/books/book-media/3451/pdfviewer/2090747" target="_blank">Web</a><br><a href="https://direct.mit.edu/books/oa-monograph/3451/Actual-Causality" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

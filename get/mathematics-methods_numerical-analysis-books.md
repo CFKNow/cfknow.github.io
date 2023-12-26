@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 9. Can you write a review to help other learners?
+Number of "orphaned rows": 14. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -152,6 +152,66 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href = "https://shoup.net/ntb/ntb-v2.pdf" target = "_blank">PDF</a><br><a href = "https://shoup.net/ntb/" target = "_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>CC BY-NC-ND 3.0 DEED</td>
+</tr>
+<tr>
+    <td>Modern Cryptography Volume 1: A Classical Introduction to Informational and Mathematical Principle</td>
+    <td>Book</td>
+    <td>Applied math<br>Cryptography</td>
+    <td>Zheng, Zhiyong</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://link.springer.com/content/pdf/10.1007/978-981-19-0920-7.pdf" target = "_blank">PDF</a><br><a href = "https://link.springer.com/download/epub/10.1007/978-981-19-0920-7.epub" target = "_blank">EPUB</a><br><a href = "https://link.springer.com/book/10.1007/978-981-19-0920-7" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Modern Cryptography Volume 2: A Classical Introduction to Informational and Mathematical Principle</td>
+    <td>Book</td>
+    <td>Applied math<br>Cryptography</td>
+    <td>Zheng, Zhiyong<br>Tian, Kun<br>Liu, Fengxia</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://link.springer.com/content/pdf/10.1007/978-981-19-7644-5.pdf" target = "_blank">PDF</a><br><a href = "https://link.springer.com/download/epub/10.1007/978-981-19-7644-5.epub" target = "_blank">EPUB</a><br><a href = "https://link.springer.com/book/10.1007/978-981-19-7644-5" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Introduction to Numerical Methods for Variational Problems</td>
+    <td>Book</td>
+    <td>Applied math<br>Finite element method<br>Numerical analysis</td>
+    <td>Langtangen, Hans P.<br>Mardal, Kent-Andre</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://hplgit.github.io/fem-book/doc/pub/book/pdf/fem-book-4screen.pdf" target = "_blank">PDF</a><br><a href = "https://hplgit.github.io/fem-book/doc/web/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Finite Difference Computing with PDEs: A Modern Software Approach</td>
+    <td>Book</td>
+    <td>Applied math<br>Finite element method<br>Numerical analysis</td>
+    <td>Langtangen, Hans P.<br>Linge, Svein</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://link.springer.com/content/pdf/10.1007/978-3-319-55456-3.pdf" target = "_blank">PDF</a><br><a href = "https://link.springer.com/download/epub/10.1007/978-3-319-55456-3.epub" target = "_blank">EPUB</a><br><a href = "https://link.springer.com/book/10.1007/978-3-319-55456-3" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications</td>
+    <td>Book</td>
+    <td>Applied math<br>Data science<br>Optimization</td>
+    <td>Wright, John<br>Ma, Yi</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://book-wright-ma.github.io/Book-WM-20210422.pdf" target = "_blank">PDF</a><br><a href = "https://book-wright-ma.github.io/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>Personal use</td>
 </tr>
 <tfoot>
 <tr>

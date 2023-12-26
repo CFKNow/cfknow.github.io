@@ -10,7 +10,7 @@ sidebar:
   nav: computer-science
 ---
 
-Number of "orphaned rows": 11. Can you write a review to help other learners?
+Number of "orphaned rows": 12. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -164,6 +164,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://doc.rust-lang.org/book/title-page.html" target="_blank">Web</a></td>
     <td>2023-12-02</td>
     <td></td>
+</tr>
+<tr>
+    <td>Algorithms</td>
+    <td>Book</td>
+    <td>Algorithms</td>
+    <td>Erickson, Jeff</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf" target="_blank">PDF</a><br><a href="https://jeffe.cs.illinois.edu/teaching/algorithms/" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>

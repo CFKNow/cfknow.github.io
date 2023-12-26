@@ -10,7 +10,7 @@ sidebar:
   nav: computer-science
 ---
 
-Number of "orphaned rows": 11. Can you write a review to help other learners?
+Number of "orphaned rows": 14. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -36,7 +36,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Computational Complexity: A Modern Approach</td>
     <td>Book</td>
-    <td>Computational complexity</td>
+    <td>Computation theory</td>
     <td>Arora,Sanjeev<br>Barak,Boaz</td>
     <td>English</td>
     <td>Grad</td>
@@ -164,6 +164,42 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://faculty.washington.edu/ajko/books/foundations-of-information/" target="_blank">Web</a></td>
     <td>2023-12-22</td>
     <td>CC BY-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Database Design</td>
+    <td>Book</td>
+    <td>Database theory</td>
+    <td>Watt, Adrienne</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://opentextbc.ca/dbdesign01/open/download?type=pdf" target="_blank">PDF</a><br><a href="https://opentextbc.ca/dbdesign01/open/download?type=epub" target="_blank">EPUB</a><br><a href="https://opentextbc.ca/dbdesign01/front-matter/preface/" target="_blank">Web</a><br><a href="https://opentextbc.ca/dbdesign01/" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Computability and Complexity: From a Programming Perspective</td>
+    <td>Book</td>
+    <td>Computation theory</td>
+    <td>Jones, Neil D.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="http://hjemmesider.diku.dk/~neil/comp2book2007/book-whole.pdf" target="_blank">PDF</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Partial Evaluation and Automatic Program Generation</td>
+    <td>Book</td>
+    <td>Program transformation techniques</td>
+    <td>Jones, Neil D.<br>Gomard, Carsten<br>Sestoft, Peter</td>
+    <td>English</td>
+    <td>Grad</td>
+    <td></td>
+    <td><a href="https://www.itu.dk/~sestoft/pebook/jonesgomardsestoft-a4.pdf" target="_blank">PDF</a><br><a href="https://www.itu.dk/~sestoft/pebook/pebook.html" target="_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>
