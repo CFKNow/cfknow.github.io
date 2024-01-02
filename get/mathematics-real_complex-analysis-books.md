@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 6. Can you write a review to help other learners?
+Number of "orphaned rows": 8. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -103,6 +103,30 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
     <td><a href="https://matthbeck.github.io/papers/complexorth.pdf" target="_blank">PDF</a><br><a href="https://matthbeck.github.io/papers/complex.pdf" target="_blank">PDF</a><br><a href="https://matthbeck.github.io/complex.html" target="_blank">Site</a></td>
     <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>An Introduction to Real Analysis</td>
+    <td>Book</td>
+    <td>Real Analysis</td>
+    <td>Hunter, John K. </td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="http://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf" target="_blank">PDF</a><br><a href="https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html" target="_blank">Site</a></td>
+    <td>2024-01-02</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Applied Analysis</td>
+    <td>Book</td>
+    <td>Differential equations<br>Real Analysis</td>
+    <td>Hunter, John K.<br>Nachtergaele, Bruno</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.math.ucdavis.edu/~hunter/book/pdfbook.html" target="_blank">Site</a></td>
+    <td>2024-01-02</td>
     <td></td>
 </tr>
 <tfoot>

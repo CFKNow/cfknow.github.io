@@ -10,7 +10,7 @@ sidebar:
   nav: computer-science
 ---
 
-Number of "orphaned rows": 12. Can you write a review to help other learners?
+Number of "orphaned rows": 13. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -48,7 +48,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures: Java Edition</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>Java</td>
     <td>Morin, Pat</td>
     <td>English</td>
     <td>Pract</td>
@@ -60,7 +60,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures: C++ Edition</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>C++</td>
     <td>Morin, Pat</td>
     <td>English</td>
     <td>Pract</td>
@@ -72,7 +72,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures (Za programski jezik Java)</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>Java</td>
     <td>Morin, Pat</td>
     <td>Slovenian</td>
     <td>Pract</td>
@@ -84,7 +84,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures (Za programski jezik C++)</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>C++</td>
     <td>Morin, Pat</td>
     <td>Slovenian</td>
     <td>Pract</td>
@@ -120,7 +120,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures: Java Edition (Estruturas de dados abertas: Uma introduc¸ao em Java)</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>Java</td>
     <td>Morin, Pat</td>
     <td>Portuguese</td>
     <td>Pract</td>
@@ -132,7 +132,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
 <tr>
     <td>Open Data Structures: Java Edition (Estruturas de Dados Abertas: Uma introduçao em C++)</td>
     <td>Book</td>
-    <td>Algorithms<br>Data structures</td>
+    <td>Algorithms<br>Data structures<br>C++</td>
     <td>Morin, Pat</td>
     <td>Portuguese</td>
     <td>Pract</td>
@@ -176,6 +176,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf" target="_blank">PDF</a><br><a href="https://jeffe.cs.illinois.edu/teaching/algorithms/" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Functional Data Structures and Algorithms</td>
+    <td>Book</td>
+    <td>Algorithms<br>Isabelle</td>
+    <td>Nipkow, Tobias<br>Blanchette, Jasmin<br>Eberl, Manuel<br>Gómez-Londoño, Alejandro<br>Lammich, Peter<br>Sternagel, Christian<br>Wimmer, Simon<br>Zhan, Bohua</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://functional-algorithms-verified.org/functional_data_structures_algorithms.pdf" target="_blank">PDF</a><br><a href="https://functional-algorithms-verified.org/" target="_blank">Site</a></td>
+    <td>2024-01-02</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

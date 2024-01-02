@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 12. Can you write a review to help other learners?
+Number of "orphaned rows": 14. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -181,6 +181,30 @@ Smola, Alexander J.</td>
     <td>Undergrad</td>
     <td></td>
     <td><a href = "https://fleuret.org/public/lbdl.pdf" target = "_blank" >PDF</a><br><a href = "https://fleuret.org/francois/lbdl.html" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>The Mathematical Engineering of Deep Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Deep learning theory</td>
+    <td>Liquet, Benoit<br>Moka, Sarat<br>Nazarathy, Yoni</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://deeplearningmath.org/" target = "_blank">Site</a></td>
+    <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Deep Learning: Foundations and Concepts</td>
+    <td>Book</td>
+    <td>Algorithms<br>Deep learning theory</td>
+    <td>Bishop, Chris<br>Bishop, Hugh</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://issuu.com/cmb321/docs/deep_learning_ebook" target = "_blank">Web</a><br><a href = "https://www.bishopbook.com/" target = "_blank">Site</a></td>
     <td>2023-12-22</td>
     <td></td>
 </tr>

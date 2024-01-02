@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 31. Can you write a review to help other learners?
+Number of "orphaned rows": 32. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -394,7 +394,7 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>CC BY-NC-ND 4.0 DEED</td>
 </tr>
 <tr>
-    <td>Machine Learning - A First Course for Engineers and Scientists</td>
+    <td>Machine Learning: A First Course for Engineers and Scientists</td>
     <td>Book</td>
     <td>Algorithms<br>Machine learning theory</td>
     <td>Lindholm, Andreas<br>Wahlström, Niklas<br>Lindsten, Fredrik<br>Schön, Thomas B.</td>
@@ -415,6 +415,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td></td>
     <td><a href = "https://www.cs.mcgill.ca/~wlh/grl_book/files/GRL_Book.pdf" target = "_blank" >PDF</a></td>
     <td>2023-12-22</td>
+    <td></td>
+</tr>
+<tr>
+    <td>Mathematical Foundations of Machine Learning</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory</td>
+    <td>Kim, Seongjai</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href = "https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf" target = "_blank" >PDF</a><br><a href = "https://youtu.be/kMf0qDtQ_PM?si=oY3GKHUIKhzWp4al" target = "_blank" >Videos</a></td>
+    <td>2024-01-02</td>
     <td></td>
 </tr>
 <tfoot>

@@ -10,7 +10,7 @@ sidebar:
   nav: mathematics
 ---
 
-Number of "orphaned rows": 13. Can you write a review to help other learners?
+Number of "orphaned rows": 14. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 1
 
@@ -193,13 +193,25 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td>Counting Rocks! An Introduction to Combinatorics</td>
     <td>Book</td>
     <td>Combinatorics</td>
-    <td> Adams, Henry<br>Emmrich, Kelly<br>Gillespie, Maria<br>Golden, Shannon<br>Pries, Rachel</td>
+    <td>Adams, Henry<br>Emmrich, Kelly<br>Gillespie, Maria<br>Golden, Shannon<br>Pries, Rachel</td>
     <td>English</td>
     <td>Undergrad</td>
     <td></td>
     <td><a href="https://www.mathematicalgemstones.com/maria/OER/CountingRocks-Nov2023.pdf" target="_blank">PDF</a><br><a href="https://www.youtube.com/playlist?list=PL5J6K3znOvOmzBUoxlk-W0N4j7L1Y9yfW" target="_blank">Videos</a><br><a href="https://www.mathematicalgemstones.com/maria/OER.php" target="_blank">Site</a></td>
     <td>2023-12-22</td>
     <td>CC BY 4.0 DEED</td>
+</tr>
+<tr>
+    <td>The Matrix Cookbook</td>
+    <td>Book</td>
+    <td>Matrix theory</td>
+    <td>Petersen, Kaare P.<br>Petersen, Michael S.</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf" target="_blank">PDF</a></td>
+    <td>2024-01-02</td>
+    <td></td>
 </tr>
 <tfoot>
 <tr>

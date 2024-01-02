@@ -10,7 +10,7 @@ sidebar:
   nav: machine-learning
 ---
 
-Number of "orphaned rows": 1. Can you write a review to help other learners?
+Number of "orphaned rows": 2. Can you write a review to help other learners?
 
 Number of rows with non-empty reviews: 0
 
@@ -44,6 +44,18 @@ Toggle column: <a class="toggle-vis btn btn--danger" data-column="3">Authors</a>
     <td><a href="https://fairmlbook.org/" target="_blank">Site</a></td>
     <td>2023-11-11</td>
     <td>CC BY-NC-ND 4.0 DEED</td>
+</tr>
+<tr>
+    <td>Interpretable Machine Learning: A Guide for Making Black Box Models Explainable</td>
+    <td>Book</td>
+    <td>Algorithms<br>Machine learning theory<br>Responsible AI </td>
+    <td>Molnar, Christoph</td>
+    <td>English</td>
+    <td>Undergrad</td>
+    <td></td>
+    <td><a href="https://christophm.github.io/interpretable-ml-book/" target="_blank">Site</a></td>
+    <td>2024-01-02</td>
+    <td>CC BY-NC-SA 4.0 DEED</td>
 </tr>
 <tfoot>
 <tr>
